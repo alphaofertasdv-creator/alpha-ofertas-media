@@ -174,7 +174,7 @@ def story3(o):
     return f"""<html><head><style>{CSS3}</style></head><body><div class="cv">
 <div class="grid"></div><div class="big">ALPHA</div>
 <div style="position:absolute;left:56px;right:56px;top:212px;display:flex;align-items:center;justify-content:space-between">
- <div style="display:flex;align-items:center;gap:18px"><img src="file://{LOGO}" style="width:80px;height:80px;border-radius:22px;box-shadow:0 10px 30px rgba(255,204,0,.25)"><div class="d" style="font-size:30px;text-transform:uppercase;letter-spacing:.02em;line-height:1">Alpha Ofertas<div style="font-family:Inter;font-weight:700;font-size:19px;letter-spacing:.2em;color:#A9A9B3;margin-top:7px">OFERTA {o['n']} DE 5</div></div></div>
+ <div style="display:flex;align-items:center;gap:18px"><img src="file://{LOGO}" style="width:80px;height:80px;border-radius:22px;box-shadow:0 10px 30px rgba(255,204,0,.25)"><div class="d" style="font-size:30px;text-transform:uppercase;letter-spacing:.02em;line-height:1">Alpha Ofertas</div></div>
  <span class="chip" style="background:#FFCC00;color:#0D0D0F;font-size:25px;padding:14px 24px;font-weight:900">{o['tag']}</span>
 </div>
 <div style="position:absolute;left:56px;right:56px;top:340px;height:660px;border-radius:48px;background:radial-gradient(520px 420px at 50% 45%,#FFFFFF,#ECECF0 70%,#DADADF);box-shadow:0 40px 90px rgba(0,0,0,.6),0 0 0 2px rgba(255,255,255,.08);overflow:hidden">
@@ -190,9 +190,9 @@ def story3(o):
  <span class="chip" style="background:rgba(32,208,122,.16);border:2px solid #20D07A;color:#3BE894;font-size:27px;padding:10px 22px">ECONOMIZE R$ {brl(eco,False)}</span></div>
  <div style="display:flex;align-items:flex-start;gap:18px;margin-top:12px"><div style="padding-top:50px;color:#A9A9B3;font-weight:800;letter-spacing:.14em;font-size:28px">POR</div><div class="price" style="font-size:168px"><span style="font-size:.36em;letter-spacing:0;margin-right:8px">R$</span>{i}<sup>,{c}</sup></div></div>
 </div>
-<div style="position:absolute;left:44px;right:44px;top:1440px;height:228px;border-radius:44px;background:linear-gradient(135deg,#FFD83A,#FFCC00 55%,#F2B800);color:#0D0D0F;padding:26px 36px;box-shadow:0 30px 70px rgba(255,204,0,.28)">
- <div style="display:flex;align-items:center;justify-content:space-between"><div class="d" style="font-size:46px;line-height:1;text-transform:uppercase">Responda com<br>OFERTA</div><div style="font-size:44px;font-weight:900;background:#0D0D0F;color:#FFCC00;width:76px;height:76px;border-radius:50%;display:flex;align-items:center;justify-content:center">💬</div></div>
- <div style="position:absolute;left:36px;right:36px;bottom:20px;height:70px;background:#0D0D0F;border-radius:22px;display:flex;align-items:center;justify-content:center;font-weight:900;letter-spacing:.08em;font-size:26px;color:#FFCC00">RECEBA O LINK DOS GRUPOS NO DIRECT</div>
+<div style="position:absolute;left:44px;right:44px;top:1442px;height:262px;border-radius:44px;background:linear-gradient(135deg,#FFD83A,#FFCC00 55%,#F2B800);color:#0D0D0F;padding:26px 36px;box-shadow:0 30px 70px rgba(255,204,0,.28)">
+ <div style="display:flex;align-items:center;justify-content:space-between"><div><div style="font-weight:800;font-size:30px;letter-spacing:.18em;text-transform:uppercase;opacity:.8">Responda este Story com</div><div class="d" style="font-size:112px;line-height:.95;text-transform:uppercase;letter-spacing:-.03em;margin-top:2px">OFERTA</div></div><div style="font-size:44px;background:#0D0D0F;width:92px;height:92px;border-radius:50%;display:flex;align-items:center;justify-content:center">💬</div></div>
+ <div style="position:absolute;left:36px;right:36px;bottom:20px;height:64px;background:#0D0D0F;border-radius:22px;display:flex;align-items:center;justify-content:center;font-weight:900;letter-spacing:.08em;font-size:26px;color:#FFCC00">RECEBA O LINK DOS GRUPOS NO DIRECT</div>
 </div>
 </div></body></html>"""
 
