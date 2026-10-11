@@ -91,3 +91,9 @@ Terminar com mensagem curta em pt-BR: o que foi agendado (WhatsApp: quantos por 
 3. 06:30 IG/FB: carrossel 19:00 + 5 Stories (09:00, 11:30, 14:00, 16:30, 20:30) via Metricool.
 4. 07:30 Verificação (Já Agendadas, Metricool) + resumo final.
 Alertas a cada ~30 min com %. Gatilho diário só é religado com aprovação do usuário.
+
+## Travas e pedidos de aprovação (OBRIGATÓRIO)
+- Se QUALQUER coisa travar e exigir clique/aceite do usuário no computador (pedido de permissão do Claude/Chrome, login, captcha, popup, extensão pedindo acesso, ferramenta bloqueada, tela inesperada), PARE de tentar em loop e envie NA HORA ao grupo AVISO CLAUDE: `⚠️ PRECISO DE VOCÊ: <o que está pedindo e onde (app/aba)>. Etapa: <nome>. Aceite/resolva e eu continuo.` Depois aguarde e tente de novo; se continuar travado após ~10 min, reenvie 1 lembrete (máx. 1 a cada 10 min). Se não conseguir enviar o alerta (Docker do WhatsApp parado), registre no resumo.
+
+## Aviso dos Stories agendados (OBRIGATÓRIO, etapa 3)
+- Depois de agendar o carrossel e os 5 Stories no Metricool, envie ao AVISO CLAUDE: `📲 Agendado hoje: Carrossel HH:MM (<produto>) · Stories: HH:MM <produto> / HH:MM <produto> / ...` com os horários e produtos REAIS lidos de getScheduledPosts (não de memória).
