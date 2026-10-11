@@ -97,3 +97,12 @@ Alertas a cada ~30 min com %. Gatilho diário só é religado com aprovação do
 
 ## Aviso dos Stories agendados (OBRIGATÓRIO, etapa 3)
 - Depois de agendar o carrossel e os 5 Stories no Metricool, envie ao AVISO CLAUDE: `📲 Agendado hoje: Carrossel HH:MM (<produto>) · Stories: HH:MM <produto> / HH:MM <produto> / ...` com os horários e produtos REAIS lidos de getScheduledPosts (não de memória).
+
+## Verificação 100% de preço/link/texto (OBRIGATÓRIA antes de qualquer envio) — aprendida em 11/10
+Em 11/10, 6 de 35 postagens agendadas estavam com preço defasado (preço muda entre a escolha e a conferência). Por isso:
+1. Etapa 2 (WhatsApp) termina com a verificação; a etapa 4 (07:30) repete. Fonte: banco `app.db` (via device_bash em `$HOME/mnt/data/app.db`, SOMENTE LEITURA, nunca escrever direto: gerou "disk I/O error"/journal). Query: schedules(status='pending') JOIN campaigns(message, link) JOIN groups.
+2. Para cada pendente: extrair "De/Por" da mensagem e abrir a página do produto (`/p/MLB…` ou `/up/MLBU…`) por NAVEGAÇÃO normal, com 3 s entre páginas (nunca fetch em rajada: disparou captcha do ML). Ler `.ui-pdp-price__second-line` (Por) e `.ui-pdp-price__original-value` (De). Comparar com a mensagem; recalcular desconto (>= 20%).
+3. Divergiu (preço ≠, desconto < 20%, produto indisponível): a Central NÃO edita texto (só data/hora ou excluir). Correção = excluir a postagem pendente errada (aba Já Agendadas → lixeira → confirmar; só pendentes) e reagendar pela Importar Lote com o preço atual (Dias sem repetir = 0 para esse reenvio; prévia deve mostrar horário/preço certos). Se desconto < 20%, não reagendar.
+4. Se aparecer captcha/“Por segurança, complete esta etapa”: NÃO tentar resolver; alerta ⚠️ PRECISO DE VOCÊ no AVISO CLAUDE e aguardar.
+5. Resultado da verificação vai no resumo (quantas conferidas, quantas corrigidas).
+6. Grupo na Importar Lote: escolher clicando na opção (digitar “Pesca” selecionou Academia).
