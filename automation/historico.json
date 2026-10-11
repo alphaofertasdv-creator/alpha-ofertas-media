@@ -1,1 +1,44 @@
-[]
+[
+ {
+  "id": "MLB63335606",
+  "data": "2026-10-11",
+  "chave": "a17",
+  "link": "https://meli.la/1PEXmMm",
+  "uso": "carrossel"
+ },
+ {
+  "id": "MLB51986596",
+  "data": "2026-10-11",
+  "chave": "sec",
+  "link": "https://meli.la/2bAqXFc",
+  "uso": "story1"
+ },
+ {
+  "id": "MLB31541424",
+  "data": "2026-10-11",
+  "chave": "tab",
+  "link": "https://meli.la/2NgE8ES",
+  "uso": "story2"
+ },
+ {
+  "id": "MLB25929487",
+  "data": "2026-10-11",
+  "chave": "cre",
+  "link": "https://meli.la/33z22zj",
+  "uso": "story3"
+ },
+ {
+  "id": "MLB27705742",
+  "data": "2026-10-11",
+  "chave": "cam",
+  "link": "https://meli.la/34dLxok",
+  "uso": "story4"
+ },
+ {
+  "id": "MLB34197272",
+  "data": "2026-10-11",
+  "chave": "pne",
+  "link": "https://meli.la/1tmR7Gu",
+  "uso": "story5"
+ }
+]
