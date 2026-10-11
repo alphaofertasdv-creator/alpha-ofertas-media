@@ -1,6 +1,6 @@
 # Alpha Ofertas — Rotina diária (executar sozinha, sem perguntar)
 
-Idioma: português do Brasil. Fuso: America/Sao_Paulo (UTC-3). A tarefa roda todo dia ~06:50 e roda ao vivo no Chrome do usuário (ferramentas `mcp__claude-in-chrome__*` ou `mcp__remote-devices__*`) e no app local da Central de Promoções (http://localhost:8501).
+Idioma: português do Brasil. Fuso: America/Sao_Paulo (UTC-3). A rotina roda em ETAPAS ENCADEADAS (ver 'Etapas' abaixo) e roda ao vivo no Chrome do usuário (ferramentas `mcp__claude-in-chrome__*` ou `mcp__remote-devices__*`) e no app local da Central de Promoções (http://localhost:8501).
 O usuário NÃO vai responder durante a execução: decida sozinho, registre o que fez e entregue um resumo final. Nunca invente preço, link, desconto ou dado. Se algo não puder ser verificado, NÃO publique aquele item.
 
 ## 0. Pré-checagem (abortar com aviso se falhar)
@@ -17,7 +17,8 @@ O usuário NÃO vai responder durante a execução: decida sozinho, registre o q
 - Em /afiliados/linkbuilder gerar o link de cada produto individualmente; ler o link no TEXTAREA. Conferir cada link: abrir o meli.la e confirmar que o 1º `/p/MLB` do perfil é o produto certo. Conferir link ↔ produto ↔ preço ↔ foto antes de usar. Registrar em `automation/historico.json` (id, data, grupo/uso).
 
 ## 3. WhatsApp (sistema local, Streamlit “Importar Lote”)
-- Meta: ofertas de 08:00 até 18:00, uma a cada 20 min por grupo (8 grupos + grupo de teste NÃO usar). Horários 08:00, 08:20 ... 18:00.
+- Cadência APROVADA: 1 envio por grupo por HORA (Intervalo 60), ~5-6 ofertas/grupo/dia (8 grupos; grupo de teste NÃO usar). ~170 posts verificados/dia não é realista. Na Importar Lote: Desconto mínimo 20, Máx. por categoria 5 (3 descarta itens), Dias sem repetir 7.
+- Só agende horários FUTUROS: confira a hora real com `date`/current_time antes (já houve erro de relógio).
 - Usar a página “Importar Lote” (http://localhost:8501) com o JSON do importador: id_produto, link_produto, link_afiliado, titulo, preco_original, preco_atual, preco_pix, parcelas, valor_parcela, avaliacao, categoria, imagem_url, frete_gratis, cupom_codigo, cupom_descricao. Agendar cada oferta para o grupo/nicho certo e o horário do slot.
 - Formato da mensagem: `Título 🔥 [Oferta Mercado Livre]` / `De: R$ X` (só se desconto real >= 20%) / `🔥 Por: R$ Y NO PIX` (+ `ou em até Nx de R$ Z no cartão` só se sem juros) / `🛍️ PEGAR PROMOÇÃO:` / link meli.la.
 - Se não houver oferta boa o suficiente para um slot/nicho (ex.: Pesca & Camping), deixe o slot vazio — qualidade antes de quantidade.
@@ -75,3 +76,18 @@ Terminar com mensagem curta em pt-BR: o que foi agendado (WhatsApp: quantos por 
 - Nunca digitar senhas/credenciais, nem criar contas. Nunca excluir dados permanentemente. Nunca enviar mensagem em nome do usuário além do que está neste manual.
 - Template visual aprovado: não alterar os geradores sem pedido do usuário.
 - Prioridade: dado correto > volume. Em dúvida, não publique o item e registre no resumo.
+
+## Lições operacionais
+- Linkbuilder: o botão “Gerar” só responde a clique por ref (find → ref), não por coordenada; faça scrollTo(0,0) antes de cada URL. Aba em segundo plano congela: use aba em primeiro plano.
+- Colar JSON na Importar Lote via textarea auxiliar (helper) e não digitando. Saída de JS trunca ~1000 chars.
+- Não usar preco_pix (parse instável). Preço = página do produto.
+- Alertas: aba em http://localhost:3000/groups precisa estar em primeiro plano (navegue-a antes de enviar).
+- Páginas de busca do ML não servem; use /ofertas por categoria. Pesca/Moda Fem têm poucas ofertas de marca: deixe slots vazios.
+- Títulos: não truncar em 60 chars no meio de palavra.
+
+## Etapas encadeadas (cada uma avisa início/fim no AVISO CLAUDE)
+1. 04:00 Preparo: pré-checagem, escolha das ofertas, links um a um, atualizar historico.json (commit/push).
+2. 05:00 WhatsApp: agendar lotes na Importar Lote (1/grupo/hora).
+3. 06:30 IG/FB: carrossel 19:00 + 5 Stories (09:00, 11:30, 14:00, 16:30, 20:30) via Metricool.
+4. 07:30 Verificação (Já Agendadas, Metricool) + resumo final.
+Alertas a cada ~30 min com %. Gatilho diário só é religado com aprovação do usuário.
