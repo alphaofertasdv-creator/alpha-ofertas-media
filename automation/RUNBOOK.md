@@ -61,7 +61,7 @@ Sempre que houver ERRO, travamento, ferramenta indisponível, login pedido (Merc
   `fetch('/send-group-message',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({groupId:'120363431585808670@g.us',message:'<texto>'})}).then(r=>r.text())`
   Resposta esperada: `{"success":true,...}`. (Se `/groups` não responder, o Docker do WhatsApp está parado: avise no resumo final.)
 - Mensagem: começar com ⚠️ (problema/pedido de ação) ou ✅ (concluído), dizer o que aconteceu e o que o usuário precisa fazer (ex.: "⚠️ Mercado Livre deslogado — faça login e me avise").
-- Enviar ao INÍCIO só se a pré-checagem falhar, ao longo da execução a cada problema relevante (sem spam: no máximo 1 mensagem por problema) e ao FIM com 3-4 linhas de resumo. Nunca enviar nada para os grupos de ofertas fora do agendamento normal.
+- SEMPRE enviar: (1) ao INÍCIO, logo após a pré-checagem: `🚀 Rotina Alpha Ofertas iniciada às HH:MM` (ou ⚠️ se a pré-checagem falhar); (2) a cada problema relevante ao longo da execução (sem spam: no máximo 1 mensagem por problema); (3) ao FIM: `✅ Rotina finalizada às HH:MM` + 3-4 linhas de resumo (WhatsApp: quantas ofertas agendadas; carrossel: produto/preço/horário; Stories: horários), ou `⚠️` com o que falhou/ficou de fora e o que o usuário precisa fazer. Nunca enviar nada para os grupos de ofertas fora do agendamento normal.
 
 ## 5. Resumo final (obrigatório)
 Terminar com mensagem curta em pt-BR: o que foi agendado (WhatsApp: quantos por grupo; carrossel: produto/preço/horário; Stories: produto/preço/horário), o que ficou de fora e por quê, e qualquer erro. Se falhar tudo, diga o motivo e o que o usuário deve fazer.
