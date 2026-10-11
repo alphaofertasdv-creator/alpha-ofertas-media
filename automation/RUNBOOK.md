@@ -63,6 +63,11 @@ Sempre que houver ERRO, travamento, ferramenta indisponível, login pedido (Merc
 - Mensagem: começar com ⚠️ (problema/pedido de ação) ou ✅ (concluído), dizer o que aconteceu e o que o usuário precisa fazer (ex.: "⚠️ Mercado Livre deslogado — faça login e me avise").
 - SEMPRE enviar: (1) ao INÍCIO, logo após a pré-checagem: `🚀 Rotina Alpha Ofertas iniciada às HH:MM` (ou ⚠️ se a pré-checagem falhar); (2) a cada problema relevante ao longo da execução (sem spam: no máximo 1 mensagem por problema); (3) ao FIM: `✅ Rotina finalizada às HH:MM` + 3-4 linhas de resumo (WhatsApp: quantas ofertas agendadas; carrossel: produto/preço/horário; Stories: horários), ou `⚠️` com o que falhou/ficou de fora e o que o usuário precisa fazer. Nunca enviar nada para os grupos de ofertas fora do agendamento normal.
 
+## Progresso a cada 30 minutos (grupo AVISO CLAUDE)
+- Anote a hora de início. Depois do aviso de início, a cada ~30 minutos de execução (sempre que concluir uma etapa/lote e já tiverem passado 30 min desde o último aviso), envie ao grupo: `⏳ Rotina Alpha Ofertas: ~XX% concluída (HH:MM). Feito: <resumo>. Falta: <resumo>.`
+- Estimativa de % (pesos): pré-checagem 5% · escolha das ofertas 15% · links verificados 30% · WhatsApp agendado 30% · imagens + carrossel/Stories no Metricool 15% · resumo/avisos 5%. Dentro de cada etapa, proporcional ao que já foi feito (ex.: 120 de 240 links = 15%). Nunca passe de 99% antes do aviso final de conclusão.
+- Se uma etapa passar de 30 min sem terminar, envie o aviso mesmo assim durante a etapa (verifique a hora com `date` entre os lotes).
+
 ## 5. Resumo final (obrigatório)
 Terminar com mensagem curta em pt-BR: o que foi agendado (WhatsApp: quantos por grupo; carrossel: produto/preço/horário; Stories: produto/preço/horário), o que ficou de fora e por quê, e qualquer erro. Se falhar tudo, diga o motivo e o que o usuário deve fazer.
 
