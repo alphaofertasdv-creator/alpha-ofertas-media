@@ -53,6 +53,16 @@ De R$ <de> por R$ <por> (<X>% OFF)<, ou em até Nx de R$ Y sem juros no cartão 
 - O link dos grupos (único link usado em Instagram/Story/DM): https://alphaofertas.netlify.app
 - A DM automática (comentário e resposta de Story) já é feita pelo Dealism para QUALQUER post/story. Não mexer nas automações do Dealism. O ManyChat está desligado: não ligar.
 
+
+## Avisos no WhatsApp (grupo AVISO CLAUDE) — OBRIGATÓRIO
+Sempre que houver ERRO, travamento, ferramenta indisponível, login pedido (Mercado Livre/Metricool/Dealism), pedido de permissão/aprovação, ou o término da rotina, envie uma mensagem curta em pt-BR ao grupo de avisos do próprio usuário:
+- groupId: `120363431585808670@g.us` (nome "AVISO CLAUDE")
+- Como enviar: abra uma aba nova em `http://localhost:3000/groups` no Chrome do usuário (a API local do WhatsApp) e, nessa aba, rode no javascript_tool:
+  `fetch('/send-group-message',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({groupId:'120363431585808670@g.us',message:'<texto>'})}).then(r=>r.text())`
+  Resposta esperada: `{"success":true,...}`. (Se `/groups` não responder, o Docker do WhatsApp está parado: avise no resumo final.)
+- Mensagem: começar com ⚠️ (problema/pedido de ação) ou ✅ (concluído), dizer o que aconteceu e o que o usuário precisa fazer (ex.: "⚠️ Mercado Livre deslogado — faça login e me avise").
+- Enviar ao INÍCIO só se a pré-checagem falhar, ao longo da execução a cada problema relevante (sem spam: no máximo 1 mensagem por problema) e ao FIM com 3-4 linhas de resumo. Nunca enviar nada para os grupos de ofertas fora do agendamento normal.
+
 ## 5. Resumo final (obrigatório)
 Terminar com mensagem curta em pt-BR: o que foi agendado (WhatsApp: quantos por grupo; carrossel: produto/preço/horário; Stories: produto/preço/horário), o que ficou de fora e por quê, e qualquer erro. Se falhar tudo, diga o motivo e o que o usuário deve fazer.
 
