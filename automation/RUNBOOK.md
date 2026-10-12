@@ -119,3 +119,10 @@ Em 11/10, 6 de 35 postagens agendadas estavam com preço defasado (preço muda e
 - Prioridade se faltar tempo: (1) carrossel + Stories, (2) WhatsApp dos horários mais próximos, (3) resto. Nunca agende item com preço não verificado: melhor slot vazio.
 - Aba do Chrome que não responde (JS timeout): abra aba nova e siga. Docker/WhatsApp local fora do ar: avise no resumo (não há como alertar no grupo).
 - Se nada puder ser feito, o resumo final diz exatamente o que faltou e o que o usuário deve fazer ao acordar.
+
+## Instagram/Facebook: um nicho diferente por post (regra do usuário, 12/10)
+- NUNCA repetir o mesmo tipo de produto em dias seguidos. Nichos: Tech/Celular, Saúde & Beleza, Casa & Eletrodomésticos, Academia & Suplementos (ex.: creatina), Moda Masculina (tênis, roupa), Moda Feminina, Pesca & Camping, Achados do Dia.
+- CARROSSEL: 1 produto de UM nicho por dia, rodando entre os nichos: escolha o nicho que está há mais tempo sem carrossel (consulte `automation/historico.json`, campos `uso`="carrossel" e `chave`/nicho; ontem 11/10 e hoje 12/10 foram celular/Tech, então Tech fica de fora por vários dias). Dentro do nicho, produto diferente (ex.: um dia tênis, outro eletrodoméstico, outro creatina).
+- STORIES: 5 Stories, cada um de um NICHO DIFERENTE, e diferente do nicho do carrossel (1 de cada nicho; rodar os nichos de dia para dia para todos aparecerem).
+- Mesmas regras de qualidade: preço da página do produto, desconto >= 20%, marca conhecida, não repetir produto em 7 dias.
+- Ao registrar no historico.json de carrossel/Stories, gravar também o campo `nicho`.
