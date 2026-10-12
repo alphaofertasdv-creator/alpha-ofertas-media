@@ -450,7 +450,134 @@
     }
    ],
    "pronto": true
+  },
+  "Saúde & Beleza": {
+   "ofertas": [
+    {
+     "id": "MLB44730494",
+     "link_afiliado": "https://meli.la/1oV82qb",
+     "titulo": "Armani Beauty Perfume Masculino Acqua Di Giò Eau de Toilette 200ml",
+     "de": "1.129,00",
+     "por": "552,49",
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_685506-MLA99749900880_122025-F.webp",
+     "categoria": "Perfumes",
+     "slot": "08:00"
+    },
+    {
+     "id": "MLB23888631",
+     "link_afiliado": "https://meli.la/2K4b7Uv",
+     "titulo": "Secador Taiff Tourmaline Íon 2100W Alta Performance",
+     "de": "613,74",
+     "por": "296,80",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_899500-MLA100080591947_122025-F.webp",
+     "categoria": "Cabelo",
+     "slot": "09:00"
+    },
+    {
+     "id": "MLB42327159",
+     "link_afiliado": "https://meli.la/1pBZz3e",
+     "titulo": "Philips Lâmina Substituível OneBlade Pack com 2 Unidades",
+     "de": "189,00",
+     "por": "80,99",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_901873-MLA99929770591_112025-F.webp",
+     "categoria": "Barbear",
+     "slot": "10:00"
+    },
+    {
+     "id": "MLB45358161",
+     "link_afiliado": "https://meli.la/2qkVUVd",
+     "titulo": "Kaiak Ultra Natura Colônia Perfume Masculino 100ml",
+     "de": "189,90",
+     "por": "98,00",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_916194-MLA114865292471_072026-F.webp",
+     "categoria": "Perfumes",
+     "slot": "11:00"
+    },
+    {
+     "id": "MLB26703117",
+     "link_afiliado": "https://meli.la/2m632Qk",
+     "titulo": "Chapinha Profissional MQ Pro 480 Turbo",
+     "de": "631,05",
+     "por": "340,61",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_818498-MLA99527505846_122025-F.webp",
+     "categoria": "Cabelo",
+     "slot": "12:00"
+    },
+    {
+     "id": "MLB30067110",
+     "link_afiliado": "https://meli.la/2stZb5H",
+     "titulo": "Protetor Solar Facial La Roche-Posay Anthelios Airlicium+ FPS80 40g",
+     "de": "120,90",
+     "por": "68,67",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_607017-MLA109237056916_042026-F.webp",
+     "categoria": "Skincare",
+     "slot": "13:00"
+    },
+    {
+     "id": "MLB9033853",
+     "link_afiliado": "https://meli.la/11kRzma",
+     "titulo": "Perfume Carolina Herrera 212 VIP Black Eau de Parfum 200ml Masculino",
+     "de": "1.049,89",
+     "por": "572,08",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_849828-MLA93387691711_092025-F.webp",
+     "categoria": "Perfumes",
+     "slot": "14:00"
+    },
+    {
+     "id": "MLB18580666",
+     "link_afiliado": "https://meli.la/2oELpNa",
+     "titulo": "Secador de Cabelo Taiff 2000W Black Ion Preto",
+     "de": "362,50",
+     "por": "174,89",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_812539-MLA116700845939_082026-F.webp",
+     "categoria": "Cabelo",
+     "slot": "15:00"
+    },
+    {
+     "id": "MLB19694427",
+     "link_afiliado": "https://meli.la/2s7xjbe",
+     "titulo": "Escova Secadora Britânia BEC07R 4 em 1 1300W Rosa",
+     "de": "139,90",
+     "por": "89,00",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_771757-MLA118854476707_102026-F.webp",
+     "categoria": "Cabelo",
+     "slot": "16:00"
+    },
+    {
+     "id": "MLB60416809",
+     "link_afiliado": "https://meli.la/2ooy5uY",
+     "titulo": "Hidrabene Protetor Facial Solar FPS 70 Toque Seco",
+     "de": "59,90",
+     "por": "28,00",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_663397-MLA118480886615_092026-F.webp",
+     "categoria": "Skincare",
+     "slot": "17:00"
+    },
+    {
+     "id": "MLB6287898",
+     "link_afiliado": "https://meli.la/13VgXjP",
+     "titulo": "Perfume Carolina Herrera Good Girl Eau de Parfum 150ml",
+     "de": "1.128,85",
+     "por": "735,04",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_654350-MLA88713001900_072025-F.webp",
+     "categoria": "Perfumes",
+     "slot": "18:00"
+    }
+   ],
+   "pronto": true
   }
  },
- "completo": false
+ "completo": false,
+ "nota_imagens": "imagem_url derivada da página do produto; conferir visualmente antes de publicar (itens Good Girl e outros podem ter foto errada)."
 }
