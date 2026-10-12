@@ -120,6 +120,55 @@
     }
    ],
    "pronto": true
+  },
+  "Moda Feminina": {
+   "ofertas": [
+    {
+     "id": "MLB3777406449",
+     "link_afiliado": "https://meli.la/32vxDTc",
+     "titulo": "Tênis Vizzano Casual Feminino Plataforma Leve Ultra Conforto",
+     "de": "199,98",
+     "por": "87,38",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_876146-MLB77593359794_072024-F.webp",
+     "categoria": "Tênis",
+     "slot": "08:00"
+    },
+    {
+     "id": "MLB4966211100",
+     "link_afiliado": "https://meli.la/2d2Nix5",
+     "titulo": "Tênis Ramarim Feminino Chunky Dad Sneaker Casual",
+     "de": "279,99",
+     "por": "111,00",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_938121-MLB81353622013_122024-F.webp",
+     "categoria": "Tênis",
+     "slot": "09:00"
+    },
+    {
+     "id": "MLB3992693485",
+     "link_afiliado": "https://meli.la/23Ur727",
+     "titulo": "Tênis Feminino Olympikus Vertice Esportivo Original",
+     "de": "266,66",
+     "por": "149,80",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_710524-MLB116561436746_092026-F.webp",
+     "categoria": "Tênis",
+     "slot": "10:00"
+    },
+    {
+     "id": "MLB4648729244",
+     "link_afiliado": "https://meli.la/1Q74tww",
+     "titulo": "Sandália Moleca Papete Feminina Brilho Glitter Slide Nude",
+     "de": "78,90",
+     "por": "40,00",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_948731-MLB82373317435_022025-F.webp",
+     "categoria": "Sandálias",
+     "slot": "11:00"
+    }
+   ],
+   "pronto": true
   }
  },
  "completo": false
