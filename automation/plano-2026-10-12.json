@@ -680,6 +680,132 @@
     }
    ],
    "pronto": true
+  },
+  "Casa": {
+   "ofertas": [
+    {
+     "id": "MLB66271625",
+     "link_afiliado": "https://meli.la/2NzReeu",
+     "titulo": "Philco PAF15C Fritadeira Air Fryer Oven 15 Litros",
+     "de": "827,14",
+     "por": "452,65",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_752065-MLA111373483064_052026-F.webp",
+     "categoria": "Cozinha",
+     "slot": "08:00"
+    },
+    {
+     "id": "MLB62957152",
+     "link_afiliado": "https://meli.la/26MYCDs",
+     "titulo": "Ventilador de Mesa Arno X-TREME 7 40cm VE70 150W",
+     "de": "399,00",
+     "por": "229,90",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_796072-MLA100698006947_122025-F.webp",
+     "categoria": "Ventilação",
+     "slot": "09:00"
+    },
+    {
+     "id": "MLB8923631",
+     "link_afiliado": "https://meli.la/2cqYZLf",
+     "titulo": "Aspirador de Pó e Água WAP GTW 10 1400W",
+     "de": "485,57",
+     "por": "243,71",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_985627-MLA100060225801_122025-F.webp",
+     "categoria": "Limpeza",
+     "slot": "10:00"
+    },
+    {
+     "id": "MLB18927373",
+     "link_afiliado": "https://meli.la/26995CP",
+     "titulo": "Cafeteira Elétrica Electrolux Inox Filtro Permanente Removível",
+     "de": "129,99",
+     "por": "83,50",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_923263-MLA99474168604_112025-F.webp",
+     "categoria": "Cozinha",
+     "slot": "11:00"
+    },
+    {
+     "id": "MLB26797988",
+     "link_afiliado": "https://meli.la/2V5L5eF",
+     "titulo": "Extratora de Sujeira Portátil WAP Spot Cleaner W3",
+     "de": "948,57",
+     "por": "539,90",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_945436-MLA100025553119_122025-F.webp",
+     "categoria": "Limpeza",
+     "slot": "12:00"
+    },
+    {
+     "id": "MLB69355197",
+     "link_afiliado": "https://meli.la/2dvmsM9",
+     "titulo": "Micro-ondas Consul 23 Litros Função Marmita CMS23A",
+     "de": "789,00",
+     "por": "551,91",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_900951-MLA111411846003_052026-F.webp",
+     "categoria": "Cozinha",
+     "slot": "13:00"
+    },
+    {
+     "id": "MLB25860033",
+     "link_afiliado": "https://meli.la/1Dv42Ht",
+     "titulo": "Britânia BAS1295P Aspirador de Pó 2 em 1 1250W",
+     "de": "234,29",
+     "por": "147,90",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_866250-MLA99535827666_122025-F.webp",
+     "categoria": "Limpeza",
+     "slot": "14:00"
+    },
+    {
+     "id": "MLB23501697",
+     "link_afiliado": "https://meli.la/2dwkCS3",
+     "titulo": "Purificador de Água Consul Refrigerado Natural e Gelada",
+     "de": "699,90",
+     "por": "452,31",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_975106-MLA100053871947_122025-F.webp",
+     "categoria": "Purificadores",
+     "slot": "15:00"
+    },
+    {
+     "id": "MLB62021471",
+     "link_afiliado": "https://meli.la/2jgUodj",
+     "titulo": "Aspirador Vertical WAP Power Speed Max CI10 3 em 1 1600W",
+     "de": "359,90",
+     "por": "229,90",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_773776-MLA106648864819_022026-F.webp",
+     "categoria": "Limpeza",
+     "slot": "16:00"
+    },
+    {
+     "id": "MLB62230579",
+     "link_afiliado": "https://meli.la/19kECM7",
+     "titulo": "Air Fryer Oven Britânia 11L 8 Funções 1800W Painel Digital BAF11A",
+     "de": "473,10",
+     "por": "324,57",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_866410-MLA106357490185_022026-F.webp",
+     "categoria": "Cozinha",
+     "slot": "17:00"
+    },
+    {
+     "id": "MLB54429015",
+     "link_afiliado": "https://meli.la/2XozkMJ",
+     "titulo": "Purificador Midea SlimPure Bivolt Cinza Filtro 2 Estágios",
+     "de": "657,00",
+     "por": "429,00",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_688571-MLA99470684418_112025-F.webp",
+     "categoria": "Purificadores",
+     "slot": "18:00"
+    }
+   ],
+   "pronto": true
   }
  },
  "completo": false,
