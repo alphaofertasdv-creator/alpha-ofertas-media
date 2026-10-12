@@ -113,3 +113,9 @@ Em 11/10, 6 de 35 postagens agendadas estavam com preço defasado (preço muda e
 ## Imagens do Instagram: texto/emoji quebrado (corrigido em 12/10)
 - Em 11/10 o slide 4 do carrossel saiu com mojibake ("PreÃ§os", "GRÃ¢TIS", emojis em símbolos): o HTML era gravado sem charset. Corrigido nos geradores (`<meta charset="utf-8">` + `open(...,encoding="utf-8")`). Não reverter.
 - OBRIGATÓRIO: abrir (Read) TODOS os PNGs gerados (4 slides + 5 stories) e confirmar acentos/emojis/preço antes de publicar. Se aparecer qualquer caractere estranho, corrigir e regerar; não agendar imagem com texto quebrado.
+
+## Modo sem o usuário (ele dorme até tarde) — não parar por bloqueio
+- Captcha/aceite/travamento: envie o alerta ⚠️, mas NÃO fique parado: tente de novo a cada 10 min e, entre as tentativas, avance com tudo o que não dependa do bloqueio (ex.: captcha do ML → continue agendando o que já está no plano; gerar imagens; Metricool).
+- Prioridade se faltar tempo: (1) carrossel + Stories, (2) WhatsApp dos horários mais próximos, (3) resto. Nunca agende item com preço não verificado: melhor slot vazio.
+- Aba do Chrome que não responde (JS timeout): abra aba nova e siga. Docker/WhatsApp local fora do ar: avise no resumo (não há como alertar no grupo).
+- Se nada puder ser feito, o resumo final diz exatamente o que faltou e o que o usuário deve fazer ao acordar.
