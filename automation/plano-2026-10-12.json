@@ -197,6 +197,56 @@
    ],
    "pronto": true,
    "obs": "Poucas ofertas de marca conhecida em pesca/camping hoje (varridas 12 páginas de Esportes e Fitness); slots vazios por qualidade."
+  },
+  "Achados do Dia": {
+   "ofertas": [
+    {
+     "id": "MLB25371983",
+     "link_afiliado": "https://meli.la/2jdwy6u",
+     "titulo": "Lavadora de Alta Pressão Kärcher Compacta 1.500 PSI 1400W 300L/h com Aplicador de Detergente 220v",
+     "de": "499,90",
+     "por": "289,00",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_681126-MLA115545993062_082026-F.webp",
+     "categoria": "Ferramentas",
+     "slot": "10:00"
+    },
+    {
+     "id": "MLB18405766",
+     "link_afiliado": "https://meli.la/281H3ZZ",
+     "titulo": "Azeite de Oliva Extra Virgem Gallo 500 ml",
+     "de": "28,90",
+     "por": "20,80",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_711415-MLA71287082588_082023-F.webp",
+     "categoria": "Mercado",
+     "slot": "12:00"
+    },
+    {
+     "id": "MLB61672441",
+     "link_afiliado": "https://meli.la/1ZVJk4t",
+     "titulo": "Ração Seca Fórmula Natural Gatos Castrados Adultos Salmão 10 kg",
+     "de": "515,00",
+     "por": "279,00",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_948000-MLA101823824285_122025-F.webp",
+     "categoria": "Pet",
+     "slot": "14:00"
+    },
+    {
+     "id": "MLB36264774",
+     "link_afiliado": "https://meli.la/1XzU2gH",
+     "titulo": "Máquina de Solda Inversora ESAB Bantam 2.5 Bivolt 110v/220v",
+     "de": "662,34",
+     "por": "459,90",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_888434-MLA99933799785_112025-F.webp",
+     "categoria": "Ferramentas",
+     "slot": "16:00"
+    }
+   ],
+   "pronto": true,
+   "obs": "Poucas ofertas de marca conhecida com >=20% real; qualidade antes de volume."
   }
  },
  "completo": false
