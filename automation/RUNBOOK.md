@@ -106,3 +106,7 @@ Em 11/10, 6 de 35 postagens agendadas estavam com preço defasado (preço muda e
 4. Se aparecer captcha/“Por segurança, complete esta etapa”: NÃO tentar resolver; alerta ⚠️ PRECISO DE VOCÊ no AVISO CLAUDE e aguardar.
 5. Resultado da verificação vai no resumo (quantas conferidas, quantas corrigidas).
 6. Grupo na Importar Lote: escolher clicando na opção (digitar “Pesca” selecionou Academia).
+
+## Imagens do Instagram: texto/emoji quebrado (corrigido em 12/10)
+- Em 11/10 o slide 4 do carrossel saiu com mojibake ("PreÃ§os", "GRÃ¢TIS", emojis em símbolos): o HTML era gravado sem charset. Corrigido nos geradores (`<meta charset="utf-8">` + `open(...,encoding="utf-8")`). Não reverter.
+- OBRIGATÓRIO: abrir (Read) TODOS os PNGs gerados (4 slides + 5 stories) e confirmar acentos/emojis/preço antes de publicar. Se aparecer qualquer caractere estranho, corrigir e regerar; não agendar imagem com texto quebrado.

@@ -57,7 +57,7 @@ def NOTE(o,fs,mt):
 
 def feed(o):
     pct,eco=calc(o['old'],o['price']); i,c=brl(o['price']).split(",")
-    return f"""<html><head><style>{BASE}</style></head><body><div class="canvas" style="width:1080px;height:1350px">{SW.replace('class="swoosh"','class="swoosh" style="top:1010px;opacity:.9"')}
+    return f"""<html><head><meta charset="utf-8"><style>{BASE}</style></head><body><div class="canvas" style="width:1080px;height:1350px">{SW.replace('class="swoosh"','class="swoosh" style="top:1010px;opacity:.9"')}
 {top(o['tag'])}
 <div class="panel" style="left:56px;right:56px;top:180px;height:590px"><img src="{o['img']}"></div>
 <div class="badge" style="right:30px;top:140px;width:250px;padding:24px 0 20px"><b style="font-size:96px">{pct}%</b><i>OFF</i></div>
@@ -76,7 +76,7 @@ def feed(o):
 
 def story(o):
     pct,eco=calc(o['old'],o['price']); i,c=brl(o['price']).split(",")
-    return f"""<html><head><style>{BASE}</style></head><body><div class="canvas" style="width:1080px;height:1920px">{SW.replace('class="swoosh"','class="swoosh" style="top:1400px;opacity:.9"')}
+    return f"""<html><head><meta charset="utf-8"><style>{BASE}</style></head><body><div class="canvas" style="width:1080px;height:1920px">{SW.replace('class="swoosh"','class="swoosh" style="top:1400px;opacity:.9"')}
 {top(o['tag'])}
 <div class="panel" style="left:56px;right:56px;top:210px;height:770px"><img src="{o['img']}"></div>
 <div class="badge" style="right:28px;top:170px;width:276px;padding:28px 0 24px"><b style="font-size:110px">{pct}%</b><i style="font-size:28px">OFF</i></div>
@@ -124,7 +124,7 @@ def car(o,n):
 <div style="margin-top:36px;color:{T};font-size:34px;font-weight:700">Todos os dias no grupo:</div>
 <div style="margin-top:28px;display:grid;gap:22px">{lst}</div></div>
 <div class="cta" style="height:260px;padding:0 56px;flex-direction:column;justify-content:center;align-items:flex-start;gap:14px"><div class="a" style="font-size:66px">Entre no nosso grupo</div><div class="s" style="font-size:30px">Link na bio &nbsp;•&nbsp; 100% gratuito</div></div>"""
-    return f"""<html><head><style>{BASE}</style></head><body><div class="canvas" style="width:1080px;height:1350px">{SW.replace('class="swoosh"','class="swoosh" style="top:1010px;opacity:.9"')}{top(o['tag'] if n!=4 else 'GRUPO VIP')}{body}</div></body></html>"""
+    return f"""<html><head><meta charset="utf-8"><style>{BASE}</style></head><body><div class="canvas" style="width:1080px;height:1350px">{SW.replace('class="swoosh"','class="swoosh" style="top:1010px;opacity:.9"')}{top(o['tag'] if n!=4 else 'GRUPO VIP')}{body}</div></body></html>"""
 
 
 
@@ -132,7 +132,7 @@ def story2(o):
     pct,eco=calc(o['old'],o['price']); i,c=brl(o['price']).split(",")
     note=o.get('note')
     nt=f'<div style="font-size:30px;font-weight:800;opacity:.92;margin-top:12px;letter-spacing:-.01em">{note}</div>' if note else ''
-    return f"""<html><head><style>{BASE}
+    return f"""<html><head><meta charset="utf-8"><style>{BASE}
 .top2{{position:absolute;left:56px;right:56px;top:215px;display:flex;align-items:center;justify-content:space-between}}
 </style></head><body><div class="canvas" style="width:1080px;height:1920px">
 {SW.replace('class="swoosh"','class="swoosh" style="top:1180px;opacity:.9"')}
@@ -171,7 +171,7 @@ def story3(o):
     pct,eco=calc(o['old'],o['price']); i,c=brl(o['price']).split(",")
     note=o.get('note') or ''
     chips=''.join(f'<span class="chip" style="background:rgba(10,10,12,.9);color:#fff;font-size:26px;padding:12px 22px;border:1.5px solid rgba(255,255,255,.18)">{t}</span>' for t in [x.strip() for x in note.replace(' • ','|').split('|') if x.strip()])
-    return f"""<html><head><style>{CSS3}</style></head><body><div class="cv">
+    return f"""<html><head><meta charset="utf-8"><style>{CSS3}</style></head><body><div class="cv">
 <div class="grid"></div><div class="big">ALPHA</div>
 <div style="position:absolute;left:56px;right:56px;top:212px;display:flex;align-items:center;justify-content:space-between">
  <div style="display:flex;align-items:center;gap:18px"><img src="file://{LOGO}" style="width:80px;height:80px;border-radius:22px;box-shadow:0 10px 30px rgba(255,204,0,.25)"><div class="d" style="font-size:30px;text-transform:uppercase;letter-spacing:.02em;line-height:1">Alpha Ofertas<div style="font-family:Inter;font-weight:700;font-size:19px;letter-spacing:.2em;color:#A9A9B3;margin-top:7px">OFERTA {o['n']} DE 5</div></div></div>
@@ -219,7 +219,7 @@ def pricecard(o,top,h,fs):
 def bar(text,top=1254):
     return f"""<div style="position:absolute;left:0;right:0;bottom:0;height:96px;background:linear-gradient(135deg,#FFD83A,#FFCC00 55%,#F2B800);color:#0D0D0F;display:flex;align-items:center;justify-content:space-between;padding:0 56px"><div class="d" style="font-size:30px;text-transform:uppercase">{text}</div><div style="font-size:34px;font-weight:900;background:#0D0D0F;color:#FFCC00;width:58px;height:58px;border-radius:50%;display:flex;align-items:center;justify-content:center">→</div></div>"""
 def wrap(body):
-    return f"""<html><head><style>{CSS3}.cv{{height:1350px!important}}.big{{top:260px}}</style></head><body><div class="cv"><div class="grid"></div><div class="big">ALPHA</div>{body}</div></body></html>"""
+    return f"""<html><head><meta charset="utf-8"><style>{CSS3}.cv{{height:1350px!important}}.big{{top:260px}}</style></head><body><div class="cv"><div class="grid"></div><div class="big">ALPHA</div>{body}</div></body></html>"""
 def slide(o,n):
     pct,eco=calc(o['old'],o['price']); i,c=brl(o['price']).split(",")
     if n==1:
@@ -255,7 +255,7 @@ async def main():
     async with async_playwright() as p:
         b=await p.chromium.launch()
         for kk,h in out.items():
-            hp=f'{OUT}/{kk}.html'; open(hp,'w').write(h)
+            hp=f'{OUT}/{kk}.html'; open(hp,"w",encoding="utf-8").write(h)
             pg=await b.new_page(viewport={'width':1080,'height':1350})
             await pg.goto(f'file://{os.path.abspath(hp)}'); await pg.wait_for_timeout(500)
             await pg.screenshot(path=f'{OUT}/{kk}.png'); await pg.close()
