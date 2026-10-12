@@ -1,9 +1,86 @@
 {
  "data": "2026-10-12",
  "ig": {
-  "carrossel": null,
-  "stories": [],
-  "pronto": false
+  "carrossel": {
+   "chave": "a36",
+   "id": "MLB65952157",
+   "link_afiliado": "https://meli.la/2vCGcff",
+   "name": "Smartphone Samsung Galaxy A36 5G 128GB 6GB RAM",
+   "old": 2538.57,
+   "price": 1269.0,
+   "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_944288-MLA116511342948_092026-F.webp",
+   "tag": "🔥 Oferta do dia",
+   "note": "",
+   "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+   "bullets": [
+    "5G com 128GB de memória",
+    "6GB de RAM",
+    "Nota 4,9 no Mercado Livre"
+   ]
+  },
+  "stories": [
+   {
+    "chave": "aiw",
+    "id": "MLB38650498",
+    "link_afiliado": "https://meli.la/2kChGAs",
+    "name": "Caixa de Som Boombox Plus AIWA BBS-01-BG 200W",
+    "old": 2999.0,
+    "price": 1149.08,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_856396-MLA99996841071_112025-F.webp",
+    "tag": "🚨 Preço baixou",
+    "note": "",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo."
+   },
+   {
+    "chave": "pum",
+    "id": "MLB4779497929",
+    "link_afiliado": "https://meli.la/1rC9e8U",
+    "name": "Tênis Puma 180 Skate Robusto Confortável Camurça Black",
+    "old": 599.9,
+    "price": 183.9,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_715123-MLB113104767503_062026-F.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo."
+   },
+   {
+    "chave": "kar",
+    "id": "MLB25371983",
+    "link_afiliado": "https://meli.la/2jdwy6u",
+    "name": "Lavadora de Alta Pressão Kärcher Compacta 1.500 PSI 1400W 220v",
+    "old": 499.9,
+    "price": 289.0,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_681126-MLA115545993062_082026-F.webp",
+    "tag": "🔥 Oferta do dia",
+    "note": "",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo."
+   },
+   {
+    "chave": "eco",
+    "id": "MLB60085447",
+    "link_afiliado": "https://meli.la/1FvpvSG",
+    "name": "Echo Dot Max Roxa",
+    "old": 849.0,
+    "price": 469.47,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_688517-MLA97019933773_112025-F.webp",
+    "tag": "🚨 Preço baixou",
+    "note": "",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo."
+   },
+   {
+    "chave": "p30",
+    "id": "MLB64025589",
+    "link_afiliado": "https://meli.la/25CWf2u",
+    "name": "Fones de Ouvido sem Fio Soundcore P30i Bluetooth 5.4",
+    "old": 389.0,
+    "price": 196.5,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_775251-MLA103643608248_012026-F.webp",
+    "tag": "🛒 Achado do ML",
+    "note": "",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo."
+   }
+  ],
+  "pronto": true
  },
  "grupos": {
   "Moda Masculina": {
