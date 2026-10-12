@@ -247,6 +247,132 @@
    ],
    "pronto": true,
    "obs": "Poucas ofertas de marca conhecida com >=20% real; qualidade antes de volume."
+  },
+  "Tech & Setup": {
+   "ofertas": [
+    {
+     "id": "MLB65952157",
+     "link_afiliado": "https://meli.la/2vCGcff",
+     "titulo": "Smartphone Samsung Galaxy A36 5G 128GB 6GB RAM",
+     "de": "2.538,57",
+     "por": "1.269,00",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_944288-MLA116511342948_092026-F.webp",
+     "categoria": "Celulares",
+     "slot": "08:00"
+    },
+    {
+     "id": "MLB64025589",
+     "link_afiliado": "https://meli.la/25CWf2u",
+     "titulo": "Fones de Ouvido sem Fio Soundcore P30i Bluetooth 5.4 TWS Green",
+     "de": "389,00",
+     "por": "196,50",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_775251-MLA103643608248_012026-F.webp",
+     "categoria": "Áudio",
+     "slot": "09:00"
+    },
+    {
+     "id": "MLB67267597",
+     "link_afiliado": "https://meli.la/1MKcE1b",
+     "titulo": "Smart TV Philco 50\" P50VIK 4K UHD LED Roku",
+     "de": "3.499,00",
+     "por": "2.099,00",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_753324-MLA108743670040_032026-F.webp",
+     "categoria": "TVs",
+     "slot": "10:00"
+    },
+    {
+     "id": "MLB60085447",
+     "link_afiliado": "https://meli.la/1FvpvSG",
+     "titulo": "Echo Dot Max Roxa",
+     "de": "849,00",
+     "por": "469,47",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_688517-MLA97019933773_112025-F.webp",
+     "categoria": "Smart Home",
+     "slot": "11:00"
+    },
+    {
+     "id": "MLB77148888",
+     "link_afiliado": "https://meli.la/1v7HtpP",
+     "titulo": "Celular Motorola Moto G56 256GB 12GB RAM 5G Dual",
+     "de": "2.699,00",
+     "por": "1.399,00",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_693032-MLA116044424975_082026-F.webp",
+     "categoria": "Celulares",
+     "slot": "12:00"
+    },
+    {
+     "id": "MLB38650498",
+     "link_afiliado": "https://meli.la/2kChGAs",
+     "titulo": "Caixa de Som Boombox Plus AIWA BBS-01-BG 200W",
+     "de": "2.999,00",
+     "por": "1.149,08",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_856396-MLA99996841071_112025-F.webp",
+     "categoria": "Áudio",
+     "slot": "13:00"
+    },
+    {
+     "id": "MLB58097097",
+     "link_afiliado": "https://meli.la/2SV9FNq",
+     "titulo": "Power Bank Baseus Bipow2 Pro FC51 20000mAh 22,5W",
+     "de": "286,90",
+     "por": "177,20",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_812206-MLA93073248860_092025-F.webp",
+     "categoria": "Acessórios",
+     "slot": "14:00"
+    },
+    {
+     "id": "MLB54014512",
+     "link_afiliado": "https://meli.la/2jxX9ru",
+     "titulo": "Roku Streaming Stick HD/FHD com Controle por Voz",
+     "de": "599,90",
+     "por": "271,31",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_947612-MLA99369632726_112025-F.webp",
+     "categoria": "Streaming",
+     "slot": "15:00"
+    },
+    {
+     "id": "MLB75681377",
+     "link_afiliado": "https://meli.la/2kqXLdB",
+     "titulo": "Smart TV PRO LG 55\" 4K Ultra HD AI 55UN85C",
+     "de": "4.999,00",
+     "por": "2.540,44",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_646395-MLA116823736237_082026-F.webp",
+     "categoria": "TVs",
+     "slot": "16:00"
+    },
+    {
+     "id": "MLB24028629",
+     "link_afiliado": "https://meli.la/1BkuFsu",
+     "titulo": "Fone de Ouvido Soundcore by Anker P20i",
+     "de": "299,00",
+     "por": "146,00",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_730568-MLA99983575997_112025-F.webp",
+     "categoria": "Áudio",
+     "slot": "17:00"
+    },
+    {
+     "id": "MLB65114795",
+     "link_afiliado": "https://meli.la/2WGajYX",
+     "titulo": "Celular Samsung Galaxy A17 128GB 4GB RAM",
+     "de": "1.499,00",
+     "por": "819,00",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_868127-MLA118013296557_092026-F.webp",
+     "categoria": "Celulares",
+     "slot": "18:00"
+    }
+   ],
+   "pronto": true
   }
  },
  "completo": false
