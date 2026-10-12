@@ -86,11 +86,14 @@ Terminar com mensagem curta em pt-BR: o que foi agendado (WhatsApp: quantos por 
 - Títulos: não truncar em 60 chars no meio de palavra.
 
 ## Etapas encadeadas (cada uma avisa início/fim no AVISO CLAUDE)
-1. 04:00 Preparo: pré-checagem, escolha das ofertas, links um a um, atualizar historico.json (commit/push).
-2. 05:00 WhatsApp: agendar lotes na Importar Lote (1/grupo/hora).
-3. 06:30 IG/FB: carrossel 19:00 + 5 Stories (09:00, 11:30, 14:00, 16:30, 20:30) via Metricool.
-4. 07:30 Verificação (Já Agendadas, Metricool) + resumo final.
-Alertas a cada ~30 min com %. Gatilho diário só é religado com aprovação do usuário.
+Meta WhatsApp: 1 oferta por HORA em cada um dos 8 grupos, 08:00 até 18:00 (até 11 por grupo; grupos com pouca oferta de marca, como Pesca e Moda Feminina, podem ter menos: qualidade antes de volume). Só horários futuros.
+Plano do dia: `automation/plano-AAAA-MM-DD.json` com `{"ig":{carrossel, stories[5], pronto:bool}, "grupos":{<grupo>:{"ofertas":[{id,link_afiliado,titulo,de,por,rating,imagem_url,categoria,slot}], "pronto":bool}}, "completo":bool}`. Commit/push depois de cada grupo concluído (protege contra perda de contexto).
+1a. 04:00 Preparo A: pré-checagem; PRIMEIRO escolher as 6 ofertas do Instagram (1 carrossel + 5 Stories) e marcar `ig.pronto`; depois grupos Tech, Saúde, Casa, Academia (links um a um, preço da página do produto).
+1b. 04:50 Preparo B: grupos Moda Masculina, Moda Feminina, Pesca & Camping, Achados do Dia; ao fim `completo=true`; atualizar historico.json.
+2. 05:30 WhatsApp: agenda na Importar Lote os grupos já `pronto`; se faltar grupo, espera/repete (consulta o plano a cada 5 min) até 07:30; depois verificação 100%.
+3. 06:30 IG/FB: gerar imagens (checar TODAS visualmente), carrossel 19:00 + 5 Stories (09:00, 11:30, 14:00, 16:30, 20:30) via Metricool; avisar horários reais no grupo. Depende só de `ig.pronto`.
+4. 07:30 Verificação final (WhatsApp + Metricool) + resumo no AVISO CLAUDE.
+Alertas a cada ~30 min com %. Travou/captcha/aceite → ⚠️ PRECISO DE VOCÊ.
 
 ## Travas e pedidos de aprovação (OBRIGATÓRIO)
 - Se QUALQUER coisa travar e exigir clique/aceite do usuário no computador (pedido de permissão do Claude/Chrome, login, captcha, popup, extensão pedindo acesso, ferramenta bloqueada, tela inesperada), PARE de tentar em loop e envie NA HORA ao grupo AVISO CLAUDE: `⚠️ PRECISO DE VOCÊ: <o que está pedindo e onde (app/aba)>. Etapa: <nome>. Aceite/resolva e eu continuo.` Depois aguarde e tente de novo; se continuar travado após ~10 min, reenvie 1 lembrete (máx. 1 a cada 10 min). Se não conseguir enviar o alerta (Docker do WhatsApp parado), registre no resumo.
