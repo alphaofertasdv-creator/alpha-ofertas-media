@@ -576,6 +576,110 @@
     }
    ],
    "pronto": true
+  },
+  "Academia": {
+   "ofertas": [
+    {
+     "id": "MLB18725310",
+     "link_afiliado": "https://meli.la/1FyKJqi",
+     "titulo": "Creatina Soldiers Nutrition em Pó Sem Sabor 1kg",
+     "de": "239,90",
+     "por": "55,45",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_998463-MLA116907384785_082026-F.webp",
+     "categoria": "Suplementos",
+     "slot": "08:00"
+    },
+    {
+     "id": "MLB40366976",
+     "link_afiliado": "https://meli.la/126bxys",
+     "titulo": "Whey Protein Concentrado 1kg Dark Lab Sabor Doce de Leite",
+     "de": "349,90",
+     "por": "139,92",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_926889-MLA99570923936_122025-F.webp",
+     "categoria": "Suplementos",
+     "slot": "09:00"
+    },
+    {
+     "id": "MLB24081502",
+     "link_afiliado": "https://meli.la/2xTcMRq",
+     "titulo": "Creatina Max Titanium em Pó Sem Sabor 300g (2 un)",
+     "de": "179,00",
+     "por": "68,90",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_776821-MLA99365251528_112025-F.webp",
+     "categoria": "Suplementos",
+     "slot": "10:00"
+    },
+    {
+     "id": "MLB19381117",
+     "link_afiliado": "https://meli.la/33W4z6G",
+     "titulo": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
+     "de": "129,90",
+     "por": "68,90",
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_859161-MLA99962428017_112025-F.webp",
+     "categoria": "Suplementos",
+     "slot": "11:00"
+    },
+    {
+     "id": "MLB6087971",
+     "link_afiliado": "https://meli.la/2jfPkmH",
+     "titulo": "Proteína Max Titanium Whey Pro Concentrado em Pó Sabor Morango 1kg",
+     "de": "199,90",
+     "por": "82,34",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_608162-MLA112813208483_062026-F.webp",
+     "categoria": "Suplementos",
+     "slot": "12:00"
+    },
+    {
+     "id": "MLB19451614",
+     "link_afiliado": "https://meli.la/2XNWwrs",
+     "titulo": "Suplemento em Pó Dark Lab Carboidratos Dark Mass 3kg",
+     "de": "249,90",
+     "por": "68,92",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_852996-MLA99937703973_112025-F.webp",
+     "categoria": "Suplementos",
+     "slot": "13:00"
+    },
+    {
+     "id": "MLB72652758",
+     "link_afiliado": "https://meli.la/27TQN1N",
+     "titulo": "Proteína Growth Supplements Basic Whey Pro em Pó Sabor Morango 1kg",
+     "de": "104,90",
+     "por": "62,90",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_678358-MLA112725007198_062026-F.webp",
+     "categoria": "Suplementos",
+     "slot": "14:00"
+    },
+    {
+     "id": "MLB19603205",
+     "link_afiliado": "https://meli.la/14efTZ7",
+     "titulo": "Creatina Growth Supplements Monohidratada em Pó Sem Sabor 250g",
+     "de": "64,90",
+     "por": "39,90",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_662415-MLA97812910758_112025-F.webp",
+     "categoria": "Suplementos",
+     "slot": "15:00"
+    },
+    {
+     "id": "MLB53177203",
+     "link_afiliado": "https://meli.la/2QJf6vy",
+     "titulo": "Whey Protein XPro Nutrition Iso Blend Complex Baunilha 2kg",
+     "de": "139,99",
+     "por": "93,49",
+     "rating": "4.6",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_932547-MLA107593298027_022026-F.webp",
+     "categoria": "Suplementos",
+     "slot": "16:00"
+    }
+   ],
+   "pronto": true
   }
  },
  "completo": false,
