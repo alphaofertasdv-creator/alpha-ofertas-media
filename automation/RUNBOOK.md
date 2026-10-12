@@ -126,3 +126,13 @@ Em 11/10, 6 de 35 postagens agendadas estavam com preço defasado (preço muda e
 - STORIES: 5 Stories, cada um de um NICHO DIFERENTE, e diferente do nicho do carrossel (1 de cada nicho; rodar os nichos de dia para dia para todos aparecerem).
 - Mesmas regras de qualidade: preço da página do produto, desconto >= 20%, marca conhecida, não repetir produto em 7 dias.
 - Ao registrar no historico.json de carrossel/Stories, gravar também o campo `nicho`.
+
+## ATUALIZAÇÃO 12/10 — MOVIMENTO NOS GRUPOS (SOBREPÕE regras anteriores de cadência e filtros)
+Objetivo do usuário: os grupos precisam ter envio e movimento o dia inteiro.
+**Cadência:** 1 envio a cada 30 MINUTOS em cada um dos 8 grupos, das 08:00 às 20:00 (25 horários por grupo). Na Importar Lote: Intervalo 30, Primeiro 08:00, Último 20:00 (ou o trecho do lote). Se não houver ofertas verificadas para todos os horários, ESPALHE as disponíveis ao longo do dia (não gaste tudo de manhã); priorize não deixar a tarde/noite vazias. Nunca invente/relaxe a verificação de preço para encher horário.
+**Filtros ampliados:**
+1. Mais fontes (além de `/ofertas?container_id=MLB779362-1&category=...`): páginas de mais vendidos, ofertas relâmpago/do dia, cupons e páginas de marcas/lojas oficiais do Mercado Livre; varrer várias páginas (page=1..N) de cada categoria e subcategorias. Toda oferta continua sendo verificada na PÁGINA do produto.
+2. Desconto mínimo 15% (antes 20%). Ordem de preferência: >= 20% primeiro; usar 15–19% para completar horários. Na Importar Lote: Desconto mínimo 15. (Exige-se preço original real na página.)
+4. Não repetir o mesmo produto por 4 dias (antes 7). Pode repetir antes disso SE o preço atual caiu ainda mais (>= 5% menor que o postado). Na Importar Lote: Dias sem repetir 4.
+Mantidos: marca conhecida/boa reputação (nota >= 4,6 quando houver), verificação 100% de preço/link, captcha = alerta, nicho diferente no carrossel/Stories.
+**Rodadas ao longo do dia (porque são ~200 postagens):** além das etapas 1a/1b/2 (madrugada), há reforços às 08:30 (horários 13:00–16:30), 11:30 (17:00–20:00) e 14:30 (reposição de buracos e noite): cada reforço busca ofertas, gera links um a um, agenda e verifica 100%, só em horários futuros, e avisa no AVISO CLAUDE.
