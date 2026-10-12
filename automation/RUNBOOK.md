@@ -147,3 +147,32 @@ Caso real: em 12/10 o envio das 12:00 (Tech, Power Bank Baseus) falhou com `500:
 **1. Rechecagem dos próximos envios (reforços 08:30, 11:30, 14:30 e Etapa 4 07:30).** O preço verificado às 05:30 pode mudar até o envio (caso real 12/10: Tênis Reserva planejado R$ 194,15, página R$ 259,19). Em cada reforço, além de preencher buracos: liste as postagens PENDENTES dos próximos ~3 horas (app.db somente leitura: schedules status='pending' com run_at entre agora e agora+3h, com campaigns.message e link) e reconfira cada uma na PÁGINA do produto (navegação normal, ~3 s entre páginas, captcha = alerta). Se preço/desconto diverge (>1%) ou produto indisponível: excluir o agendamento pela Central (lixeira → 'Confirmar exclusão') e reimportar com o texto/preço corrigido no MESMO horário (Importar Lote, Dias sem repetir 0), ou deixar o horário vazio se o desconto ficou < 15%. Avisar no AVISO CLAUDE: `🔁 Preço atualizado antes do envio: <produto> R$ X → R$ Y (<grupo> HH:MM)`. Nunca deixar passar um envio com preço divergente. Quem fica a menos de 15 min do envio e não deu tempo de reconferir: priorize reconferir esses primeiro.
 **2. Banco de ofertas (`automation/banco-ofertas.json`).** Ao fim de cada dia, ofertas boas e verificadas que SOBRARAM (não agendadas) são gravadas com {id, link_afiliado, titulo, categoria, nicho, de, por, rating, imagem_url, data_verificacao}. No dia seguinte, o preparo (1a/1b) pode usá-las para completar horários SOMENTE depois de reverificar preço/desconto/link na página do produto de hoje (preço antigo nunca é usado). Descartar do banco itens com mais de 5 dias, que repitam (regra de 4 dias do histórico) ou que não passem na reverificação.
 **3. Prioridade de horários.** Horários próximos do envio têm prioridade de verificação. Horários vazios são melhores que oferta com preço velho.
+
+## PADRÃO DE AVISOS (12/10 noite) — SUBSTITUI os formatos de aviso anteriores
+Objetivo: o usuário lê em 5 segundos, no celular, e entende o que aconteceu e se precisa fazer algo. Vale para TODAS as etapas, reforços e a vigia. Português simples, sem jargão (nada de "app.db", "n8n workflow", "Importar Lote", IDs; diga "agendamento", "grupo Tech", "envio das 12:00"). Máximo ~6 linhas. Uma ideia por mensagem. Sempre no AVISO CLAUDE.
+
+**Três níveis (o emoji da 1ª linha diz tudo):**
+- 🔴 *PRECISO DE VOCÊ* — só quando a rotina NÃO consegue seguir sozinha. Formato:
+  `🔴 PRECISO DE VOCÊ`
+  `O que aconteceu: <1 frase simples>`
+  `O que fazer: <passo concreto, ex.: "abra o Chrome e resolva o captcha do Mercado Livre">`
+  `Depois disso: <o que a rotina faz sozinha>`
+  Repetir no máximo a cada 10 min enquanto não resolvido.
+- 🟡 *ATENÇÃO (já resolvido ou sem ação sua)* — algo deu errado/mudou e a rotina tratou. Formato:
+  `🟡 <o que houve em 1 frase>` + `✔ Resolvido: <o que foi feito>` + (se couber) `Sem ação sua.`
+  Ex.: `🟡 O envio das 12:00 no grupo Tech falhou (erro do sistema de envio).` / `✔ Reenviado às 12:06.` Ex. preço: `🟡 Preço mudou: Tênis Reserva R$ 194,15 → R$ 259,19 (grupo Moda Masc. 12:00)` / `✔ Texto corrigido antes do envio.`
+- 🟢 *TUDO CERTO* — só nos marcos: início do dia e resumo final. Nada de aviso de progresso por % (removido).
+
+**Resumo final do dia (07:30, Etapa 4) — formato fixo:**
+```
+🟢 RESUMO DO DIA dd/mm
+📅 WhatsApp: X de Y envios agendados (08:00–20:00)
+   Tech N · Saúde N · Casa N · Academia N · Moda M. N · Moda F. N · Pesca N · Achados N
+📸 Instagram: Carrossel 19:00 – <produto> (<nicho>) · Stories: 09:00 <produto>, 11:30 ..., (nicho de cada)
+🔎 Conferidos na página do produto: X · Corrigidos: Y
+⚠️ Horários vazios: <lista curta ou "nenhum">
+👉 Você precisa fazer algo? NÃO / SIM: <o quê>
+```
+**Resumo da noite (último reforço 14:30 ou fim do dia):** mesma ideia curta com quantos envios saíram, quantos falharam e foram reenviados.
+
+**Menos ruído:** NÃO mandar avisos de progresso a cada 30 min nem de início de cada etapa. Mandar: (1) 🟢 início do dia (04:00, 1 linha), (2) 🟡/🔴 quando houver algo, (3) o resumo final das 07:30, (4) os horários reais dos Stories/carrossel (📲 uma mensagem), (5) um resumo curto ao fim de cada reforço SÓ se algo foi corrigido/agendado. Se nada aconteceu, silêncio.
