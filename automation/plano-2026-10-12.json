@@ -295,7 +295,7 @@
      "de": "28,90",
      "por": "20,80",
      "rating": "4.9",
-     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_711415-MLA71287082588_082023-F.webp",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_798796-MLA114682002460_082026-F.webp",
      "categoria": "Mercado",
      "slot": "12:00"
     },
@@ -570,7 +570,7 @@
      "de": "1.128,85",
      "por": "735,04",
      "rating": "4.8",
-     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_654350-MLA88713001900_072025-F.webp",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_950204-MLA49695604575_042022-F.webp",
      "categoria": "Perfumes",
      "slot": "18:00"
     }
@@ -809,5 +809,5 @@
   }
  },
  "completo": true,
- "nota_imagens": "imagem_url derivada da página do produto; conferir visualmente antes de publicar (itens Good Girl e outros podem ter foto errada)."
+ "nota_imagens": "imagem_url conferida por og:image da página do produto em 12/10; ainda assim checar visualmente os PNGs."
 }
