@@ -1,0 +1,126 @@
+{
+ "data": "2026-10-12",
+ "ig": {
+  "carrossel": null,
+  "stories": [],
+  "pronto": false
+ },
+ "grupos": {
+  "Moda Masculina": {
+   "ofertas": [
+    {
+     "id": "MLB3806655487",
+     "link_afiliado": "https://meli.la/2amuoA2",
+     "titulo": "Tênis Flyer Runner Mesh Bdp Puma",
+     "de": "349,99",
+     "por": "184,00",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_730513-MLB80451340719_112024-F.webp",
+     "categoria": "Tênis",
+     "slot": "08:00"
+    },
+    {
+     "id": "MLB2794030545",
+     "link_afiliado": "https://meli.la/1GULHLk",
+     "titulo": "Kit 6 Cuecas Boxer Lupo Sem Costura Box Microfibra Original",
+     "de": "299,99",
+     "por": "111,47",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_797944-MLB82978249605_032025-F.webp",
+     "categoria": "Cuecas",
+     "slot": "09:00"
+    },
+    {
+     "id": "MLB5408593708",
+     "link_afiliado": "https://meli.la/1fsmmmv",
+     "titulo": "Tênis Casual Kappa Zenit Masculino Unissex Conforto",
+     "de": "229,99",
+     "por": "78,20",
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_627065-MLB109020200579_032026-F.webp",
+     "categoria": "Tênis",
+     "slot": "10:00"
+    },
+    {
+     "id": "MLB3373243849",
+     "link_afiliado": "https://meli.la/14XPDgd",
+     "titulo": "Chinelo Havaianas Top Max Comfort Masculino Anatômico Macio",
+     "de": "78,99",
+     "por": "35,92",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_748837-MLB70435586023_072023-F.webp",
+     "categoria": "Chinelos",
+     "slot": "11:00"
+    },
+    {
+     "id": "MLB5330020602",
+     "link_afiliado": "https://meli.la/1kLd5ej",
+     "titulo": "Tênis Reserva Masculino Casual Cano Baixo Antiderrapante",
+     "de": "389,99",
+     "por": "194,15",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_792057-MLB83437899705_032025-F.webp",
+     "categoria": "Tênis",
+     "slot": "12:00"
+    },
+    {
+     "id": "MLB3239976866",
+     "link_afiliado": "https://meli.la/2iZdcvw",
+     "titulo": "Kit 6 Pares Meias Puma Algodão Cano Médio Alto Atoalhado",
+     "de": "199,00",
+     "por": "46,99",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_617361-MLB54128842596_032023-F.webp",
+     "categoria": "Meias",
+     "slot": "13:00"
+    },
+    {
+     "id": "MLB4779497929",
+     "link_afiliado": "https://meli.la/1rC9e8U",
+     "titulo": "Tênis Puma 180 Skate Robusto Confortável Macio Camurça Black",
+     "de": "599,90",
+     "por": "183,90",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_715123-MLB113104767503_062026-F.webp",
+     "categoria": "Tênis",
+     "slot": "14:00"
+    },
+    {
+     "id": "MLB1858445728",
+     "link_afiliado": "https://meli.la/328TBKn",
+     "titulo": "Chinelo Havaianas Masculino Power 2.0 Anatômica Massageadora",
+     "de": "119,99",
+     "por": "49,99",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_841603-MLB86676857236_062025-F.webp",
+     "categoria": "Chinelos",
+     "slot": "15:00"
+    },
+    {
+     "id": "MLB1010954920",
+     "link_afiliado": "https://meli.la/2npqxex",
+     "titulo": "Kit 6 Cuecas Lupo Boxer Box Sem Costura Basic Microfibra",
+     "de": "288,63",
+     "por": "147,11",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_738813-MLB83279416363_032025-F.webp",
+     "categoria": "Cuecas",
+     "slot": "16:00"
+    },
+    {
+     "id": "MLB4049279695",
+     "link_afiliado": "https://meli.la/1QsPh7y",
+     "titulo": "Tênis Masculino Feminino Kappa Park 2.0 Original",
+     "de": "169,99",
+     "por": "76,00",
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_977148-MLB118261469421_092026-F.webp",
+     "categoria": "Tênis",
+     "slot": "17:00"
+    }
+   ],
+   "pronto": true
+  }
+ },
+ "completo": false
+}
