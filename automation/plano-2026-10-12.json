@@ -169,6 +169,34 @@
     }
    ],
    "pronto": true
+  },
+  "Pesca & Camping": {
+   "ofertas": [
+    {
+     "id": "MLB51338716",
+     "link_afiliado": "https://meli.la/2itTUUs",
+     "titulo": "Carretilha Sougayilang DSST3000 Perfil Alto 20kg Marítima Esquerda Preta",
+     "de": "237,00",
+     "por": "145,00",
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_607099-MLA98640907833_112025-F.webp",
+     "categoria": "Pesca",
+     "slot": "11:00"
+    },
+    {
+     "id": "MLBU5229578672",
+     "link_afiliado": "https://meli.la/147aJxr",
+     "titulo": "Kit Facas Marine Sports Mfk9t Mfk75t 9 e 7.5 Polegadas com Bainha",
+     "de": "199,99",
+     "por": "158,26",
+     "rating": "5.0",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_957142-MLB117806555717_092026-F.webp",
+     "categoria": "Camping",
+     "slot": "15:00"
+    }
+   ],
+   "pronto": true,
+   "obs": "Poucas ofertas de marca conhecida em pesca/camping hoje (varridas 12 páginas de Esportes e Fitness); slots vazios por qualidade."
   }
  },
  "completo": false
