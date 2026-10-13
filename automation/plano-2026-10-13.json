@@ -436,6 +436,50 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_796993-MLB88788122574_082025-O-perfume-asad-lataffa-100ml-eau-de-parfum-original-edp.webp",
      "categoria": "Beleza",
      "slot": "preenchimento"
+    },
+    {
+     "id": "MLB57473901",
+     "link_afiliado": "https://meli.la/1nTeYDs",
+     "titulo": "Kemei Maquina De Acabamento Km 2299 Profissional Cor Black",
+     "de": "184,90",
+     "por": "78,80",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_968734-MLA101181433884_122025-O.webp",
+     "categoria": "Beleza",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB22788717",
+     "link_afiliado": "https://meli.la/2oug9bi",
+     "titulo": "Lattafa AL NOBLE Wazeer Nicho EDP para masculino Original®",
+     "de": "239,99",
+     "por": "139,90",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_745446-MLA116976233561_082026-O.webp",
+     "categoria": "Beleza",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB50230438",
+     "link_afiliado": "https://meli.la/1QA994U",
+     "titulo": "Protetor Térmico Capilar Profissional Fluído Para Escova",
+     "de": "149,00",
+     "por": "59,00",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_832446-MLA99401332948_112025-O.webp",
+     "categoria": "Beleza",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB67316451",
+     "link_afiliado": "https://meli.la/2RZi7u5",
+     "titulo": "Body Splash My Sweet Delight E Very Sexy Barbour's 200ml",
+     "de": "98,90",
+     "por": "67,91",
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_895756-MLA114193182204_082026-O.webp",
+     "categoria": "Beleza",
+     "slot": "preenchimento"
     }
    ],
    "pronto": true
