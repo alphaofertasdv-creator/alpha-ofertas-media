@@ -937,7 +937,100 @@
     }
    ],
    "pronto": true
+  },
+  "Achados do Dia": {
+   "ofertas": [
+    {
+     "id": "MLB25371983",
+     "link_afiliado": "https://meli.la/2jdwy6u",
+     "titulo": "Lavadora de Alta Pressão Kärcher Compacta 1.500 PSI 220V",
+     "de": "499,90",
+     "por": "289,00",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_681126-MLA115545993062_082026-F.webp",
+     "categoria": "Achados do Dia",
+     "slot": "08:00"
+    },
+    {
+     "id": "MLB61672441",
+     "link_afiliado": "https://meli.la/1ZVJk4t",
+     "titulo": "Ração Seca Fórmula Natural Gatos Castrados Adultos Salmão 10kg",
+     "de": "515,00",
+     "por": "279,00",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_948000-MLA101823824285_122025-F.webp",
+     "categoria": "Achados do Dia",
+     "slot": "08:30"
+    },
+    {
+     "id": "MLB24115689",
+     "link_afiliado": "https://meli.la/2y3RmJJ",
+     "titulo": "Ração Quatree Life Gatos Adultos Castrados 10,1kg",
+     "de": "390,00",
+     "por": "160,91",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_744641-MLA99819221153_112025-F.webp",
+     "categoria": "Achados do Dia",
+     "slot": "09:00"
+    },
+    {
+     "id": "MLB18720059",
+     "link_afiliado": "https://meli.la/2j1CSiU",
+     "titulo": "Fórmula Natural Fresh Meat Sensitive Cães Adultos Mini e Pequeno Cordeiro 2,5kg",
+     "de": "200,00",
+     "por": "102,48",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_923889-MLA117031247953_092026-F.webp",
+     "categoria": "Achados do Dia",
+     "slot": "09:30"
+    },
+    {
+     "id": "MLB2872858451",
+     "link_afiliado": "https://meli.la/1fNEqMu",
+     "titulo": "Serra Mármore Profissional Vonder SMV1300S 1300W",
+     "de": "397,90",
+     "por": "278,07",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_733700-MLB91532938232_092025-F.webp",
+     "categoria": "Achados do Dia",
+     "slot": "10:00"
+    },
+    {
+     "id": "MLB29187736",
+     "link_afiliado": "https://meli.la/1A6Ce1S",
+     "titulo": "Lavadora de Alta Pressão Vonder 1400W LAV 1600 127V",
+     "de": "560,74",
+     "por": "369,99",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_886456-MLA100028169609_122025-F.webp",
+     "categoria": "Achados do Dia",
+     "slot": "10:30"
+    },
+    {
+     "id": "MLB62594944",
+     "link_afiliado": "https://meli.la/23WZ6yu",
+     "titulo": "Desumidificador de Ar Elétrico Antimofo 1800ml Relaxmedic",
+     "de": "699,90",
+     "por": "424,50",
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_854677-MLA113678033481_062026-F.webp",
+     "categoria": "Achados do Dia",
+     "slot": "11:00"
+    },
+    {
+     "id": "MLB60239158",
+     "link_afiliado": "https://meli.la/2PiSFiN",
+     "titulo": "Electrolux Filtro de Água Refil Acqua Pure Para Purificador",
+     "de": "89,66",
+     "por": "54,25",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_675440-MLA116699071891_082026-F.webp",
+     "categoria": "Achados do Dia",
+     "slot": "11:30"
+    }
+   ],
+   "pronto": true
   }
  },
- "completo": false
+ "completo": true
 }
