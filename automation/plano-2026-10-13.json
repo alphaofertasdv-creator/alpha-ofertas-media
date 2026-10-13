@@ -556,6 +556,83 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_653067-MLA110738695437_042026-F.webp",
      "categoria": "Academia",
      "slot": "11:30"
+    },
+    {
+     "id": "MLB40366976",
+     "link_afiliado": "https://meli.la/126bxys",
+     "titulo": "Whey Protein Concentrado 1kg Dark Lab Doce de Leite",
+     "de": "349,90",
+     "por": "139,92",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_926889-MLA99570923936_122025-F.webp",
+     "categoria": "Academia",
+     "slot": "12:00"
+    },
+    {
+     "id": "MLB19381117",
+     "link_afiliado": "https://meli.la/33W4z6G",
+     "titulo": "Whey Isolate Protein Fuse 900g Dark Lab Chocolate",
+     "de": "129,90",
+     "por": "68,90",
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_859161-MLA99962428017_112025-F.webp",
+     "categoria": "Academia",
+     "slot": "12:30"
+    },
+    {
+     "id": "MLB6087974",
+     "link_afiliado": "https://meli.la/1S9h39k",
+     "titulo": "Whey Pro Concentrado Max Titanium 1kg",
+     "de": "179,84",
+     "por": "99,99",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_960337-MLA111724818522_062026-F.webp",
+     "categoria": "Academia",
+     "slot": "13:00"
+    },
+    {
+     "id": "MLB72652758",
+     "link_afiliado": "https://meli.la/27TQN1N",
+     "titulo": "Proteína Growth Supplements Basic Whey Pro 1kg",
+     "de": "104,90",
+     "por": "62,90",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_678358-MLA112725007198_062026-F.webp",
+     "categoria": "Academia",
+     "slot": "13:30"
+    },
+    {
+     "id": "MLB31005509",
+     "link_afiliado": "https://meli.la/2JMKPhg",
+     "titulo": "Pré Treino Hórus 300g Max Titanium Frutas Vermelhas",
+     "de": "150,00",
+     "por": "55,10",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_831544-MLA112575509929_062026-F.webp",
+     "categoria": "Academia",
+     "slot": "14:00"
+    },
+    {
+     "id": "MLB18995412",
+     "link_afiliado": "https://meli.la/2DjegP8",
+     "titulo": "Whey 100% HD Black Skull Morango 900g",
+     "de": "152,70",
+     "por": "87,72",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_704678-MLA111536954849_052026-F.webp",
+     "categoria": "Academia",
+     "slot": "14:30"
+    },
+    {
+     "id": "MLB40182325",
+     "link_afiliado": "https://meli.la/1EexhLs",
+     "titulo": "Whey Protein Concentrado 1kg Morango Dark Lab",
+     "de": "349,90",
+     "por": "139,92",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_927988-MLA99469885866_112025-F.webp",
+     "categoria": "Academia",
+     "slot": "15:00"
     }
    ],
    "pronto": true
