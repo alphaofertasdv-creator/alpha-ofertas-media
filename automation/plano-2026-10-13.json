@@ -1704,6 +1704,61 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_963485-MLB94579785063_102025-O-800mlgarrafa-termica-agua-squeeze-inox-academiaquente-e-frio.webp",
      "categoria": "Garrafas",
      "slot": "preenchimento"
+    },
+    {
+     "id": "MLBU3035409711",
+     "link_afiliado": "https://meli.la/1aRED8D",
+     "titulo": "Colchão Inflável Solteiro 300kg C/elétrico Bomba+travesseiro",
+     "de": "599,98",
+     "por": "280,99",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_920644-MLB115131092750_082026-O-colchao-inflavel-solteiro-300kg-celetrico-bombatravesseiro.webp",
+     "categoria": "Camping",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB77323172",
+     "link_afiliado": "https://meli.la/2wNXnnA",
+     "titulo": "Bomba De Ar Elétrica Portátil Compressor Calibrador De Pneus Digital Para Carro Moto Bicicleta Inflador Recarregável Auxiliar De Partida Bateria Power Bank Celular Emergência Automotiva Quicko",
+     "de": "349,90",
+     "por": "167,53",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_863869-MLA115253606218_082026-O.webp",
+     "categoria": "Automotivo",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLBU2788534492",
+     "link_afiliado": "https://meli.la/1R9yHFY",
+     "titulo": "Lanterna Led Tática Mais Forte Do Mundo 2km Militar Potente",
+     "de": "278,65",
+     "por": "159,97",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_705288-MLB92249703072_092025-O-lanterna-led-tatica-mais-forte-do-mundo-2km-militar-potente.webp",
+     "categoria": "Lanternas",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLBU4934539578",
+     "link_afiliado": "https://meli.la/21UXwGf",
+     "titulo": "Garrafa Térmica Inox À Vácuo 2 Litros Squeeze Academia Água",
+     "de": "93,32",
+     "por": "68,38",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_981249-MLB117314465309_092026-O-garrafa-termica-inox-a-vacuo-2-litros-squeeze-academia-agua.webp",
+     "categoria": "Garrafas",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLBU4858601419",
+     "link_afiliado": "https://meli.la/25cdxQN",
+     "titulo": "Kit Molinete Pesca + Vara De Pesca Telescopica",
+     "de": "99,99",
+     "por": "66,62",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_788369-MLB116963566835_082026-O-kit-molinete-pesca--vara-de-pesca-telescopica.webp",
+     "categoria": "Pesca",
+     "slot": "preenchimento"
     }
    ],
    "pronto": true
