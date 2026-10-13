@@ -183,3 +183,12 @@ Diagnóstico 13/10 (09:46): o preparo da madrugada achou só 82 ofertas verifica
 **Prioridade de horário:** preencher primeiro os horários mais próximos de agora e ir adiante; distribuir ofertas entre os grupos em rodízio (não completar um grupo e deixar outros vazios).
 **Meta de volume:** buscar pelo menos 2x o necessário (≥50 candidatas por grupo) para sobrar após a verificação. Usar `banco-ofertas.json` e sobras de dias anteriores (reverificando preço). Guardar o excedente no banco.
 **Aviso:** ao fim de cada rodada, se ainda houver horário vazio num grupo, 🟡 com a lista curta ("Pesca: 15:30, 16:00 sem oferta") e o motivo em uma frase.
+
+## AJUSTES 13/10 NOITE (balanço do dia)
+Balanço 13/10: WhatsApp 170 enviados, 0 falhas, 24 pendentes normais (19:00–20:00). Instagram: 4 Stories publicados, carrossel 19:00 e Story 20:30 pendentes. Falhas de execução: nenhuma.
+Problemas: (1) 6 horários vazios entre 09:00 e 10:30 (Pesca 09:00/09:30/10:00, Moda Feminina 10:00, Achados 09:30/10:00): faltou oferta nos grupos fracos e o reforço só preencheu depois das 10:30. (2) O Vigia encerrava em ~25 s em vez de ficar 60 min.
+Regras novas:
+- Grupos "fracos" (Pesca & Camping, Moda Feminina, Achados do Dia): na Etapa 1b começar por eles, buscar 2x o necessário, já usar nichos vizinhos/achados para horários 08:00–12:30.
+- Etapa 2 (05:30) e Etapa 4 (07:30): NÃO apenas listar buracos — PREENCHER todo horário vazio antes das 11:00 (e os demais futuros) pela REGRA NENHUM GRUPO FICA SEM OFERTA. Nenhum buraco antes das 11:00 deve sobrar às 08:00.
+- Existe o grupo "teste agendador wpp" na Central: IGNORAR. Só valem os 8 grupos "AlphaOfertas | ...".
+- Vigia: roda a cada 30 min (:28 e :58, das 07:28 às 19:58), uma checagem por execução; falha encontrada é corrigida e reenviada uma única vez (alvo: run_at + 5 min; se já passou, logo após corrigir).
