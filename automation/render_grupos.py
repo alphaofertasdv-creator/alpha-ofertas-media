@@ -34,8 +34,7 @@ def story():
 <div style="position:absolute;left:64px;right:64px;top:370px"><div class="d" style="font-size:88px;line-height:1.0;text-transform:uppercase">Você gosta de<br><span class="y">ofertas?</span></div>
 <div style="margin-top:28px;font-size:40px;font-weight:700;color:#C9C9D3;line-height:1.3">Escolha seu grupo e receba ofertas todos os dias:</div></div>
 {cards(740,34,128,20)}
-<div style="position:absolute;left:44px;right:44px;top:1510px;height:250px;border-radius:44px;background:linear-gradient(135deg,#FFD83A,#FFCC00 55%,#F2B800);color:#0D0D0F;padding:34px 40px;box-shadow:0 30px 70px rgba(255,204,0,.25)">
-<div class="d" style="font-size:54px;line-height:1.02;text-transform:uppercase">Clique no link abaixo<br>e entre no grupo</div><div style="margin-top:14px;font-weight:800;font-size:32px">Toque no botão de link 👇</div></div>
+<div style="position:absolute;left:64px;right:64px;top:1390px;text-align:center"><div class="d" style="font-size:58px;line-height:1.05;text-transform:uppercase">Clique no link abaixo<br><span class="y">e entre no grupo</span></div><div style="margin-top:20px;font-size:70px;line-height:1" class="y">⬇</div></div>
 </div></body></html>'''
 async def main():
     async with async_playwright() as p:
