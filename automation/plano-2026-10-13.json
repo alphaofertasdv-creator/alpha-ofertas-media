@@ -348,6 +348,61 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_631595-MLA99350047876_112025-F.webp",
      "categoria": "Saúde & Beleza",
      "slot": "12:00"
+    },
+    {
+     "id": "MLBU4793518944",
+     "link_afiliado": "https://meli.la/2Ds4dZW",
+     "titulo": "Perfume Club De Nuit Intense Da Armaf Edt 105ml Masculino",
+     "de": "299,00",
+     "por": "203,32",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_863486-MLB114945658162_082026-O-perfume-club-de-nuit-intense-da-armaf-edt-105ml-masculino.webp",
+     "categoria": "Beleza",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB67373298",
+     "link_afiliado": "https://meli.la/2y3wz4f",
+     "titulo": "Perfume Feminino Giorgio Armani Emporio Power Of You Eau De Parfum 90 Ml",
+     "de": "989,00",
+     "por": "533,69",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_841226-MLA109726985683_032026-O.webp",
+     "categoria": "Beleza",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLBU3402023514",
+     "link_afiliado": "https://meli.la/26ydKqw",
+     "titulo": "Perfume Arabe Feminino Al Wataniah Sabah Al Ward Edp 100ml",
+     "de": "199,90",
+     "por": "127,43",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_722022-MLB104540037760_012026-O-perfume-arabe-feminino-al-wataniah-sabah-al-ward-edp-100ml.webp",
+     "categoria": "Beleza",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLBU2341646922",
+     "link_afiliado": "https://meli.la/2HgtMf8",
+     "titulo": "Floratta Red O Boticário Desodorante Colônia Perfume Feminino Original 75ml",
+     "de": "164,90",
+     "por": "118,91",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_929453-MLB116511907750_092026-O-floratta-red-o-boticario-desodorante-colonia-perfume-feminino-original-75ml.webp",
+     "categoria": "Beleza",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLBU3063059862",
+     "link_afiliado": "https://meli.la/1JTPs97",
+     "titulo": "Perfume Asad Lataffa 100ml Eau De Parfum Original Edp",
+     "de": "299,00",
+     "por": "177,90",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_796993-MLB88788122574_082025-O-perfume-asad-lataffa-100ml-eau-de-parfum-original-edp.webp",
+     "categoria": "Beleza",
+     "slot": "preenchimento"
     }
    ],
    "pronto": true
@@ -463,6 +518,61 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_764405-MLU77356955449_062024-F.webp",
      "categoria": "Casa",
      "slot": "12:30"
+    },
+    {
+     "id": "MLB51534391",
+     "link_afiliado": "https://meli.la/1WphmoK",
+     "titulo": "Varal Dobrável De Chão 3 Andares De Roupas Grande Com Rodinha Aba Lateral Retrátil Para Cabide Irsina",
+     "de": "129,99",
+     "por": "68,91",
+     "rating": "4.6",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_909863-MLA89943157034_082025-O.webp",
+     "categoria": "Casa",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB63904966",
+     "link_afiliado": "https://meli.la/2S6iybk",
+     "titulo": "Kit 10 Potes Vidro Hermetico Vai Ao Forno Microondas 640ml Marmita Hermético Freezer Fitness Rishon",
+     "de": "197,77",
+     "por": "87,62",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_900432-MLA113518359539_062026-O.webp",
+     "categoria": "Casa",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB24273671",
+     "link_afiliado": "https://meli.la/1GhysKo",
+     "titulo": "Vaso Sanitário Tubrax Monobloco VAB0002 Caixa Acoplada Completo Privada Cor Branco",
+     "de": "1014,90",
+     "por": "573,00",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_632053-MLA96114658485_102025-O.webp",
+     "categoria": "Casa",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB52868715",
+     "link_afiliado": "https://meli.la/2KELJdv",
+     "titulo": "Fritadeira Elétrica Air Fryer Quad Fry 4,2 L,1400w Preto Elgin",
+     "de": "299,00",
+     "por": "135,00",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_813389-MLA99520090726_112025-O.webp",
+     "categoria": "Eletrodomésticos",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB49822923",
+     "link_afiliado": "https://meli.la/2qHFtCp",
+     "titulo": "Batedeira Planetária Philco 900W 5L Preta 12 Velocidades Turbo PBP90A",
+     "de": "470,00",
+     "por": "284,90",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_728713-MLA99416610212_112025-O.webp",
+     "categoria": "Eletrodomésticos",
+     "slot": "preenchimento"
     }
    ],
    "pronto": true
@@ -885,6 +995,61 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_839390-MLB109632002819_032026-F.webp",
      "categoria": "Moda Feminina",
      "slot": "11:00"
+    },
+    {
+     "id": "MLB75615449",
+     "link_afiliado": "https://meli.la/1bvdthS",
+     "titulo": "Mochila feminina, reforçada, impermeável, com capacidade para laptop, ideal para viagens diárias, ida à escola e deslocamentos de trabalho.",
+     "de": "198,00",
+     "por": "68,82",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_755204-MLA113564929198_072026-O.webp",
+     "categoria": "Bolsas",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLBU753778921",
+     "link_afiliado": "https://meli.la/1cCoarG",
+     "titulo": "Kit 10 Calcinhas Clássica Cintura Média Algodão Delrio",
+     "de": "211,15",
+     "por": "128,50",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_879655-MLB71570566280_092023-O-kit-10-calcinhas-classica-cintura-media-algodao-delrio.webp",
+     "categoria": "Lingerie",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLBU3790212486",
+     "link_afiliado": "https://meli.la/2e2uUhm",
+     "titulo": "Blusa Feminina The North Face Casaco A019n",
+     "de": "599,00",
+     "por": "408,99",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_760729-MLA92242226415_092025-O-blusa-feminina-the-north-face-casaco-a019n.webp",
+     "categoria": "Roupas",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLBU5039963595",
+     "link_afiliado": "https://meli.la/1BGvLBp",
+     "titulo": "Chinelo Havaianas Slim Square Sandália Feminina Quadrada",
+     "de": "69,90",
+     "por": "38,47",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_758890-MLB116981105613_082026-O-chinelo-havaianas-slim-square-sandalia-feminina-quadrada.webp",
+     "categoria": "Calçados",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB55893605",
+     "link_afiliado": "https://meli.la/1U9yXKW",
+     "titulo": "Mochila Viagem Feminina Expansível Impermeável Antifurto Com Porta Usb, Notebook 17,3 Polegadas Com 3 Bolsos, Mochila De Mão Aprovada Para Avião 10kg, Vancropak 6649 Branco",
+     "de": "199,00",
+     "por": "148,94",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_674639-MLA118103905117_092026-O.webp",
+     "categoria": "Bolsas",
+     "slot": "preenchimento"
     }
    ],
    "pronto": true
@@ -934,6 +1099,28 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_711297-MLA110750090884_052026-F.webp",
      "categoria": "Pesca & Camping",
      "slot": "09:30"
+    },
+    {
+     "id": "MLB63804634",
+     "link_afiliado": "https://meli.la/2W5DrYn",
+     "titulo": "Tenda Gazebo 3x3 Sanfonado Retrátil Praia Pesca Camping C/ Bolsa De Transporte Marca Usd",
+     "de": "595,84",
+     "por": "389,90",
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_735342-MLA103449135751_012026-O.webp",
+     "categoria": "Camping",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB77319633",
+     "link_afiliado": "https://meli.la/1ikNpn9",
+     "titulo": "Ecozendsy Colchão Inflável Casal Queen Size com Bomba Elétrico Recarregável Embutida Portátil 203x150x45cm",
+     "de": "498,00",
+     "por": "343,78",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_606503-MLA116805900705_082026-O.webp",
+     "categoria": "Camping",
+     "slot": "preenchimento"
     }
    ],
    "pronto": true
@@ -1027,6 +1214,61 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_675440-MLA116699071891_082026-F.webp",
      "categoria": "Achados do Dia",
      "slot": "11:30"
+    },
+    {
+     "id": "MLB40583845",
+     "link_afiliado": "https://meli.la/142ctTK",
+     "titulo": "Lavadora de Alta Pressão Kärcher Compacta 1.500 PSI 1400W 300L/h com Aplicador de Detergente e Lança Regulável",
+     "de": "499,90",
+     "por": "289,00",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_746691-MLA118789821329_102026-O.webp",
+     "categoria": "Ferramentas",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB6339959",
+     "link_afiliado": "https://meli.la/1r7dctC",
+     "titulo": "Aspirador de Pó e Água WAP GTW INOX 12 1400W com Bocal de Sopro",
+     "de": "696,00",
+     "por": "250,57",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_608043-MLA99867297737_112025-O.webp",
+     "categoria": "Casa",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB75429183",
+     "link_afiliado": "https://meli.la/1CorEyP",
+     "titulo": "Multiprocessador Britânia 5 em 1 com Liquidificador 2,2L e Processador 1,25L 1000W BMP10A",
+     "de": "366,73",
+     "por": "174,26",
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_679224-MLA116191603939_082026-O.webp",
+     "categoria": "Eletrodomésticos",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB29307476",
+     "link_afiliado": "https://meli.la/29qS1h4",
+     "titulo": "Máquina Inversora De Solda Portatil Mma Eletrodo MI150D 120A The Black Tools",
+     "de": "397,87",
+     "por": "189,90",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_845995-MLA104461209320_012026-O.webp",
+     "categoria": "Ferramentas",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB66128181",
+     "link_afiliado": "https://meli.la/1LpqKkS",
+     "titulo": "Ventilador de Teto 60W Silencioso Lâmpada Forte com LED, Controle e 6 Pás Soquete E27 Para Residencial Comercial Interno Externo Quarto Sala Cozinha Escritório Gourmet Apartamento Casa - Commlite",
+     "de": "99,00",
+     "por": "42,90",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_695332-MLA118292636431_092026-O.webp",
+     "categoria": "Casa",
+     "slot": "preenchimento"
     }
    ],
    "pronto": true

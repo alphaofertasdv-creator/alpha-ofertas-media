@@ -202,5 +202,65 @@
   "img": "https://http2.mlstatic.com/D_NQ_NP_695332-MLA118292636431_092026-O.webp",
   "cat": "Casa",
   "nicho": "Achados"
+ },
+ {
+  "id": "MLB75615449",
+  "pid": "p/MLB75615449",
+  "link": "https://meli.la/1bvdthS",
+  "titulo": "Mochila feminina, reforçada, impermeável, com capacidade para laptop, ideal para viagens diárias, ida à escola e deslocamentos de trabalho.",
+  "de": 198,
+  "por": 68.82,
+  "rating": 4.9,
+  "img": "https://http2.mlstatic.com/D_NQ_NP_755204-MLA113564929198_072026-O.webp",
+  "cat": "Bolsas",
+  "nicho": "Moda Feminina"
+ },
+ {
+  "id": "MLBU753778921",
+  "pid": "up/MLBU753778921",
+  "link": "https://meli.la/1cCoarG",
+  "titulo": "Kit 10 Calcinhas Clássica Cintura Média Algodão Delrio",
+  "de": 211.15,
+  "por": 128.5,
+  "rating": 4.9,
+  "img": "https://http2.mlstatic.com/D_NQ_NP_879655-MLB71570566280_092023-O-kit-10-calcinhas-classica-cintura-media-algodao-delrio.webp",
+  "cat": "Lingerie",
+  "nicho": "Moda Feminina"
+ },
+ {
+  "id": "MLBU3790212486",
+  "pid": "up/MLBU3790212486",
+  "link": "https://meli.la/2e2uUhm",
+  "titulo": "Blusa Feminina The North Face Casaco A019n",
+  "de": 599,
+  "por": 408.99,
+  "rating": 4.9,
+  "img": "https://http2.mlstatic.com/D_NQ_NP_760729-MLA92242226415_092025-O-blusa-feminina-the-north-face-casaco-a019n.webp",
+  "cat": "Roupas",
+  "nicho": "Moda Feminina"
+ },
+ {
+  "id": "MLBU5039963595",
+  "pid": "up/MLBU5039963595",
+  "link": "https://meli.la/1BGvLBp",
+  "titulo": "Chinelo Havaianas Slim Square Sandália Feminina Quadrada",
+  "de": 69.9,
+  "por": 38.47,
+  "rating": 4.8,
+  "img": "https://http2.mlstatic.com/D_NQ_NP_758890-MLB116981105613_082026-O-chinelo-havaianas-slim-square-sandalia-feminina-quadrada.webp",
+  "cat": "Calçados",
+  "nicho": "Moda Feminina"
+ },
+ {
+  "id": "MLB55893605",
+  "pid": "p/MLB55893605",
+  "link": "https://meli.la/1U9yXKW",
+  "titulo": "Mochila Viagem Feminina Expansível Impermeável Antifurto Com Porta Usb, Notebook 17,3 Polegadas Com 3 Bolsos, Mochila De Mão Aprovada Para Avião 10kg, Vancropak 6649 Branco",
+  "de": 199,
+  "por": 148.94,
+  "rating": 4.9,
+  "img": "https://http2.mlstatic.com/D_NQ_NP_674639-MLA118103905117_092026-O.webp",
+  "cat": "Bolsas",
+  "nicho": "Moda Feminina"
  }
 ]
