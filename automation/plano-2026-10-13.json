@@ -759,9 +759,113 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_704713-MLB113579192342_072026-F.webp",
      "categoria": "Moda Masculina",
      "slot": "13:00"
+    },
+    {
+     "id": "MLBU3571629134",
+     "link_afiliado": "https://meli.la/2VPUU2N",
+     "titulo": "Kit 3 Camisetas Hering Masculino Branco",
+     "de": "159,99",
+     "por": "71,99",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_735167-MLB101057985114_122025-F.webp",
+     "categoria": "Moda Masculina",
+     "slot": "13:30"
+    },
+    {
+     "id": "MLBU4336681084",
+     "link_afiliado": "https://meli.la/1fbKoRC",
+     "titulo": "Camisa Polo Reserva Masculino Regular Essence",
+     "de": "299,00",
+     "por": "144,00",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_853645-MLB115139220408_082026-F.webp",
+     "categoria": "Moda Masculina",
+     "slot": "14:00"
+    },
+    {
+     "id": "MLBU3682453759",
+     "link_afiliado": "https://meli.la/2JjeXde",
+     "titulo": "Tênis Kappa Treviso Original Unissex Confortável Academia",
+     "de": "177,64",
+     "por": "77,00",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_739677-MLA104579615121_012026-F.webp",
+     "categoria": "Moda Masculina",
+     "slot": "14:30"
     }
    ],
    "pronto": true
+  },
+  "Moda Feminina": {
+   "ofertas": [
+    {
+     "id": "MLBU3870371719",
+     "link_afiliado": "https://meli.la/2Ma6tYw",
+     "titulo": "Bolsa Santa Lolla Flap Bag Média Estruturada Alça Dupla",
+     "de": "367,90",
+     "por": "203,26",
+     "rating": "5.0",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_760011-MLB79483825564_102024-F.webp",
+     "categoria": "Moda Feminina",
+     "slot": "08:00"
+    },
+    {
+     "id": "MLBU4581046357",
+     "link_afiliado": "https://meli.la/2U4r5jk",
+     "titulo": "Bolsa Santa Lolla Balada Envelope Alça Tiracolo",
+     "de": "237,90",
+     "por": "137,49",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_720140-MLB115890265357_082026-F.webp",
+     "categoria": "Moda Feminina",
+     "slot": "08:30"
+    },
+    {
+     "id": "MLB5633556572",
+     "link_afiliado": "https://meli.la/2xVcR62",
+     "titulo": "Tamanco Usaflex Palmilha Massageador Conforto Couro Preto",
+     "de": "165,90",
+     "por": "111,70",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_826326-MLB90545754680_082025-F.webp",
+     "categoria": "Moda Feminina",
+     "slot": "09:00"
+    },
+    {
+     "id": "MLBU5072867298",
+     "link_afiliado": "https://meli.la/1TzmJg8",
+     "titulo": "Chinelo Havaianas Slim Square Sandália Feminina",
+     "de": "69,90",
+     "por": "34,32",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_985740-MLB116980396899_082026-F.webp",
+     "categoria": "Moda Feminina",
+     "slot": "09:30"
+    },
+    {
+     "id": "MLB4122915057",
+     "link_afiliado": "https://meli.la/2VBKdtV",
+     "titulo": "Chinelo Moleca Feminino Casual Sola Leve Confortável",
+     "de": "69,88",
+     "por": "41,00",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_694210-MLB111047112763_042026-F.webp",
+     "categoria": "Moda Feminina",
+     "slot": "10:00"
+    },
+    {
+     "id": "MLBU4063721000",
+     "link_afiliado": "https://meli.la/2XWJggd",
+     "titulo": "Chinelo Havaianas Track Waves Max Conforto",
+     "de": "54,98",
+     "por": "31,59",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_904446-MLB112854015473_062026-F.webp",
+     "categoria": "Moda Feminina",
+     "slot": "10:30"
+    }
+   ],
+   "pronto": false
   }
  },
  "completo": false
