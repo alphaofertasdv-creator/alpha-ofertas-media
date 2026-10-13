@@ -636,6 +636,132 @@
     }
    ],
    "pronto": true
+  },
+  "Moda Masculina": {
+   "ofertas": [
+    {
+     "id": "MLB3746645279",
+     "link_afiliado": "https://meli.la/2wwUX8u",
+     "titulo": "Tênis adidas Ultimashow 2.0",
+     "de": "379,99",
+     "por": "237,40",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_839178-MLB81963635588_022025-F.webp",
+     "categoria": "Moda Masculina",
+     "slot": "08:00"
+    },
+    {
+     "id": "MLB3791308351",
+     "link_afiliado": "https://meli.la/1DowhVY",
+     "titulo": "Tênis Nike Air Max Nuaxis Masculino",
+     "de": "599,99",
+     "por": "351,49",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_987155-MLB100382942534_122025-F.webp",
+     "categoria": "Moda Masculina",
+     "slot": "08:30"
+    },
+    {
+     "id": "MLBU3752105161",
+     "link_afiliado": "https://meli.la/2X1mUwU",
+     "titulo": "Tênis Masculino Glide Vortex Skechers",
+     "de": "479,99",
+     "por": "181,94",
+     "rating": "5.0",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_911032-MLA104032064096_012026-F.webp",
+     "categoria": "Moda Masculina",
+     "slot": "09:00"
+    },
+    {
+     "id": "MLB4811334869",
+     "link_afiliado": "https://meli.la/1eUGtgq",
+     "titulo": "Bota Timberland Masculina Couro Waterproof NL252",
+     "de": "399,90",
+     "por": "267,00",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_678577-MLB112548504104_062026-F.webp",
+     "categoria": "Moda Masculina",
+     "slot": "09:30"
+    },
+    {
+     "id": "MLB7734921338",
+     "link_afiliado": "https://meli.la/2KwruTQ",
+     "titulo": "Tênis Fila Academia Corrida Caminhada Heating Treino Leve",
+     "de": "333,00",
+     "por": "108,77",
+     "rating": "5.0",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_888581-MLB118565728995_102026-F.webp",
+     "categoria": "Moda Masculina",
+     "slot": "10:00"
+    },
+    {
+     "id": "MLB5857442960",
+     "link_afiliado": "https://meli.la/2Ai4NPi",
+     "titulo": "Tênis Kappa Pulse Supra Unissex de Corrida Conforto",
+     "de": "259,99",
+     "por": "121,54",
+     "rating": "4.6",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_802382-MLB117165413363_092026-F.webp",
+     "categoria": "Moda Masculina",
+     "slot": "10:30"
+    },
+    {
+     "id": "MLB5532075156",
+     "link_afiliado": "https://meli.la/225S6QK",
+     "titulo": "Tênis Kappa Pulse Rx Unissex Corrida Conforto",
+     "de": "289,99",
+     "por": "129,38",
+     "rating": "4.6",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_788146-MLB116537413239_082026-F.webp",
+     "categoria": "Moda Masculina",
+     "slot": "11:00"
+    },
+    {
+     "id": "MLB4054011533",
+     "link_afiliado": "https://meli.la/1pXHCFD",
+     "titulo": "Tênis Kappa Sparta Unissex Original Confortável Caminhada",
+     "de": "219,00",
+     "por": "109,66",
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_685038-MLB119108793535_102026-F.webp",
+     "categoria": "Moda Masculina",
+     "slot": "11:30"
+    },
+    {
+     "id": "MLB4024756477",
+     "link_afiliado": "https://meli.la/24bYKNK",
+     "titulo": "Kit 4 Cuecas Boxer Lupo Poliamida Sem Costura",
+     "de": "299,99",
+     "por": "68,99",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_885265-MLB83473920054_042025-F.webp",
+     "categoria": "Moda Masculina",
+     "slot": "12:00"
+    },
+    {
+     "id": "MLB1871146249",
+     "link_afiliado": "https://meli.la/1dqDh7S",
+     "titulo": "Kit 4 Cuecas Boxer Lupo Algodão Confortável",
+     "de": "249,98",
+     "por": "68,98",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_812578-MLB82638744739_022025-F.webp",
+     "categoria": "Moda Masculina",
+     "slot": "12:30"
+    },
+    {
+     "id": "MLB4057042938",
+     "link_afiliado": "https://meli.la/1e5DWkQ",
+     "titulo": "Chinelo Havaianas Dual Masculina",
+     "de": "78,99",
+     "por": "39,99",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_704713-MLB113579192342_072026-F.webp",
+     "categoria": "Moda Masculina",
+     "slot": "13:00"
+    }
+   ],
+   "pronto": false
   }
  },
  "completo": false
