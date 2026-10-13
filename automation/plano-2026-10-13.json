@@ -247,6 +247,110 @@
     }
    ],
    "pronto": true
+  },
+  "Saúde & Beleza": {
+   "ofertas": [
+    {
+     "id": "MLB59252898",
+     "link_afiliado": "https://meli.la/31UW8ca",
+     "titulo": "Máquina de Raspar Pelos Philips Body Groomer Série 3000",
+     "de": "299,90",
+     "por": "201,84",
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_873677-MLA112721117648_062026-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": "08:00"
+    },
+    {
+     "id": "MLB59251129",
+     "link_afiliado": "https://meli.la/2JYb5fY",
+     "titulo": "Aparador e Barbeador Elétrico Philips All-in-One Série 3000 8 em 1 MG3917/15",
+     "de": "257,38",
+     "por": "132,99",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_946682-MLA99987371267_112025-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": "08:30"
+    },
+    {
+     "id": "MLB24086423",
+     "link_afiliado": "https://meli.la/1gfN32o",
+     "titulo": "Prancha Lizze Profissional 480 Extreme",
+     "de": "459,00",
+     "por": "357,47",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_818555-MLA99479472410_112025-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": "09:00"
+    },
+    {
+     "id": "MLB19462412",
+     "link_afiliado": "https://meli.la/17DE1fZ",
+     "titulo": "Máscara de Reconstrução Profunda Kérastase Résistance Thérapiste 200ml",
+     "de": "399,90",
+     "por": "206,10",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_753132-MLA99450295832_112025-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": "09:30"
+    },
+    {
+     "id": "MLB21360271",
+     "link_afiliado": "https://meli.la/1G2LEKZ",
+     "titulo": "Club 6 Voyage Desodorante Colônia 95ml",
+     "de": "299,90",
+     "por": "86,99",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_888890-MLA109484188480_042026-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": "10:00"
+    },
+    {
+     "id": "MLB27838890",
+     "link_afiliado": "https://meli.la/2ECxn8V",
+     "titulo": "Body Spray Carolina Herrera 212 Men NYC 250ml",
+     "de": "258,90",
+     "por": "159,25",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_806865-MLA84175736968_052025-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": "10:30"
+    },
+    {
+     "id": "MLB60968045",
+     "link_afiliado": "https://meli.la/323yBD6",
+     "titulo": "Principia Kit Essencial GL-03 + CH + VC + PS Sensível Dia/Noite",
+     "de": "211,00",
+     "por": "137,68",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_792011-MLA96077651979_102025-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": "11:00"
+    },
+    {
+     "id": "MLB54456751",
+     "link_afiliado": "https://meli.la/23Nu17h",
+     "titulo": "Principia Kit Protetor Solar Facial PS-01 FPS60",
+     "de": "98,99",
+     "por": "67,05",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_986471-MLA99264193954_112025-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": "11:30"
+    },
+    {
+     "id": "MLB25708528",
+     "link_afiliado": "https://meli.la/1nQY1qU",
+     "titulo": "Shampoo Tonalizante Grecin Control GX Reduz Grisalho 118ml",
+     "de": "111,90",
+     "por": "73,92",
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_631595-MLA99350047876_112025-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": "12:00"
+    }
+   ],
+   "pronto": true
   }
  },
  "completo": false
