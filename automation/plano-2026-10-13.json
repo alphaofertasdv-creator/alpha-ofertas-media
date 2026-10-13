@@ -985,6 +985,72 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_953920-MLA111544908875_052026-O.webp",
      "categoria": "Suplementos",
      "slot": "preenchimento"
+    },
+    {
+     "id": "MLB40183187",
+     "link_afiliado": "https://meli.la/2rUKiGd",
+     "titulo": "Whey Protein Concentrado 1kg Cookies & Cream Dark Lab",
+     "de": "349,90",
+     "por": "169,90",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_787532-MLA99872063625_112025-O.webp",
+     "categoria": "Suplementos",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB60940335",
+     "link_afiliado": "https://meli.la/1NE7oSk",
+     "titulo": "Ômega 3 Epa Dha 240 Cápsulas Dark Lab",
+     "de": "249,90",
+     "por": "94,90",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_876329-MLA99502619184_112025-O.webp",
+     "categoria": "Suplementos",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB18995414",
+     "link_afiliado": "https://meli.la/1ZuBo1q",
+     "titulo": "Proteína Black Skull Whey 100% HD em pó sabor Cookies and cream x 900g",
+     "de": "149,90",
+     "por": "89,29",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_985283-MLA118445694709_092026-O.webp",
+     "categoria": "Suplementos",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB50964456",
+     "link_afiliado": "https://meli.la/315yFQL",
+     "titulo": "Creatina Monohidratada Pura 300g TeOliver Suplemento Alimentar Sem Sabor",
+     "de": "78,90",
+     "por": "36,00",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_784165-MLA99573178034_122025-O.webp",
+     "categoria": "Suplementos",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB6087972",
+     "link_afiliado": "https://meli.la/2xUmi6q",
+     "titulo": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
+     "de": "179,84",
+     "por": "119,89",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_811723-MLA116971940367_082026-O.webp",
+     "categoria": "Suplementos",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB62279009",
+     "link_afiliado": "https://meli.la/1g7gFpM",
+     "titulo": "Kit Halteres Barra E Anilhas Musculação Kettlebell Ajustáveis Peso Academia 15kg",
+     "de": "397,58",
+     "por": "244,99",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_662357-MLA98274992604_112025-O.webp",
+     "categoria": "Acessórios de academia",
+     "slot": "preenchimento"
     }
    ],
    "pronto": true

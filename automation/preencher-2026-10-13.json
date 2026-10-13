@@ -922,5 +922,89 @@
   "img": "https://http2.mlstatic.com/D_NQ_NP_895756-MLA114193182204_082026-O.webp",
   "cat": "Beleza",
   "nicho": "Saúde & Beleza"
+ },
+ {
+  "id": "MLB40183187",
+  "pid": "p/MLB40183187",
+  "link": "https://meli.la/2rUKiGd",
+  "titulo": "Whey Protein Concentrado 1kg Cookies & Cream Dark Lab",
+  "de": 349.9,
+  "por": 169.9,
+  "rating": 4.9,
+  "img": "https://http2.mlstatic.com/D_NQ_NP_787532-MLA99872063625_112025-O.webp",
+  "cat": "Suplementos",
+  "nicho": "Academia"
+ },
+ {
+  "id": "MLB60940335",
+  "pid": "p/MLB60940335",
+  "link": "https://meli.la/1NE7oSk",
+  "titulo": "Ômega 3 Epa Dha 240 Cápsulas Dark Lab",
+  "de": 249.9,
+  "por": 94.9,
+  "rating": 4.9,
+  "img": "https://http2.mlstatic.com/D_NQ_NP_876329-MLA99502619184_112025-O.webp",
+  "cat": "Suplementos",
+  "nicho": "Academia"
+ },
+ {
+  "id": "MLB18995414",
+  "pid": "p/MLB18995414",
+  "link": "https://meli.la/1ZuBo1q",
+  "titulo": "Proteína Black Skull Whey 100% HD em pó sabor Cookies and cream x 900g",
+  "de": 149.9,
+  "por": 89.29,
+  "rating": 4.8,
+  "img": "https://http2.mlstatic.com/D_NQ_NP_985283-MLA118445694709_092026-O.webp",
+  "cat": "Suplementos",
+  "nicho": "Academia"
+ },
+ {
+  "id": "MLB50964456",
+  "pid": "p/MLB50964456",
+  "link": "https://meli.la/315yFQL",
+  "titulo": "Creatina Monohidratada Pura 300g TeOliver Suplemento Alimentar Sem Sabor",
+  "de": 78.9,
+  "por": 36.0,
+  "rating": 4.9,
+  "img": "https://http2.mlstatic.com/D_NQ_NP_784165-MLA99573178034_122025-O.webp",
+  "cat": "Suplementos",
+  "nicho": "Academia"
+ },
+ {
+  "id": "MLB6087972",
+  "pid": "p/MLB6087972",
+  "link": "https://meli.la/2xUmi6q",
+  "titulo": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
+  "de": 179.84,
+  "por": 119.89,
+  "rating": 4.8,
+  "img": "https://http2.mlstatic.com/D_NQ_NP_811723-MLA116971940367_082026-O.webp",
+  "cat": "Suplementos",
+  "nicho": "Academia"
+ },
+ {
+  "id": "MLB62279009",
+  "pid": "p/MLB62279009",
+  "link": "https://meli.la/1g7gFpM",
+  "titulo": "Kit Halteres Barra E Anilhas Musculação Kettlebell Ajustáveis Peso Academia 15kg",
+  "de": 397.58,
+  "por": 244.99,
+  "rating": 4.9,
+  "img": "https://http2.mlstatic.com/D_NQ_NP_662357-MLA98274992604_112025-O.webp",
+  "cat": "Acessórios de academia",
+  "nicho": "Academia"
+ },
+ {
+  "id": "MLB68265734",
+  "pid": "p/MLB68265734",
+  "link": "https://meli.la/2XkfgpP",
+  "titulo": "Progressiva Profissional Sem Formol 1l Com Reconstrutor Sos",
+  "de": 129.99,
+  "por": 59.0,
+  "rating": 4.9,
+  "img": "https://http2.mlstatic.com/D_NQ_NP_925366-MLA116612961754_092026-O.webp",
+  "cat": "Beleza",
+  "nicho": "Saúde & Beleza"
  }
 ]
