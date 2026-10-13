@@ -1320,6 +1320,39 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_831085-MLA104725017050_012026-O.webp",
      "categoria": "Mochilas",
      "slot": "preenchimento"
+    },
+    {
+     "id": "MLB5242634806",
+     "link_afiliado": "https://meli.la/1obCTGW",
+     "titulo": "Kit 3 Camisetas Masculina Dry Alpha Lobo Geométrico",
+     "de": "149,70",
+     "por": "63,90",
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_958758-MLB95430789672_102025-O-kit-3-camisetas-masculina-dry-alpha-lobo-geometrico.webp",
+     "categoria": "Camisetas",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB2222397098",
+     "link_afiliado": "https://meli.la/2JRG79Z",
+     "titulo": "Daily T-shirt Insider",
+     "de": "139,00",
+     "por": "59,00",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_616903-MLB115107953006_082026-O-daily-t-shirt-insider.webp",
+     "categoria": "Camisetas",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB5826749660",
+     "link_afiliado": "https://meli.la/2HXakNv",
+     "titulo": "Kit Com 10 Cuecas Boxer Microfibra Adulto Usee Brasil",
+     "de": "129,90",
+     "por": "68,99",
+     "rating": "4.6",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_764265-MLB95975419796_102025-O-kit-com-10-cuecas-boxer-microfibra-adulto-usee-brasil.webp",
+     "categoria": "Roupa íntima",
+     "slot": "preenchimento"
     }
    ],
    "pronto": true
