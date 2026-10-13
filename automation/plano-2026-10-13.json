@@ -1523,6 +1523,72 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_805840-MLB114319837272_082026-O-conjunto-fitness-feminino-top-shorts-forrado-alca-ajustavel.webp",
      "categoria": "Roupas fitness",
      "slot": "preenchimento"
+    },
+    {
+     "id": "MLB5806603044",
+     "link_afiliado": "https://meli.la/1FUt9zk",
+     "titulo": "Calça Cargo Jeans Feminina Wide Leg Cintura Alta Stillger",
+     "de": "119,90",
+     "por": "52,80",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_885605-MLB110975212788_052026-O-calca-cargo-jeans-feminina-wide-leg-cintura-alta-stillger.webp",
+     "categoria": "Roupas",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB3392296475",
+     "link_afiliado": "https://meli.la/31MX5oc",
+     "titulo": "Calça Jeans Wide Leg Feminina Cintura Alta Sem Lycra Stillge",
+     "de": "109,99",
+     "por": "53,90",
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_717613-MLB96633630079_102025-O-calca-jeans-wide-leg-feminina-cintura-alta-sem-lycra-stillge.webp",
+     "categoria": "Roupas",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB3951203745",
+     "link_afiliado": "https://meli.la/33BurSa",
+     "titulo": "Kit 6 Pares Meias Soquete Invisível Lupo Algodão Unissex",
+     "de": "139,99",
+     "por": "37,59",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_607238-MLB83444185857_032025-O-kit-6-pares-meias-soquete-invisivel-lupo-algodo-unissex.webp",
+     "categoria": "Meias",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB4347478841",
+     "link_afiliado": "https://meli.la/26yrsPk",
+     "titulo": "Tênis Feminino Para Academia Leve Confortável Original O2x",
+     "de": "69,90",
+     "por": "39,92",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_656009-MLB113146199047_062026-O-tnis-feminino-para-academia-leve-confortavel-original-o2x.webp",
+     "categoria": "Calçados",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB4860428020",
+     "link_afiliado": "https://meli.la/31GJiEP",
+     "titulo": "Kit 4 Sutiãs Com Bojo Alça Reforçada Cores Lisas Revenda",
+     "de": "69,99",
+     "por": "40,99",
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_793191-MLB109574677861_032026-O-kit-4-sutis-com-bojo-alca-reforcada-cores-lisas-revenda.webp",
+     "categoria": "Lingerie",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB4810647054",
+     "link_afiliado": "https://meli.la/2ch19qH",
+     "titulo": "Cinta Modeladora Feminina Com Barbatana Redutora Cintura 750",
+     "de": "179,90",
+     "por": "101,53",
+     "rating": "4.6",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_749868-MLB117134894049_092026-O-cinta-modeladora-feminina-com-barbatana-redutora-cintura-750.webp",
+     "categoria": "Lingerie",
+     "slot": "preenchimento"
     }
    ],
    "pronto": true
