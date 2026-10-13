@@ -792,6 +792,17 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_739677-MLA104579615121_012026-F.webp",
      "categoria": "Moda Masculina",
      "slot": "14:30"
+    },
+    {
+     "id": "MLB5776022084",
+     "link_afiliado": "https://meli.la/27ww76c",
+     "titulo": "Tênis Casual Mormaii Urban Back Original Dia a Dia",
+     "de": "399,99",
+     "por": "89,99",
+     "rating": "5.0",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_974133-MLB111198130012_052026-F.webp",
+     "categoria": "Moda Masculina",
+     "slot": "15:00"
     }
    ],
    "pronto": true
@@ -863,9 +874,69 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_904446-MLB112854015473_062026-F.webp",
      "categoria": "Moda Feminina",
      "slot": "10:30"
+    },
+    {
+     "id": "MLB4342493479",
+     "link_afiliado": "https://meli.la/1uxMMC3",
+     "titulo": "Sandália Beira Rio Feminina Salto Grosso Meia Pata Conforto",
+     "de": "159,90",
+     "por": "105,07",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_839390-MLB109632002819_032026-F.webp",
+     "categoria": "Moda Feminina",
+     "slot": "11:00"
     }
    ],
-   "pronto": false
+   "pronto": true
+  },
+  "Pesca & Camping": {
+   "ofertas": [
+    {
+     "id": "MLB53219301",
+     "link_afiliado": "https://meli.la/1421TAM",
+     "titulo": "Linha Multifilamento Sougayilang 8 Fios Pesca",
+     "de": "82,00",
+     "por": "44,00",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_604357-MLA100085791475_122025-F.webp",
+     "categoria": "Pesca & Camping",
+     "slot": "08:00"
+    },
+    {
+     "id": "MLBU4730079126",
+     "link_afiliado": "https://meli.la/31wtpk1",
+     "titulo": "Copo Café Térmico Stanley Mug 236ml Original com Alça",
+     "de": "237,39",
+     "por": "194,15",
+     "rating": "",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_831851-MLA116142599633_082026-F.webp",
+     "categoria": "Pesca & Camping",
+     "slot": "08:30"
+    },
+    {
+     "id": "MLB36215168",
+     "link_afiliado": "https://meli.la/2wtizH5",
+     "titulo": "Mesa Dobrável Portátil 1,80m Polipropileno e Ferro Veronn",
+     "de": "423,93",
+     "por": "249,90",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_848580-MLA95970952315_102025-F.webp",
+     "categoria": "Pesca & Camping",
+     "slot": "09:00"
+    },
+    {
+     "id": "MLB69701409",
+     "link_afiliado": "https://meli.la/1Cr14Zg",
+     "titulo": "Colchão Inflável Casal Queen com Bomba Elétrica Embutida",
+     "de": "574,58",
+     "por": "374,18",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_711297-MLA110750090884_052026-F.webp",
+     "categoria": "Pesca & Camping",
+     "slot": "09:30"
+    }
+   ],
+   "pronto": true
   }
  },
  "completo": false
