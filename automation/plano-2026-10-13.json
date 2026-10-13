@@ -606,6 +606,83 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_728713-MLA99416610212_112025-O.webp",
      "categoria": "Eletrodomésticos",
      "slot": "preenchimento"
+    },
+    {
+     "id": "MLB78898519",
+     "link_afiliado": "https://meli.la/1pna8vW",
+     "titulo": "Panela Pressão 4,2l Indução Cerâmica 4 Válvulas Segurança Cor Cinza Claro",
+     "de": "429,90",
+     "por": "139,90",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_841940-MLA117154218567_092026-O.webp",
+     "categoria": "Casa",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB40692921",
+     "link_afiliado": "https://meli.la/1wrfHQD",
+     "titulo": "Aspirador de Pó Turbo Cycle, Mondial, 1500W - AP-40-R",
+     "de": "299,90",
+     "por": "146,74",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_967302-MLA99938374873_112025-O.webp",
+     "categoria": "Eletrodomésticos",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB42225245",
+     "link_afiliado": "https://meli.la/1PAQR6r",
+     "titulo": "Air Fryer Oven 12L WAP 10 Funções Pré-Programadas Dois Andares Antiaderente GrayStone Fritadeira Elétrica 220V",
+     "de": "849,86",
+     "por": "476,90",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_898071-MLA99545431524_122025-O.webp",
+     "categoria": "Eletrodomésticos",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB62000830",
+     "link_afiliado": "https://meli.la/2Rc1sSV",
+     "titulo": "Chaleira Elétrica Inox 1,8L 1500W Aquecimento Rápido Automática",
+     "de": "59,90",
+     "por": "33,52",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_944898-MLA117076737007_092026-O.webp",
+     "categoria": "Eletrodomésticos",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB75466404",
+     "link_afiliado": "https://meli.la/14j71Vf",
+     "titulo": "Chaleira Elétrica Luxena Inox de 1.8 Litros Com Desligamento Automático",
+     "de": "69,90",
+     "por": "31,92",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_950533-MLA115732440651_082026-O.webp",
+     "categoria": "Eletrodomésticos",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB36949953",
+     "link_afiliado": "https://meli.la/2b2gxxy",
+     "titulo": "Cooktop De Indução 2 Bocas Dako Com Zona Flexível e 9 Níveis de Potência Mais Turbo",
+     "de": "989,00",
+     "por": "501,51",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_671674-MLA99739135242_122025-O.webp",
+     "categoria": "Eletrodomésticos",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB16068867",
+     "link_afiliado": "https://meli.la/1Gh9Y4f",
+     "titulo": "Fogão Atlas 5 Bocas preto Mônaco Top Glass com Acendimento automático",
+     "de": "1889,00",
+     "por": "1096,20",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_882285-MLA94802002462_102025-O.webp",
+     "categoria": "Eletrodomésticos",
+     "slot": "preenchimento"
     }
    ],
    "pronto": true
