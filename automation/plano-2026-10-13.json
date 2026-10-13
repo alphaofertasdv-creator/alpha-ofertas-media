@@ -1390,6 +1390,28 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_695332-MLA118292636431_092026-O.webp",
      "categoria": "Casa",
      "slot": "preenchimento"
+    },
+    {
+     "id": "MLB63036814",
+     "link_afiliado": "https://meli.la/14jPjKc",
+     "titulo": "Smart Tv 32 Philco P32vik Roku Led Dolby Audio Hdr Wi-fi 110/220v",
+     "de": "1499,00",
+     "por": "1031,58",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_904550-MLA100972962937_122025-O.webp",
+     "categoria": "TVs",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB38481041",
+     "link_afiliado": "https://meli.la/2tQDT7k",
+     "titulo": "Kit Duracell Com 16 Pilhas Aa E 16 Pilhas Aaa",
+     "de": "195,70",
+     "por": "124,90",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_721036-MLA99439702098_112025-O.webp",
+     "categoria": "Pilhas",
+     "slot": "preenchimento"
     }
    ],
    "pronto": true
