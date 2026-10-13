@@ -1259,6 +1259,72 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_674639-MLA118103905117_092026-O.webp",
      "categoria": "Bolsas",
      "slot": "preenchimento"
+    },
+    {
+     "id": "MLBU3907991803",
+     "link_afiliado": "https://meli.la/2ruAu8d",
+     "titulo": "Oculos De Sol Feminino Barcur Polarizado Uv400 Original Nfe",
+     "de": "159,90",
+     "por": "111,50",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_791562-MLB110085706938_042026-O-oculos-de-sol-feminino-barcur-polarizado-uv400-original-nfe.webp",
+     "categoria": "Acessórios",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLBU3781146505",
+     "link_afiliado": "https://meli.la/2Wo5NMw",
+     "titulo": "Kit 12 Pares Meia Soquete Cano Curto Confortavel Premium",
+     "de": "69,90",
+     "por": "22,95",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_988774-MLB115747640792_092026-O-kit-12-pares-meia-soquete-cano-curto-confortavel-premium.webp",
+     "categoria": "Meias",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLBU4153703718",
+     "link_afiliado": "https://meli.la/2fnTdYx",
+     "titulo": "Conjunto Feminino Inverno Calça Com Bolso Casaco Blusa",
+     "de": "159,90",
+     "por": "78,05",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_946993-MLB113677647355_062026-O-conjunto-feminino-inverno-calca-com-bolso-casaco-blusa.webp",
+     "categoria": "Roupas",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLBU3783906977",
+     "link_afiliado": "https://meli.la/2ZettDf",
+     "titulo": "Sandália Chinelo Confortável Antiderrapante Mahayana Preta",
+     "de": "59,99",
+     "por": "34,30",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_624296-MLB115726224361_082026-O-sandalia-chinelo-confortavel-antiderrapante-mahayana-preta.webp",
+     "categoria": "Calçados",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLBU4745070270",
+     "link_afiliado": "https://meli.la/1SuaChM",
+     "titulo": "Kit 10 Calcinhas Fio Dental Canelado Forro 100% Algodão",
+     "de": "55,99",
+     "por": "30,40",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_724394-MLB116908265025_082026-O-kit-10-calcinhas-fio-dental-canelado-forro-100-algodao.webp",
+     "categoria": "Lingerie",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLBU4609592576",
+     "link_afiliado": "https://meli.la/1rb4bPr",
+     "titulo": "Conjunto Fitness Feminino Top Shorts Forrado Alça Ajustável",
+     "de": "89,90",
+     "por": "39,12",
+     "rating": "4.5",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_805840-MLB114319837272_082026-O-conjunto-fitness-feminino-top-shorts-forrado-alca-ajustavel.webp",
+     "categoria": "Roupas fitness",
+     "slot": "preenchimento"
     }
    ],
    "pronto": true
