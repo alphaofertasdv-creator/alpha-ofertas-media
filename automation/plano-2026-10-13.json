@@ -244,6 +244,39 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_697599-MLA96116668711_102025-F.webp",
      "categoria": "Tech",
      "slot": "14:30"
+    },
+    {
+     "id": "MLB20704214",
+     "link_afiliado": "https://meli.la/23yxNVk",
+     "titulo": "Roteador HUAWEI WiFi AX2S 5 GHz Wi-Fi 6 HarmonyOS Mesh+ EasyMeshVisualização de Diagnósticos do Wi-Fi Controle Parental Branco",
+     "de": "499,00",
+     "por": "138,81",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_740344-MLA113061165432_072026-O.webp",
+     "categoria": "Informática",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB41734795",
+     "link_afiliado": "https://meli.la/12LziX3",
+     "titulo": "Notebook Acer Aspire 5 A515-45-R5AT AMD Ryzen 5 5500U 15.6\"AMD Radeon Graphics 256GB SDD 8GB RAM Windows 11",
+     "de": "6699,00",
+     "por": "3390,59",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_809656-MLA82164414546_022025-O.webp",
+     "categoria": "Notebooks",
+     "slot": "preenchimento"
+    },
+    {
+     "id": "MLB67270079",
+     "link_afiliado": "https://meli.la/13guKz5",
+     "titulo": "Smart Tv Philco 40 P40vik Led Roku Dolby Audio Wi-fi Hdmi Hdr Full Hd 110/220v",
+     "de": "2099,00",
+     "por": "1349,00",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_889361-MLA108743612064_032026-O.webp",
+     "categoria": "TVs",
+     "slot": "preenchimento"
     }
    ],
    "pronto": true
