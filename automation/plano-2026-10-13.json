@@ -466,6 +466,99 @@
     }
    ],
    "pronto": true
+  },
+  "Academia": {
+   "ofertas": [
+    {
+     "id": "MLB26796581",
+     "link_afiliado": "https://meli.la/1H6NE3b",
+     "titulo": "Creatina Dark Lab Premium Pure em Pó Sem Sabor 500g",
+     "de": "99,80",
+     "por": "39,92",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_734286-MLA115263082370_082026-F.webp",
+     "categoria": "Academia",
+     "slot": "08:00"
+    },
+    {
+     "id": "MLB19506691",
+     "link_afiliado": "https://meli.la/2UrFdCh",
+     "titulo": "Creatina Dark Lab Premium Pure em Pó Sem Sabor 300g",
+     "de": "78,90",
+     "por": "31,92",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_830138-MLA116668021755_082026-F.webp",
+     "categoria": "Academia",
+     "slot": "08:30"
+    },
+    {
+     "id": "MLB66637233",
+     "link_afiliado": "https://meli.la/1y2uT8T",
+     "titulo": "Creatina Growth Supplements Monohidratada em Pó Sem Sabor 500g",
+     "de": "104,90",
+     "por": "68,90",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_870227-MLA116260093488_092026-F.webp",
+     "categoria": "Academia",
+     "slot": "09:00"
+    },
+    {
+     "id": "MLB18725403",
+     "link_afiliado": "https://meli.la/2dFhn3v",
+     "titulo": "Whey Growth Supplements Basic em Pó Chocolate 1kg",
+     "de": "104,90",
+     "por": "72,90",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_819000-MLA101180020755_122025-F.webp",
+     "categoria": "Academia",
+     "slot": "09:30"
+    },
+    {
+     "id": "MLB79171629",
+     "link_afiliado": "https://meli.la/2VTZzvt",
+     "titulo": "Creatina Monohidratada 300g Soufit Pink Lemonade",
+     "de": "129,00",
+     "por": "74,00",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_901481-MLA117480275895_092026-F.webp",
+     "categoria": "Academia",
+     "slot": "10:00"
+    },
+    {
+     "id": "MLB40182826",
+     "link_afiliado": "https://meli.la/2peSNqg",
+     "titulo": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+     "de": "349,90",
+     "por": "169,90",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_827032-MLA100010410071_122025-F.webp",
+     "categoria": "Academia",
+     "slot": "10:30"
+    },
+    {
+     "id": "MLB63673020",
+     "link_afiliado": "https://meli.la/2d3uGN1",
+     "titulo": "Bicicleta Spinning Winnek Enduro Roda de Inércia 20kg Bluetooth",
+     "de": "2.852,85",
+     "por": "1.523,93",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_926199-MLA104268345393_012026-F.webp",
+     "categoria": "Academia",
+     "slot": "11:00"
+    },
+    {
+     "id": "MLB35959035",
+     "link_afiliado": "https://meli.la/1qThmVw",
+     "titulo": "Mineral/Vitamina Bodyaction Nutri Science Magnésio, Inositol, Taurina e Melatonina 210g Maracujá",
+     "de": "72,59",
+     "por": "35,12",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_653067-MLA110738695437_042026-F.webp",
+     "categoria": "Academia",
+     "slot": "11:30"
+    }
+   ],
+   "pronto": true
   }
  },
  "completo": false
