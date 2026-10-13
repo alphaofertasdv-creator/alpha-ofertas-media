@@ -15,7 +15,7 @@ body{background:#0A0A0C;font-family:'Inter','Inter Display',sans-serif;color:#ff
 def head(top):
     return f'''<div style="position:absolute;left:56px;right:56px;top:{top}px;display:flex;align-items:center;justify-content:space-between">
 <div style="display:flex;align-items:center;gap:18px"><img src="file://{LOGO}" style="width:84px;height:84px;border-radius:22px;box-shadow:0 10px 30px rgba(255,204,0,.25)"><div class="d" style="font-size:30px;text-transform:uppercase">Alpha Ofertas</div></div>
-<span style="background:#FFCC00;color:#0D0D0F;font-weight:900;font-size:25px;padding:14px 26px;border-radius:999px;letter-spacing:.04em">GRÁTIS</span></div>'''
+</div>'''
 def cards(top,fs,h,gap):
     items=''.join(f'<div class="glass" style="display:flex;align-items:center;gap:22px;height:{h}px;padding:0 30px;border-radius:30px;font-size:{fs}px;font-weight:800"><span style="font-size:{fs+8}px;width:{fs+16}px;text-align:center">{e}</span><span>{t}</span></div>' for e,t in G)
     return f'<div style="position:absolute;left:56px;right:56px;top:{top}px;display:grid;grid-template-columns:1fr 1fr;gap:{gap}px">{items}</div>'
