@@ -262,5 +262,101 @@
   "img": "https://http2.mlstatic.com/D_NQ_NP_674639-MLA118103905117_092026-O.webp",
   "cat": "Bolsas",
   "nicho": "Moda Feminina"
+ },
+ {
+  "id": "MLB18725308",
+  "pid": "p/MLB18725308",
+  "link": "https://meli.la/1URW7oP",
+  "titulo": "Creatina Soldiers Nutrition em pó Sem sabor x 500g",
+  "de": 78.9,
+  "por": 35.92,
+  "rating": 4.9,
+  "img": "https://http2.mlstatic.com/D_NQ_NP_858065-MLA112585347120_062026-O.webp",
+  "cat": "Suplementos",
+  "nicho": "Academia"
+ },
+ {
+  "id": "MLB19381120",
+  "pid": "p/MLB19381120",
+  "link": "https://meli.la/1mGbnGp",
+  "titulo": "Whey protein Dark Lab Isolate Fuse em pó sabor Morango x 900g",
+  "de": 129.9,
+  "por": 68.9,
+  "rating": 4.7,
+  "img": "https://http2.mlstatic.com/D_NQ_NP_779193-MLA99886212521_112025-O.webp",
+  "cat": "Suplementos",
+  "nicho": "Academia"
+ },
+ {
+  "id": "MLB40367709",
+  "pid": "p/MLB40367709",
+  "link": "https://meli.la/1mDiRrM",
+  "titulo": "Whey Protein Concentrado 1kg Dark Lab Sabor Baunilha",
+  "de": 349.9,
+  "por": 139.92,
+  "rating": 4.9,
+  "img": "https://http2.mlstatic.com/D_NQ_NP_999968-MLA99990200369_112025-O.webp",
+  "cat": "Suplementos",
+  "nicho": "Academia"
+ },
+ {
+  "id": "MLB23181844",
+  "pid": "p/MLB23181844",
+  "link": "https://meli.la/2Njm8Pw",
+  "titulo": "Creatina Dark Lab Premium em cápsula Sem sabor de 120 un",
+  "de": 69.31,
+  "por": 26.32,
+  "rating": 4.9,
+  "img": "https://http2.mlstatic.com/D_NQ_NP_781740-MLA100071017091_122025-O.webp",
+  "cat": "Suplementos",
+  "nicho": "Academia"
+ },
+ {
+  "id": "MLB18953097",
+  "pid": "p/MLB18953097",
+  "link": "https://meli.la/1DgwJ18",
+  "titulo": "Proteína Soldiers Nutrition Suplementação Whey Protein em pó sabor Chocolate x 1kg",
+  "de": 429.9,
+  "por": 149.9,
+  "rating": 4.8,
+  "img": "https://http2.mlstatic.com/D_NQ_NP_859018-MLA100008028659_122025-O.webp",
+  "cat": "Suplementos",
+  "nicho": "Academia"
+ },
+ {
+  "id": "MLB18724696",
+  "pid": "p/MLB18724696",
+  "link": "https://meli.la/2ZRB8Ts",
+  "titulo": "Suplemento em pó Max Titanium Mass Titanium Refil 17500 Carboidratos sabor Chocolate x 3kg",
+  "de": 199.9,
+  "por": 73,
+  "rating": 4.8,
+  "img": "https://http2.mlstatic.com/D_NQ_NP_910957-MLA113002407784_072026-O.webp",
+  "cat": "Suplementos",
+  "nicho": "Academia"
+ },
+ {
+  "id": "MLB6104856",
+  "pid": "p/MLB6104856",
+  "link": "https://meli.la/2L53Khe",
+  "titulo": "Creatina Max Titanium em pó Sem sabor x 300g",
+  "de": 85.42,
+  "por": 35.92,
+  "rating": 4.8,
+  "img": "https://http2.mlstatic.com/D_NQ_NP_920350-MLA113966831509_062026-O.webp",
+  "cat": "Suplementos",
+  "nicho": "Academia"
+ },
+ {
+  "id": "MLB18995413",
+  "pid": "p/MLB18995413",
+  "link": "https://meli.la/2xHzkTR",
+  "titulo": "Proteína Black Skull Whey 100% HD em pó sabor Chocolate x 900g",
+  "de": 149.9,
+  "por": 95,
+  "rating": 4.8,
+  "img": "https://http2.mlstatic.com/D_NQ_NP_953920-MLA111544908875_052026-O.webp",
+  "cat": "Suplementos",
+  "nicho": "Academia"
  }
 ]
