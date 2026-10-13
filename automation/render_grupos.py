@@ -26,7 +26,7 @@ def feed():
 <div style="margin-top:22px;font-size:34px;font-weight:700;color:#C9C9D3;line-height:1.3">Temos grupos de ofertas para cada interesse. Escolha o seu e receba ofertas todos os dias:</div></div>
 {cards(540,30,104,18).replace('grid-template-columns:1fr 1fr','grid-template-columns:1fr 1fr')}
 <div style="position:absolute;left:44px;right:44px;bottom:44px;height:190px;border-radius:44px;background:linear-gradient(135deg,#FFD83A,#FFCC00 55%,#F2B800);color:#0D0D0F;padding:28px 40px;box-shadow:0 30px 70px rgba(255,204,0,.25)">
-<div class="d" style="font-size:52px;line-height:1;text-transform:uppercase">Clique no link da bio</div><div style="margin-top:12px;font-weight:800;font-size:30px">e entre no grupo que você mais gosta 👆</div></div>
+<div class="d" style="font-size:52px;line-height:1;text-transform:uppercase">Clique no link da bio</div><div style="margin-top:12px;font-weight:800;font-size:30px">e escolha o seu grupo 👆</div></div>
 </div></body></html>'''
 def story():
     return f'''<html><head><meta charset="utf-8"><style>{CSS}.cv{{height:1920px}}</style></head><body><div class="cv"><div class="grid"></div>
