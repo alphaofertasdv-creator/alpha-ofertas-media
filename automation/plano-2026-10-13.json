@@ -88,6 +88,166 @@
   ],
   "pronto": true
  },
- "grupos": {},
+ "grupos": {
+  "Tech & Setup": {
+   "ofertas": [
+    {
+     "id": "MLB63777677",
+     "link_afiliado": "https://meli.la/2onxsUT",
+     "titulo": "Smart TV Samsung 43 LS43F6000FGXZD Full HD LED",
+     "de": "1.999,00",
+     "por": "1.528,55",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_D_NQ_NP_850374-MLA103344560695_012026-F.webp",
+     "categoria": "Tech",
+     "slot": "08:00"
+    },
+    {
+     "id": "MLB76490088",
+     "link_afiliado": "https://meli.la/18SQ9oN",
+     "titulo": "Smart TV Philco 60\" P60VIK 4K UHD LED Roku Dolby Audio",
+     "de": "4.999,00",
+     "por": "2.705,43",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_D_NQ_NP_749790-MLA114385704722_082026-F.webp",
+     "categoria": "Tech",
+     "slot": "08:30"
+    },
+    {
+     "id": "MLB50301060",
+     "link_afiliado": "https://meli.la/2izEhW8",
+     "titulo": "Smartphone Motorola Moto G56 5G 256GB 8GB RAM + 8GB Boost",
+     "de": "2.299,00",
+     "por": "1.298,70",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_748002-MLA104773303805_012026-F.webp",
+     "categoria": "Tech",
+     "slot": "09:00"
+    },
+    {
+     "id": "MLB55044657",
+     "link_afiliado": "https://meli.la/2a1yiEg",
+     "titulo": "Celular Samsung Galaxy A17 128GB 4GB RAM Câmera 50MP",
+     "de": "1.499,00",
+     "por": "849,10",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_807545-MLA91949036595_092025-F.webp",
+     "categoria": "Tech",
+     "slot": "09:30"
+    },
+    {
+     "id": "MLB63016702",
+     "link_afiliado": "https://meli.la/1eBC4aA",
+     "titulo": "Smartphone Motorola Moto G35 5G 12GB RAM Boost 128GB Grafite",
+     "de": "1.324,29",
+     "por": "969,00",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_649586-MLA100448312516_122025-F.webp",
+     "categoria": "Tech",
+     "slot": "10:00"
+    },
+    {
+     "id": "MLB47106610",
+     "link_afiliado": "https://meli.la/1irH3yb",
+     "titulo": "Smartphone Samsung Galaxy A36 5G 256GB 8GB Super AMOLED",
+     "de": "2.855,72",
+     "por": "1.799,00",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_697102-MLA99477666220_112025-F.webp",
+     "categoria": "Tech",
+     "slot": "10:30"
+    },
+    {
+     "id": "MLB67890591",
+     "link_afiliado": "https://meli.la/2os9dfh",
+     "titulo": "Motorola Moto G56 5G Dual SIM 256GB + 8GB Preto",
+     "de": "2.699,00",
+     "por": "1.388,07",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_835488-MLA109454418800_042026-F.webp",
+     "categoria": "Tech",
+     "slot": "11:00"
+    },
+    {
+     "id": "MLB47114363",
+     "link_afiliado": "https://meli.la/159eKCR",
+     "titulo": "Celular Samsung Galaxy A56 5G 256GB 8GB RAM Cinza",
+     "de": "3.999,00",
+     "por": "2.299,00",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_858591-MLA115297984999_072026-F.webp",
+     "categoria": "Tech",
+     "slot": "11:30"
+    },
+    {
+     "id": "MLB65189679",
+     "link_afiliado": "https://meli.la/28P1iyh",
+     "titulo": "Tablet Samsung Galaxy Tab A11 64GB 4GB RAM Tela 8,7\"",
+     "de": "1.569,90",
+     "por": "936,56",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_972495-MLA106359524805_022026-F.webp",
+     "categoria": "Tech",
+     "slot": "12:00"
+    },
+    {
+     "id": "MLB53838786",
+     "link_afiliado": "https://meli.la/1kDh6yx",
+     "titulo": "Monitor Gamer Samsung 27\" FHD 120Hz HDMI Preto",
+     "de": "899,00",
+     "por": "645,22",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_880102-MLA96640494917_102025-F.webp",
+     "categoria": "Tech",
+     "slot": "12:30"
+    },
+    {
+     "id": "MLB62870034",
+     "link_afiliado": "https://meli.la/1bVd6PV",
+     "titulo": "Monitor Gamer LG UltraGear Curvo 34\" QuadHD UltraWide 160Hz",
+     "de": "2.515,49",
+     "por": "1.880,53",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_790527-MLA105314750110_012026-F.webp",
+     "categoria": "Tech",
+     "slot": "13:00"
+    },
+    {
+     "id": "MLB55055942",
+     "link_afiliado": "https://meli.la/1d4FWcn",
+     "titulo": "Notebook Acer Aspire Go 15.6\" IPS Full HD Touchscreen",
+     "de": "8.786,36",
+     "por": "4.989,00",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_707936-MLA116704651852_092026-F.webp",
+     "categoria": "Tech",
+     "slot": "13:30"
+    },
+    {
+     "id": "MLB34113516",
+     "link_afiliado": "https://meli.la/1fgTM4x",
+     "titulo": "Caixa de Som Boombox Aiwa AWS-BBS-01-B 200W IP66 30h de Bateria",
+     "de": "1.699,00",
+     "por": "1.169,10",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_864411-MLA99591392870_122025-F.webp",
+     "categoria": "Tech",
+     "slot": "14:00"
+    },
+    {
+     "id": "MLB29836551",
+     "link_afiliado": "https://meli.la/1Z7TaVC",
+     "titulo": "Echo Dot 5ª Geração Alexa Amazon Azul",
+     "de": "549,00",
+     "por": "382,72",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_697599-MLA96116668711_102025-F.webp",
+     "categoria": "Tech",
+     "slot": "14:30"
+    }
+   ],
+   "pronto": true
+  }
+ },
  "completo": false
 }
