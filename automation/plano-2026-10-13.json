@@ -351,6 +351,121 @@
     }
    ],
    "pronto": true
+  },
+  "Casa": {
+   "ofertas": [
+    {
+     "id": "MLB66895633",
+     "link_afiliado": "https://meli.la/2h8esUz",
+     "titulo": "Fritadeira Air Fryer Philco 16 Litros PAF16C Preto 220V",
+     "de": "623,96",
+     "por": "429,00",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_841702-MLA110401871238_052026-F.webp",
+     "categoria": "Casa",
+     "slot": "08:00"
+    },
+    {
+     "id": "MLB15578941",
+     "link_afiliado": "https://meli.la/1L6pwwC",
+     "titulo": "Liquidificador Philco 1200W 3L 12 Velocidades Preto PH900",
+     "de": "265,00",
+     "por": "109,90",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_766837-MLA98259429221_112025-F.webp",
+     "categoria": "Casa",
+     "slot": "08:30"
+    },
+    {
+     "id": "MLB15977316",
+     "link_afiliado": "https://meli.la/1rCs81Q",
+     "titulo": "Aspirador de Pó Vertical Philco PAS4000V 2000W Power Clean 2L",
+     "de": "371,29",
+     "por": "231,70",
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_752850-MLA95248658813_102025-F.webp",
+     "categoria": "Casa",
+     "slot": "09:00"
+    },
+    {
+     "id": "MLB16069584",
+     "link_afiliado": "https://meli.la/2HY7Gvk",
+     "titulo": "Fogão 4 Bocas Atlas Mônaco Top Glass Mesa de Vidro Acendimento Automático",
+     "de": "1.489,00",
+     "por": "794,20",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_937642-MLU77312515187_062024-F.webp",
+     "categoria": "Casa",
+     "slot": "09:30"
+    },
+    {
+     "id": "MLB40535137",
+     "link_afiliado": "https://meli.la/272gAQk",
+     "titulo": "Forno Elétrico Britânia 44L Preto Dupla Resistência 1500W BFE44P 127V",
+     "de": "399,00",
+     "por": "339,00",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_692583-MLA100276103564_122025-F.webp",
+     "categoria": "Casa",
+     "slot": "10:00"
+    },
+    {
+     "id": "MLB46671029",
+     "link_afiliado": "https://meli.la/1uE6195",
+     "titulo": "Cooktop 4 Bocas Atlas Agile Up Mesa Vidro Mega Chama Bivolt",
+     "de": "483,25",
+     "por": "339,39",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_662369-MLA99422748970_112025-F.webp",
+     "categoria": "Casa",
+     "slot": "10:30"
+    },
+    {
+     "id": "MLB17449992",
+     "link_afiliado": "https://meli.la/1DYnzQc",
+     "titulo": "Aquecedor de Água Lorenzetti Elétrico Versátil Branco",
+     "de": "500,00",
+     "por": "228,00",
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_979308-MLA114642664819_072026-F.webp",
+     "categoria": "Casa",
+     "slot": "11:00"
+    },
+    {
+     "id": "MLB19481428",
+     "link_afiliado": "https://meli.la/2gD3Eym",
+     "titulo": "Cooktop de Indução 4 Bocas Dako Supreme Preto com Trava de Segurança",
+     "de": "2.699,00",
+     "por": "1.044,05",
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_652323-MLU77315319959_062024-F.webp",
+     "categoria": "Casa",
+     "slot": "11:30"
+    },
+    {
+     "id": "MLB54235193",
+     "link_afiliado": "https://meli.la/2Diqzbm",
+     "titulo": "Chuveiro Eletrônico Lorenzetti Acqua Storm Ultra Preto 7800W",
+     "de": "625,00",
+     "por": "430,11",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_912169-MLA99888448787_112025-F.webp",
+     "categoria": "Casa",
+     "slot": "12:00"
+    },
+    {
+     "id": "MLB26797982",
+     "link_afiliado": "https://meli.la/2hYuVRb",
+     "titulo": "Extratora de Sujeira Portátil WAP Spot Cleaner W3 1450W",
+     "de": "899,86",
+     "por": "474,90",
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_764405-MLU77356955449_062024-F.webp",
+     "categoria": "Casa",
+     "slot": "12:30"
+    }
+   ],
+   "pronto": true
   }
  },
  "completo": false
