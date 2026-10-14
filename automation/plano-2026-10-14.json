@@ -109,6 +109,23 @@
   "pronto": true,
   "obs": "Casa (carrossel) ; stories: Pesca, Moda Fem, Moda Masc, Saúde, Achados. Precos conferidos na pagina 14/10 ~09:30 BRT. Etapa 3 deve ler 3 bullets reais da pagina para Modare e Lupo (bullets vazios/curtos) e conferir imagem alta resolucao; imagem do Oster a baixar (D_NQ_NP_2X_<id>-F.webp pode nao existir: pegar da pagina)."
  },
- "grupos": {},
+ "grupos": {
+  "Tech": {
+   "ofertas": [
+    {
+     "id": "MLB55762063",
+     "link_afiliado": "https://meli.la/1mrniTu",
+     "titulo": "Smartphone Motorola Moto G06 256GB 4GB RAM (+8GB Boost) Câmera 50MP 5200mAh",
+     "de": 1099.0,
+     "por": 819.0,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_793349-MLA91806774304_092025-O.webp",
+     "categoria": "Celulares",
+     "slot": null
+    }
+   ],
+   "pronto": false
+  }
+ },
  "completo": false
 }
