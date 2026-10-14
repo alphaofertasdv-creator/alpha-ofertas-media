@@ -248,6 +248,13 @@ import json,os
 OFJ,IMGD,OUT=sys.argv[1],sys.argv[2],sys.argv[3]
 os.makedirs(OUT,exist_ok=True)
 OF=json.load(open(OFJ))
+
+import re as _re
+_PROIB=_re.compile(r"(nota\s*\d|estrela|avalia|mercado\s*livre|\bml\b|\d\s*%\s*abaixo|abaixo do pre)",_re.I)
+for _k,_o in OF.items():
+    for _b in _o.get("bullets",[]):
+        if _PROIB.search(_b):
+            sys.exit(f"BULLET PROIBIDO em {_k}: '{_b}'. Use detalhes do PRODUTO (material, capacidade, potência, tamanho, o que acompanha), nunca nota/estrelas/Mercado Livre/% abaixo da lista.")
 async def main():
     k=[k for k,v in OF.items() if v.get('car')][0]
     o={**OF[k],'img':os.path.abspath(f'{IMGD}/{k}.jpg')}

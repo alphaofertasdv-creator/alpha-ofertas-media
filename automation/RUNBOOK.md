@@ -192,3 +192,8 @@ Regras novas:
 - Etapa 2 (05:30) e Etapa 4 (07:30): NÃO apenas listar buracos — PREENCHER todo horário vazio antes das 11:00 (e os demais futuros) pela REGRA NENHUM GRUPO FICA SEM OFERTA. Nenhum buraco antes das 11:00 deve sobrar às 08:00.
 - Existe o grupo "teste agendador wpp" na Central: IGNORAR. Só valem os 8 grupos "AlphaOfertas | ...".
 - Vigia: roda a cada 30 min (:28 e :58, das 07:28 às 19:58), uma checagem por execução; falha encontrada é corrigida e reenviada uma única vez (alvo: run_at + 5 min; se já passou, logo após corrigir).
+
+## REGRA DOS TEXTOS DO CARROSSEL/STORIES (13/10 noite)
+PROIBIDO nos bullets/textos das imagens do Instagram: "Nota X no Mercado Livre", estrelas, avaliações, "Mercado Livre" ou "% abaixo do preço de lista". O público quer saber COMO É O PRODUTO.
+Os 3 bullets (`bullets`) devem ser DETALHES REAIS DO ITEM, lidos da página do produto (ficha técnica/descrição): material, tamanho/capacidade/voltagem/potência, cor, modelo, quantidade/kit, o que acompanha, principal diferencial de uso (ex.: tênis → "Cabedal em mesh respirável", "Solado de borracha antiderrapante", "Para corrida e treino"). Curtos (até ~35 caracteres), sem inventar nada que não esteja na página.
+Os geradores (render_carousel.py / render_stories.py) agora RECUSAM bullets com nota/estrela/Mercado Livre/% abaixo da lista; se der erro, reescrever os bullets e regerar.
