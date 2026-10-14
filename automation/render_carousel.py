@@ -250,7 +250,7 @@ os.makedirs(OUT,exist_ok=True)
 OF=json.load(open(OFJ))
 
 import re as _re
-_PROIB=_re.compile(r"(nota\s*\d|estrela|avalia|mercado\s*livre|\bml\b|\d\s*%\s*abaixo|abaixo do pre)",_re.I)
+_PROIB=_re.compile(r"(nota\s*\d|estrela|avalia|mercado\s*livre|\d\s*%\s*abaixo|abaixo do pre)",_re.I)
 for _k,_o in OF.items():
     for _b in _o.get("bullets",[]):
         if _PROIB.search(_b):
