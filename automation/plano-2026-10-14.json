@@ -1,0 +1,114 @@
+{
+ "data": "2026-10-14",
+ "ig": {
+  "carrossel": {
+   "chave": "osl",
+   "id": "MLB16602518",
+   "link_afiliado": "https://meli.la/22pcHxw",
+   "name": "Liquidificador Oster OLIQ610 1400W Full 3,2L Preto",
+   "old": 299.0,
+   "price": 178.4,
+   "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_16602518-F.webp",
+   "tag": "🔥 Oferta do dia",
+   "note": "",
+   "nicho": "Casa",
+   "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+   "bullets": [
+    "Jarra de 3,2 L",
+    "Potência de 1400 W",
+    "Lâmina de aço inoxidável"
+   ]
+  },
+  "stories": [
+   {
+    "chave": "lum",
+    "id": "MLB69622764",
+    "link_afiliado": "https://meli.la/2PCjzz9",
+    "name": "Lanterna LED Holofote Lumenforce Pro Recarregável Camping e Pesca",
+    "old": 269.9,
+    "price": 109.9,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_951645-MLA113346749802_072026-O.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Pesca & Camping",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "10.000 lúmens, alcance de 2 km",
+     "Recarga USB Tipo C",
+     "Bateria com até 12 h de uso"
+    ]
+   },
+   {
+    "chave": "mod",
+    "id": "MLB5775757190",
+    "link_afiliado": "https://meli.la/1gR6awk",
+    "name": "Sandália Modare Esporão Confortável Ortopédica",
+    "old": 119.9,
+    "price": 66.14,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_830268-MLB108796906090_032026-O-sandalia-modare-esporo-confortavel-ortopedica-original-7142.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Moda Feminina",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": []
+   },
+   {
+    "chave": "lup",
+    "id": "MLB1473758753",
+    "link_afiliado": "https://meli.la/2y5kPBF",
+    "name": "Kit 10 Cuecas Boxer Lupo Algodão",
+    "old": 459.99,
+    "price": 149.99,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_753249-MLB84466321970_052025-O-kit-10-cuecas-boxer-lupo-algodo-confortavel-box-original.webp",
+    "tag": "🚨 Preço baixou",
+    "note": "",
+    "nicho": "Moda Masculina",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "Kit com 10 cuecas boxer",
+     "Algodão confortável"
+    ]
+   },
+   {
+    "chave": "nat",
+    "id": "MLB19373057",
+    "link_afiliado": "https://meli.la/29RuGwS",
+    "name": "Natura Essencial Elixir Deo Parfum 100ml Masculino",
+    "old": 279.9,
+    "price": 157.94,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_935515-MLU73212385831_122023-O.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Saúde & Beleza",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "Deo parfum de 100 ml",
+     "Notas de cedro e patchouli",
+     "Notas de couro e cumaru"
+    ]
+   },
+   {
+    "chave": "ces",
+    "id": "MLB54488178",
+    "link_afiliado": "https://meli.la/2m8m7vi",
+    "name": "Kit 4 Cestos Organizadores de Geladeira 4,0L Acrílico",
+    "old": 169.9,
+    "price": 89.9,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_849422-MLA99961033873_112025-O.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Achados do Dia",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "Kit com 4 cestos de 4,0 L",
+     "Acrílico BPA Free transparente",
+     "20,5 x 15,8 x 13 cm"
+    ]
+   }
+  ],
+  "pronto": true,
+  "obs": "Casa (carrossel) ; stories: Pesca, Moda Fem, Moda Masc, Saúde, Achados. Precos conferidos na pagina 14/10 ~09:30 BRT. Etapa 3 deve ler 3 bullets reais da pagina para Modare e Lupo (bullets vazios/curtos) e conferir imagem alta resolucao; imagem do Oster a baixar (D_NQ_NP_2X_<id>-F.webp pode nao existir: pegar da pagina)."
+ },
+ "grupos": {},
+ "completo": false
+}
