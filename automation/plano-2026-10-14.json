@@ -159,10 +159,23 @@
    "pronto": false
   },
   "Saúde": {
-   "ofertas": [],
+   "ofertas": [
+    {
+     "id": "MLB51986596",
+     "link_afiliado": "https://meli.la/2bAqXFc",
+     "titulo": "Barbeador e Aparador Elétrico Philips OneBlade 5 em 1 QP1425/10",
+     "de": 212.38,
+     "por": 129.0,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_783146-MLA111544883867_052026-O.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": null
+    }
+   ],
    "pronto": false
   }
  },
  "completo": false,
- "obs_grupos": "Preparo A interrompido cedo (tempo gasto no IG; aba em 2o plano congelou). Grupos com 1 oferta cada (Tech, Casa, Academia) e Saude vazio: etapa 1b/reforcos devem completar, usando banco-ofertas.json (reverificar)."
+ "obs_grupos": "Preparo A interrompido cedo (tempo gasto no IG; aba em 2o plano congelou). Grupos com 1 oferta cada (Tech, Casa, Academia) e Saude vazio: etapa 1b/reforcos devem completar, usando banco-ofertas.json (reverificar).",
+ "modo_recuperacao": "PC ficou desligado de madrugada em 14/10; rotina recuperada manualmente ~09:00-09:30 BRT. Stories 09:00 ja passou (usar 11:30,14:00,16:30,20:30 + carrossel 19:00)."
 }
