@@ -116,7 +116,7 @@ def car(o,n):
 <div class="price" style="font-size:230px;margin-top:10px"><span style="font-size:.34em;letter-spacing:0;margin-right:6px">R$</span>{i}<sup>,{c}</sup></div>
 {NOTE(o,40,18)}
 <div class="eco" style="font-size:48px;padding:26px 52px;margin-top:70px">VOCÊ ECONOMIZA R$ {brl(eco,False)}</div>
-<div class="copy" style="font-size:38px;margin-top:70px;color:{T}">{pct}% abaixo do preço de lista.</div></div>
+<div class="copy" style="font-size:38px;margin-top:70px;color:{T}">Oferta por tempo limitado.</div></div>
 <div class="cta" style="height:96px;padding:0 56px"><div class="a" style="font-size:30px">Tem mais no final</div><div class="arrow" style="width:56px;height:56px;font-size:32px">→</div></div>"""
     else:
         lst=''.join(f'<div style="display:flex;gap:22px;align-items:center;font-size:44px;font-weight:800"><span style="font-size:52px">{e}</span>{t}</div>' for e,t in [("💰","Ofertas"),("🏷️","Cupons"),("🔥","Achadinhos"),("🛒","Promoções"),("⚡","Preços baixos")])

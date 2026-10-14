@@ -1,0 +1,86 @@
+{
+ "osl": {
+  "name": "Liquidificador Oster OLIQ610 1400W Full 3,2L",
+  "old": 299.0,
+  "price": 178.4,
+  "tag": "🔥 Oferta do dia",
+  "note": "",
+  "bullets": [
+   "Jarra de 3,2 L",
+   "Potência de 1400 W",
+   "Lâmina de aço inoxidável"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "car": 1
+ },
+ "lum": {
+  "name": "Lanterna LED Holofote Lumenforce Pro Recarregável Camping e Pesca",
+  "old": 269.9,
+  "price": 109.9,
+  "tag": "💰 Achado",
+  "note": "",
+  "bullets": [
+   "10.000 lúmens, alcance de 2 km",
+   "Recarga USB Tipo C",
+   "Bateria com até 12 h de uso"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "story": 1
+ },
+ "mod": {
+  "name": "Sandália Modare Esporão Confortável Ortopédica",
+  "old": 119.9,
+  "price": 66.14,
+  "tag": "💰 Achado",
+  "note": "",
+  "bullets": [
+   "Couro sintético e sola de borracha",
+   "Sola antiderrapante, modelo ortopédico",
+   "Fechamento com fivela ajustável"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "story": 2
+ },
+ "lup": {
+  "name": "Kit 10 Cuecas Boxer Lupo Algodão",
+  "old": 459.99,
+  "price": 149.99,
+  "tag": "🚨 Preço baixou",
+  "note": "",
+  "bullets": [
+   "Kit com 10 cuecas boxer",
+   "95% algodão e 5% elastano",
+   "Cintura média, marca Lupo"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "story": 3
+ },
+ "nat": {
+  "name": "Natura Essencial Elixir Deo Parfum 100ml Masculino",
+  "old": 279.9,
+  "price": 157.94,
+  "tag": "💰 Achado",
+  "note": "",
+  "bullets": [
+   "Deo parfum de 100 ml",
+   "Notas de cedro e patchouli",
+   "Notas de couro e cumaru"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "story": 4
+ },
+ "ces": {
+  "name": "Kit 4 Cestos Organizadores de Geladeira 4,0L Acrílico",
+  "old": 169.9,
+  "price": 89.9,
+  "tag": "💰 Achado",
+  "note": "",
+  "bullets": [
+   "Kit com 4 cestos de 4,0 L",
+   "Acrílico BPA Free transparente",
+   "20,5 x 15,8 x 13 cm"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "story": 5
+ }
+}

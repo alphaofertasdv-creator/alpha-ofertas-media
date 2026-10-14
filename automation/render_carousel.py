@@ -116,7 +116,7 @@ def car(o,n):
 <div class="price" style="font-size:230px;margin-top:10px"><span style="font-size:.34em;letter-spacing:0;margin-right:6px">R$</span>{i}<sup>,{c}</sup></div>
 {NOTE(o,40,18)}
 <div class="eco" style="font-size:48px;padding:26px 52px;margin-top:70px">VOCÊ ECONOMIZA R$ {brl(eco,False)}</div>
-<div class="copy" style="font-size:38px;margin-top:70px;color:{T}">{pct}% abaixo do preço de lista.</div></div>
+<div class="copy" style="font-size:38px;margin-top:70px;color:{T}">Oferta por tempo limitado.</div></div>
 <div class="cta" style="height:96px;padding:0 56px"><div class="a" style="font-size:30px">Tem mais no final</div><div class="arrow" style="width:56px;height:56px;font-size:32px">→</div></div>"""
     else:
         lst=''.join(f'<div style="display:flex;gap:22px;align-items:center;font-size:44px;font-weight:800"><span style="font-size:52px">{e}</span>{t}</div>' for e,t in [("💰","Ofertas"),("🏷️","Cupons"),("🔥","Achadinhos"),("🛒","Promoções"),("⚡","Preços baixos")])
@@ -236,7 +236,7 @@ def slide(o,n):
  <div class="price" style="font-size:230px;margin-top:20px"><span style="font-size:.34em;letter-spacing:0;margin-right:6px">R$</span>{i}<sup>,{c}</sup></div>
  <div style="margin-top:34px;font-size:32px;font-weight:800">{o.get('note','')}</div>
  <span class="chip" style="margin-top:44px;background:rgba(32,208,122,.16);border:2px solid #20D07A;color:#3BE894;font-size:44px;padding:22px 46px">VOCÊ ECONOMIZA R$ {brl(eco,False)}</span>
- <div style="margin-top:44px;color:#A9A9B3;font-weight:700;font-size:34px">{pct}% abaixo do preço de lista</div></div>"""+bar("Tem mais no final")
+ <div style="margin-top:44px;color:#A9A9B3;font-weight:700;font-size:34px">Oferta por tempo limitado</div></div>"""+bar("Tem mais no final")
     else:
         lst=''.join(f'<div class="glass" style="display:flex;gap:22px;align-items:center;font-size:40px;font-weight:800;padding:16px 28px;border-radius:28px"><span style="font-size:46px">{e}</span>{t}</div>' for e,t in [("💰","Ofertas"),("🏷️","Cupons"),("🔥","Achadinhos"),("⚡","Preços baixos")])
         b=hdr(o,52,("GRUPO VIP","GRÁTIS"))+f"""<div style="position:absolute;left:64px;right:64px;top:200px"><div class="d" style="font-size:84px;line-height:1.0;text-transform:uppercase">Quer receber<br><span style="color:#FFCC00">mais ofertas</span><br>assim?</div>
