@@ -125,7 +125,44 @@
     }
    ],
    "pronto": false
+  },
+  "Casa": {
+   "ofertas": [
+    {
+     "id": "MLB18623992",
+     "link_afiliado": "https://meli.la/1tXEH1U",
+     "titulo": "Batedeira Planetária Mondial 700W BP-03-B",
+     "de": 489.9,
+     "por": 255.05,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_876522-MLA99990720373_112025-O.webp",
+     "categoria": "Casa",
+     "slot": null
+    }
+   ],
+   "pronto": false
+  },
+  "Academia": {
+   "ofertas": [
+    {
+     "id": "MLB40367709",
+     "link_afiliado": "https://meli.la/1mDiRrM",
+     "titulo": "Whey Protein Concentrado 1kg Dark Lab Baunilha",
+     "de": 349.9,
+     "por": 139.9,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_999968-MLA99990200369_112025-O.webp",
+     "categoria": "Academia",
+     "slot": null
+    }
+   ],
+   "pronto": false
+  },
+  "Saúde": {
+   "ofertas": [],
+   "pronto": false
   }
  },
- "completo": false
+ "completo": false,
+ "obs_grupos": "Preparo A interrompido cedo (tempo gasto no IG; aba em 2o plano congelou). Grupos com 1 oferta cada (Tech, Casa, Academia) e Saude vazio: etapa 1b/reforcos devem completar, usando banco-ofertas.json (reverificar)."
 }
