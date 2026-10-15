@@ -197,3 +197,18 @@ Regras novas:
 PROIBIDO nos bullets/textos das imagens do Instagram: "Nota X no Mercado Livre", estrelas, avaliações, "Mercado Livre" ou "% abaixo do preço de lista". O público quer saber COMO É O PRODUTO.
 Os 3 bullets (`bullets`) devem ser DETALHES REAIS DO ITEM, lidos da página do produto (ficha técnica/descrição): material, tamanho/capacidade/voltagem/potência, cor, modelo, quantidade/kit, o que acompanha, principal diferencial de uso (ex.: tênis → "Cabedal em mesh respirável", "Solado de borracha antiderrapante", "Para corrida e treino"). Curtos (até ~35 caracteres), sem inventar nada que não esteja na página.
 Os geradores (render_carousel.py / render_stories.py) agora RECUSAM bullets com nota/estrela/Mercado Livre/% abaixo da lista; se der erro, reescrever os bullets e regerar.
+
+## 4-B. INSTAGRAM/FACEBOOK PELA API DA META (substitui o Metricool — plano do Metricool estourou em 14/10)
+**Qual modo usar:** na PC, `curl -sL https://raw.githubusercontent.com/alphaofertasdv-creator/alpha-ofertas-media/main/automation/meta_publish.py | python3 - --test` (device_bash). Se imprimir `OK Instagram @...` → usar ESTE modo e NÃO agendar no Metricool. Se der erro/sem meta.env → avisar no AVISO CLAUDE "API Meta não configurada" e usar o Metricool (que provavelmente está sem cota).
+**Como funciona:** a API não agenda; publica na hora. Então a rotina da manhã só monta a FILA e quem publica são as vigias.
+1. Gerar imagens como na seção 4 (conferir visualmente). Converter p/ JPEG (a Meta só aceita JPEG): `cd automation && python3 to_jpg.py AAAA-MM-DD` e commitar/dar push dos `.jpg` em `AAAA-MM-DD/` e `AAAA-MM-DD/stories/`.
+2. Criar `automation/fila-ig-AAAA-MM-DD.json` e dar push (formato abaixo). Legenda do carrossel = a mesma da seção 4. Stories sem legenda. Horários fixos: carrossel 19:00 (facebook:true) e Stories 09:00, 11:30, 14:00, 16:30, 20:30 (se a fila for criada depois de um horário, só inclua os que ainda não passaram).
+```
+{"posts":[
+ {"id":"st-0900","tipo":"story","quando":"AAAA-MM-DDT09:00:00-03:00","imagens":["AAAA-MM-DD/stories/story_1_<chave>.jpg"]},
+ {"id":"car-1900","tipo":"carrossel","quando":"AAAA-MM-DDT19:00:00-03:00","facebook":true,
+  "imagens":["AAAA-MM-DD/carrossel_1.jpg","AAAA-MM-DD/carrossel_2.jpg","AAAA-MM-DD/carrossel_3.jpg","AAAA-MM-DD/carrossel_4.jpg"],"legenda":"..."}]}
+```
+3. **Publicação (Vigia A/B, a cada execução, ANTES de checar o WhatsApp):** `curl -sL <raw>/automation/meta_publish.py | python3 - --due` na PC. Publica o que vence em até 10 min (as vigias rodam em :28 e :58, ~2 min antes de :30/:00). Imprime OK/ERRO/PULADO por item; cada item tem até 3 tentativas. Se ERRO → alerta no AVISO CLAUDE com a mensagem. A vigia B precisa rodar até 20:28 (Story das 20:30).
+4. Conferir a fila e o que foi publicado: `... | python3 - --status`. No resumo da manhã e da noite listar só o que o `--status` mostra (não de memória).
+5. Credenciais ficam só na PC em `C:\whatsapp_scheduler\data\meta.env` (IG_USER_ID, PAGE_ID, PAGE_TOKEN). NUNCA ler, imprimir, copiar ou commitar esse arquivo. O Claude não digita senhas nem tokens.
