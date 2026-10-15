@@ -373,8 +373,240 @@
    "pronto": true
   },
   "Saúde": {
-   "ofertas": [],
-   "pronto": false
+   "ofertas": [
+    {
+     "id": "MLB66107476",
+     "link_afiliado": "https://meli.la/1ijpSAN",
+     "titulo": "Kit Pro Saúde Alwaysfit | Pro3magnesio + Nac + Complexo B + Fits36 | 4 Suplementos",
+     "de": 159.9,
+     "por": 119.51,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_743445-MLA107904751297_032026-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": null
+    },
+    {
+     "id": "MLBU4702663640",
+     "link_afiliado": "https://meli.la/2Paede3",
+     "titulo": "30ml Cor Natural Bases Faciais Base Payot Maquiagem 50fps",
+     "de": 199,
+     "por": 43,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_993451-MLB117502936661_092026-F-30ml-cor-natural-bases-faciais-base-payot-maquiagem-50fps.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": null
+    },
+    {
+     "id": "MLBU4852942410",
+     "link_afiliado": "https://meli.la/2d8Lj3y",
+     "titulo": "Seca C. Psyllium 120 Caps Fibra Natural Saciedade Nutrilif",
+     "de": 66,
+     "por": 24,
+     "rating": "5",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_893557-MLB117754717857_092026-F-seca-c-psyllium-120-caps-fibra-natural-saciedade-nutrilif.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": null
+    },
+    {
+     "id": "MLB21697327",
+     "link_afiliado": "https://meli.la/2pqpCFC",
+     "titulo": "Natura Luna Força Deo Colônia Feminina 75 ml.",
+     "de": 202.99,
+     "por": 90.9,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_851051-MLA84210655180_052025-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": null
+    },
+    {
+     "id": "MLB19380821",
+     "link_afiliado": "https://meli.la/33HHsNw",
+     "titulo": "Deo Colônia Natura Hoje Masculino 100ml",
+     "de": 168.9,
+     "por": 74.45,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_809219-MLU72675777427_112023-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": null
+    },
+    {
+     "id": "MLBU3779791033",
+     "link_afiliado": "https://meli.la/1pACfZW",
+     "titulo": "Celimax Retinal Shot Tightening Booster 15ml Pele Coreana",
+     "de": 200,
+     "por": 93.5,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_964357-MLB117043599248_102026-F-celimax-retinal-shot-tightening-booster-15ml-pele-corean.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": null
+    },
+    {
+     "id": "MLB24160695",
+     "link_afiliado": "https://meli.la/1PiUSBz",
+     "titulo": "Bisglicinato De Magnésio Vitafor Magnésio Plus 90 Capsulas Sem Sabor",
+     "de": 121,
+     "por": 68.1,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_954447-MLA99516887728_112025-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": null
+    },
+    {
+     "id": "MLBU5263152598",
+     "link_afiliado": "https://meli.la/1a451pD",
+     "titulo": "Placa De Gua Sha Elétrico Gokocopedra Natural Lifting Facial",
+     "de": 99,
+     "por": 56,
+     "rating": "5",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_910210-MLB116486993838_092026-F-placa-de-gua-sha-eletrico-gokocopedra-natural-lifting-facial.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": null
+    },
+    {
+     "id": "MLBU4136769270",
+     "link_afiliado": "https://meli.la/2sFrKGe",
+     "titulo": "Multivitamínico Lactante 60 Cápsulas 20 Nutrientes Milk Mama",
+     "de": 78.9,
+     "por": 46.05,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_661645-MLB113519691173_062026-F-multivitaminico-lactante-60-capsulas-20-nutrientes-milk-mama.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": null
+    },
+    {
+     "id": "MLBU1760173996",
+     "link_afiliado": "https://meli.la/2bSFcRN",
+     "titulo": "Difusor De Cachos Grande Para Secador Taiff 2000w Style",
+     "de": 59.9,
+     "por": 36.05,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_988185-MLB112306309403_052026-F-difusor-de-cachos-grande-para-secador-taiff-2000w-style.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": null
+    },
+    {
+     "id": "MLBU3821806360",
+     "link_afiliado": "https://meli.la/1zRWfce",
+     "titulo": "Balança Digital Corporal Bioimpedância Aplicativo Bluetooth",
+     "de": 99.9,
+     "por": 60.45,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_918010-MLB110860489977_042026-F-balanca-digital-corporal-bioimpedancia-aplicativo-bluetooth.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": null
+    },
+    {
+     "id": "MLBU4939884462",
+     "link_afiliado": "https://meli.la/2kgXPJd",
+     "titulo": "Sensodyne Repair & Protect Original Kit C/2un 100g Cada",
+     "de": 44.79,
+     "por": 27.2,
+     "rating": "5",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_894266-MLA99400897770_112025-F-sensodyne-repair--protect-original-kit-c2un-100g-cada.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": null
+    },
+    {
+     "id": "MLB50825008",
+     "link_afiliado": "https://meli.la/2kZbCWF",
+     "titulo": "Sabonete Em Barra Natura Tododia Maçã Caramelada 5un 90g",
+     "de": 34.9,
+     "por": 22.89,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_868079-MLA99925997663_112025-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": null
+    },
+    {
+     "id": "MLB28362432",
+     "link_afiliado": "https://meli.la/2pngY7w",
+     "titulo": "Máscara Nasal Pico Philips Respironics Tamanho G",
+     "de": 269.9,
+     "por": 181,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_771373-MLU74071640158_012024-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": null
+    },
+    {
+     "id": "MLB18920578",
+     "link_afiliado": "https://meli.la/27TCPgR",
+     "titulo": "Secador Taiff Style 2000w Motor Ac Preto 127 v",
+     "de": 299,
+     "por": 204.46,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_701108-MLA105261068161_012026-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": null
+    },
+    {
+     "id": "MLB50269368",
+     "link_afiliado": "https://meli.la/1i6UzKp",
+     "titulo": "Secador De Cabelos Philco PSC3500 4 Em 1 dobrável Motor BLDC Prateado",
+     "de": 549.9,
+     "por": 384.98,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_933795-MLA115633578810_092026-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": null
+    },
+    {
+     "id": "MLBU3257937248",
+     "link_afiliado": "https://meli.la/1AJkLoK",
+     "titulo": "Ziva Espuma Íntima Ozonizada 150ml Ph Flora Odor Hidratação",
+     "de": 137,
+     "por": 99,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_678341-MLB116319526101_082026-F-ziva-espuma-intima-ozonizada-150ml-ph--flora-odor-hidratacao.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": null
+    },
+    {
+     "id": "MLBU4681342309",
+     "link_afiliado": "https://meli.la/1XAJAVx",
+     "titulo": "Escova Secadora 5 Em 1 Multifuncional 110v Modeladora",
+     "de": 103.9,
+     "por": 74.48,
+     "rating": "5",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_908245-MLB114672089460_082026-F-escova-secadora-5-em-1-multifuncional-110v-modeladora.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": null
+    },
+    {
+     "id": "MLB18085706",
+     "link_afiliado": "https://meli.la/2vAadDM",
+     "titulo": "Prancha Philco PPR10 Titanium Digital Bivolt 230°C",
+     "de": 143.46,
+     "por": 107,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_993800-MLA84538331324_052025-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": null
+    },
+    {
+     "id": "MLBU3654236179",
+     "link_afiliado": "https://meli.la/2om1G6f",
+     "titulo": "Máquina De Acabamento Profissional Kemei Km-2299 0gap Bivolt",
+     "de": 149.9,
+     "por": 78.97,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_786178-MLB118385333393_092026-F-maquina-de-acabamento-profissional-kemei-km2299-0gap-bivolt.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": null
+    },
+    {
+     "id": "MLBU609328635",
+     "link_afiliado": "https://meli.la/1ZRxP6R",
+     "titulo": "Kit Maquina De Cortar Cabelo Kemei E Tesoura Profissional",
+     "de": 669.9,
+     "por": 386.01,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_919759-MLB92661215881_092025-F-kit-maquina-de-cortar-cabelo-kemei-e-tesoura-profissional.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": null
+    }
+   ],
+   "pronto": true
   },
   "Casa": {
    "ofertas": [
