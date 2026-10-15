@@ -604,6 +604,28 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_919759-MLB92661215881_092025-F-kit-maquina-de-cortar-cabelo-kemei-e-tesoura-profissional.webp",
      "categoria": "Saúde & Beleza",
      "slot": null
+    },
+    {
+     "id": "MLB45516869",
+     "link_afiliado": "https://meli.la/1r8gyrm",
+     "titulo": "Óleo Vegetal Ojon Tratamento Capilar Natural 100ml Oliapon",
+     "de": 78.9,
+     "por": 39.12,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_929184-MLA110669438661_042026-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": null
+    },
+    {
+     "id": "MLB52651127",
+     "link_afiliado": "https://meli.la/12d7uDE",
+     "titulo": "Hidradin hidratante 20g Natural com ureia",
+     "de": 77.43,
+     "por": 36.8,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_958694-MLA113248738716_072026-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": null
     }
    ],
    "pronto": true
@@ -829,6 +851,39 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_809096-MLA100187134945_122025-F.webp",
      "categoria": "Casa",
      "slot": null
+    },
+    {
+     "id": "MLB69356803",
+     "link_afiliado": "https://meli.la/25TxQPo",
+     "titulo": "Snow Foam Manual Canhão De Espuma Pulverizador Aplicador Para Lavadora WAP e Mangueira Alta",
+     "de": 119,
+     "por": 69.5,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_843349-MLA118370242065_092026-F.webp",
+     "categoria": "Casa",
+     "slot": null
+    },
+    {
+     "id": "MLBU1752867416",
+     "link_afiliado": "https://meli.la/23s5Wq6",
+     "titulo": "Prateleira Porta Garrafas Geladeira Brastemp Brm39 Original",
+     "de": 69.9,
+     "por": 41,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_675759-MLB92007970005_092025-F-prateleira-porta-garrafas-geladeira-brastemp-brm39-orignal.webp",
+     "categoria": "Casa",
+     "slot": null
+    },
+    {
+     "id": "MLB27463174",
+     "link_afiliado": "https://meli.la/1jri8LK",
+     "titulo": "Ferro de Passar a Vapor Philips Walita Dst1050 Série 1000 1700w Azul e Branco",
+     "de": 149.9,
+     "por": 90,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_828872-MLA99935663133_112025-F.webp",
+     "categoria": "Casa",
+     "slot": null
     }
    ],
    "pronto": true
@@ -1026,5 +1081,6 @@
    "pronto": true
   }
  },
- "completo": false
+ "completo": false,
+ "obs_grupos": "Preparo A 15/10 concluído: Tech 23, Saúde 23, Casa 23, Academia 17 (nichos pequenos esgotaram candidatas verificadas; 1b/reforços devem completar). Slots não atribuídos (slot=null): a etapa 2 espalha 08:00-20:00. Sobras verificadas de Pesca em banco-ofertas."
 }
