@@ -115,8 +115,262 @@
  },
  "grupos": {
   "Tech": {
-   "ofertas": [],
-   "pronto": false
+   "ofertas": [
+    {
+     "id": "MLBU4516055351",
+     "link_afiliado": "https://meli.la/2wAPCNR",
+     "titulo": "Smart Tv LG 43'' 4k Ultra Hd Nano Ai Magic Webos 26 43un85",
+     "de": 3999,
+     "por": 1745.13,
+     "rating": "5",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_639960-MLB115398243863_072026-F-smart-tv-lg-43-4k-ultra-hd-nano-ai-magic-webos-26-43un85.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB26578044",
+     "link_afiliado": "https://meli.la/1zaSskj",
+     "titulo": "Conjunto Roteador Mesh Wifi 6 Intelbras Twibi Force Ax 2 Uni Branco",
+     "de": 512.01,
+     "por": 384.01,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_957163-MLA117730890762_102026-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB52053096",
+     "link_afiliado": "https://meli.la/14Pvmyu",
+     "titulo": "Smartwatch Samsung Galaxy Watch 8 44mm, Com GPS e NFC, em Alumínio Cinza-escuro",
+     "de": 2699,
+     "por": 1493.49,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_697172-MLA86961558500_072025-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB53155077",
+     "link_afiliado": "https://meli.la/1YV1ETB",
+     "titulo": "Smartphone Tcl 256gb 50mp 14gb Ram 6.7\" Hd+ Octa-Core 5.200 Mah Tcl 605",
+     "de": 999,
+     "por": 731.2,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_884669-MLA99473948358_112025-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB56676058",
+     "link_afiliado": "https://meli.la/1qPN479",
+     "titulo": "Tablet Lenovo Tab 10.1¨ Wifi 5 64gb 4gb De Ram Android 14 Cinza",
+     "de": 1784.28,
+     "por": 873.52,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_684905-MLA106055190360_022026-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB75638604",
+     "link_afiliado": "https://meli.la/1sgVHJP",
+     "titulo": "Smartphone Samsung Galaxy A27 5G 128GB 6GB, Super Amoled 6.7'', Câmera Tripla 50MP, 5000 mAh",
+     "de": 2855.71,
+     "por": 1430.69,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_984483-MLA113635672926_072026-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB75681241",
+     "link_afiliado": "https://meli.la/291kKZT",
+     "titulo": "Smart TV PRO LG 65'' 4K Ultra HD AI 65UN85C",
+     "de": 6599,
+     "por": 3349,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_695281-MLA115403895560_082026-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB18382231",
+     "link_afiliado": "https://meli.la/2Q8z8uL",
+     "titulo": "Repetidor de Sinal Wi-Fi TP-Link TL-WA850RE Extensor de Alcance N300 V7",
+     "de": 170.61,
+     "por": 87.71,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_662555-MLA118244021625_092026-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB24229494",
+     "link_afiliado": "https://meli.la/2BbXRHJ",
+     "titulo": "Filamento Masterprint Petg 3d Cor Preto 1.75mm 1kg Original",
+     "de": 99.99,
+     "por": 53.04,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_888792-MLA110754638047_042026-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB47113437",
+     "link_afiliado": "https://meli.la/2E1w7RP",
+     "titulo": "Smartphone Samsung Galaxy A36 5g 128gb 6gb Ram Câmera Tripla 50mp Ip67 Super Amoled 6.7'' Nfc",
+     "de": 2538.57,
+     "por": 1421.1,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_925275-MLA99995733515_112025-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB52018739",
+     "link_afiliado": "https://meli.la/1d9z3mE",
+     "titulo": "Tablet Xiaomi Redmi Pad 2 11'' 256gb 8 Ram Cinza Grafite",
+     "de": 2299,
+     "por": 1285,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_832304-MLA87216780377_072025-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB22643240",
+     "link_afiliado": "https://meli.la/2jLXD26",
+     "titulo": "Fonte Carregador Para Notebook Lenovo Thinkpad E14 Gen 2 65w",
+     "de": 78.9,
+     "por": 44.1,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_773009-MLA99526723352_122025-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB42164745",
+     "link_afiliado": "https://meli.la/1goRiNP",
+     "titulo": "Impressora HP Smart Tank 210 com Tanque de Tinta Colorida - Wi-Fi - USB 2.0 - Branco",
+     "de": 1141.42,
+     "por": 657,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_935190-MLA115056875314_082026-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB62870125",
+     "link_afiliado": "https://meli.la/2uz2Ywf",
+     "titulo": "Monitor Gamer AOC AGON G50 27\" 144Hz 0,5ms IPS HDR10 G-SYNC 27G50F",
+     "de": 1284.29,
+     "por": 747.9,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_922246-MLA99988034526_122025-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB37931954",
+     "link_afiliado": "https://meli.la/2Shb8aC",
+     "titulo": "Fone De Ouvido Sem Fio Para Treinos Soundcore Sport X20 ANC Bluetooth 5.3 Bateria 48H IP68",
+     "de": 816,
+     "por": 482,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_980790-MLA99367365098_112025-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB47900489",
+     "link_afiliado": "https://meli.la/1Z4Kzp1",
+     "titulo": "Monitor AOC 22\" 120Hz 1ms Gaming HDMI 22B35HM23 Preto",
+     "de": 499.86,
+     "por": 423.77,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_744601-MLA99934274785_112025-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB41147255",
+     "link_afiliado": "https://meli.la/1Pfw1N9",
+     "titulo": "Controle Gamesir G7 Se Com Fio Para Xbox One Series S X Pc Hall Effect Azul",
+     "de": 459.9,
+     "por": 269.43,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_928331-MLA99599229698_122025-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB22246671",
+     "link_afiliado": "https://meli.la/1JJM1En",
+     "titulo": "Notebook Acer Aspire 5 A515-45-R2A3 AMD Ryzen 5 5500U Windows 11 8GB 512GB SSD 15,6' Full HD",
+     "de": 5609.9,
+     "por": 3419.9,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_759351-MLU77118311686_062024-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB67716847",
+     "link_afiliado": "https://meli.la/1vZ3rdt",
+     "titulo": "Filamento De Impressão 3D PETG Preto 1kg Brilho Premium Polimus 3D",
+     "de": 98.89,
+     "por": 59.89,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_849433-MLA115548707454_082026-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB19037261",
+     "link_afiliado": "https://meli.la/2EWr9Ar",
+     "titulo": "Fone De Ouvido In-ear Sem Fio Qcy True Wireless Earbuds Qcy T13 Preto",
+     "de": 239,
+     "por": 149,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_928856-MLA99938836845_112025-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB67826479",
+     "link_afiliado": "https://meli.la/2gsQKU8",
+     "titulo": "Monitor Gamer Acer Nitro 23.8 200hz 2ms FHD HDMI VA KG241Y-X3Bip Preto",
+     "de": 999,
+     "por": 617.5,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_660563-MLA109412855062_042026-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB36476927",
+     "link_afiliado": "https://meli.la/1qfyWgR",
+     "titulo": "Placa Mãe Asus Tuf Gaming B550m-plus Ddr4 AMD Am4 mATX RGB",
+     "de": 1096.78,
+     "por": 690.78,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_920822-MLA99469912962_112025-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB79391475",
+     "link_afiliado": "https://meli.la/1ye9zyx",
+     "titulo": "LG UltraGear Monitor Gamer 27\" IPS 144Hz 1ms Full HD HDR10 G-SYNC FreeSync Preto 27G411B",
+     "de": 1199,
+     "por": 755.33,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_737016-MLA116256824398_092026-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    }
+   ],
+   "pronto": true
   },
   "Saúde": {
    "ofertas": [],
