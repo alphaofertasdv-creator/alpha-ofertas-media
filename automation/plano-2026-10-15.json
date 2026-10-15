@@ -377,8 +377,229 @@
    "pronto": false
   },
   "Casa": {
-   "ofertas": [],
-   "pronto": false
+   "ofertas": [
+    {
+     "id": "MLB35155861",
+     "link_afiliado": "https://meli.la/2eS7CBJ",
+     "titulo": "Chuveiro Eletrônico Loren Shower Lorenzetti",
+     "de": 398.9,
+     "por": 110,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_797941-MLA116515998944_092026-F.webp",
+     "categoria": "Casa",
+     "slot": null
+    },
+    {
+     "id": "MLB21814751",
+     "link_afiliado": "https://meli.la/2NpUKPY",
+     "titulo": "Balança Digital Corporal Bioimpedância Aplicativo Bluetooth Relaxmedic",
+     "de": 279.9,
+     "por": 101.9,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_669691-MLA106901751604_022026-F.webp",
+     "categoria": "Casa",
+     "slot": null
+    },
+    {
+     "id": "MLB18932156",
+     "link_afiliado": "https://meli.la/2CtBgWB",
+     "titulo": "Ventilador de Mesa 30cm Super Power Mondial 60W VSP-30-B",
+     "de": 179.9,
+     "por": 69.99,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_620576-MLA99958768953_112025-F.webp",
+     "categoria": "Casa",
+     "slot": null
+    },
+    {
+     "id": "MLB51021302",
+     "link_afiliado": "https://meli.la/1LXDBPH",
+     "titulo": "Cervejeira Preta Frost Free 82 Litros Midea Cor Preto",
+     "de": 3189,
+     "por": 1578.37,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_612577-MLA99987681949_112025-F.webp",
+     "categoria": "Casa",
+     "slot": null
+    },
+    {
+     "id": "MLB17003267",
+     "link_afiliado": "https://meli.la/2otuPZU",
+     "titulo": "Cafeteira Nescafé Dolce Gusto Arno Genio S Plus Preta 110v",
+     "de": 1099.99,
+     "por": 539.99,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_998097-MLA115435101684_082026-F.webp",
+     "categoria": "Casa",
+     "slot": null
+    },
+    {
+     "id": "MLB16057928",
+     "link_afiliado": "https://meli.la/2WdUq8L",
+     "titulo": "Mixer Philips Walita Daily Collection RI2622/70 preto e prata 400W",
+     "de": 439.9,
+     "por": 220.91,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_986717-MLA99508093810_112025-F.webp",
+     "categoria": "Casa",
+     "slot": null
+    },
+    {
+     "id": "MLB8017585",
+     "link_afiliado": "https://meli.la/1AwaBWm",
+     "titulo": "Geladeira Electrolux Cycle Defrost 260L Super Freezer Duplex Branca DC35A",
+     "de": 3699,
+     "por": 1939.03,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_837700-MLA99993548505_112025-F.webp",
+     "categoria": "Casa",
+     "slot": null
+    },
+    {
+     "id": "MLB79756145",
+     "link_afiliado": "https://meli.la/2kwVkzS",
+     "titulo": "Multiprocessador e Triturador de Alimentos Viacruz 2 Litros Inox 300W Prateado",
+     "de": 109,
+     "por": 57.2,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_926998-MLA116605633478_092026-F.webp",
+     "categoria": "Casa",
+     "slot": null
+    },
+    {
+     "id": "MLB26121563",
+     "link_afiliado": "https://meli.la/2g45qv4",
+     "titulo": "Bebedouro de mesa Cadence gela água refrigerado elétrico galão aguô BEB110 branco",
+     "de": 599,
+     "por": 320.37,
+     "rating": "4.6",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_924326-MLA99849819331_112025-F.webp",
+     "categoria": "Casa",
+     "slot": null
+    },
+    {
+     "id": "MLB15553602",
+     "link_afiliado": "https://meli.la/2xckC6L",
+     "titulo": "Ferro A Seco Black+decker cor preto prateado Vfa1110tm2",
+     "de": 179.99,
+     "por": 99.82,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_664604-MLA99612237324_122025-F.webp",
+     "categoria": "Casa",
+     "slot": null
+    },
+    {
+     "id": "MLB19924364",
+     "link_afiliado": "https://meli.la/2hTZov8",
+     "titulo": "Aspirador Pó e Água Electrolux função Sopro Compacto Inox 1800W 20L GT20i",
+     "de": 699,
+     "por": 369.9,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_972915-MLA116379474391_082026-F.webp",
+     "categoria": "Casa",
+     "slot": null
+    },
+    {
+     "id": "MLB54597339",
+     "link_afiliado": "https://meli.la/1HBLp7Z",
+     "titulo": "Aspirador de Pó Vertical Midea, 1350W, 2 em 1, cabo de 5M, Preto e Azul",
+     "de": 228.43,
+     "por": 124,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_934214-MLA95401671574_102025-F.webp",
+     "categoria": "Casa",
+     "slot": null
+    },
+    {
+     "id": "MLB79262042",
+     "link_afiliado": "https://meli.la/2t4e7ek",
+     "titulo": "Liquidificador Daily HR2155 Philips Walita Preto 800W",
+     "de": 149.9,
+     "por": 80,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_673606-MLA117571602391_092026-F.webp",
+     "categoria": "Casa",
+     "slot": null
+    },
+    {
+     "id": "MLB27679774",
+     "link_afiliado": "https://meli.la/2hK4PRk",
+     "titulo": "Armário de Cozinha Compacta Xangai Multimóveis VM2840 Branco/Lacca Fumê",
+     "de": 977.77,
+     "por": 531.12,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_770490-MLA99548341898_122025-F.webp",
+     "categoria": "Casa",
+     "slot": null
+    },
+    {
+     "id": "MLB77564152",
+     "link_afiliado": "https://meli.la/1461J7a",
+     "titulo": "Ventilador de Torre Philips Walita Serie 1500 CX1525 40 cm Cinza-escuro",
+     "de": 669.9,
+     "por": 370,
+     "rating": "5",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_619843-MLA114948083100_082026-F.webp",
+     "categoria": "Casa",
+     "slot": null
+    },
+    {
+     "id": "MLB37808908",
+     "link_afiliado": "https://meli.la/1hjJTUD",
+     "titulo": "Ventilador De Mesa Britânia Prime Air AVTE300 Preto com 6 Pás e 3 Velocidades",
+     "de": 183.9,
+     "por": 101.91,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_908667-MLA99533027792_122025-F.webp",
+     "categoria": "Casa",
+     "slot": null
+    },
+    {
+     "id": "MLB8923630",
+     "link_afiliado": "https://meli.la/16ssBPn",
+     "titulo": "Aspirador De Pó e Água Wap Gtw 10 Compacto 1400w 10 Litros Amarelo",
+     "de": 399,
+     "por": 229.91,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_944970-MLA99949674111_112025-F.webp",
+     "categoria": "Casa",
+     "slot": null
+    },
+    {
+     "id": "MLBU2900389102",
+     "link_afiliado": "https://meli.la/1gyebtq",
+     "titulo": "Filtro Refil Purificador Electrolux Pe11b Pe11x Pc41 Ph41 A1",
+     "de": 114.8,
+     "por": 65.82,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_718746-MLB116543608111_082026-F-filtro-refil-purificador-electrolux-pe11b-pe11x-pc41-ph41-a1.webp",
+     "categoria": "Casa",
+     "slot": null
+    },
+    {
+     "id": "MLB66418348",
+     "link_afiliado": "https://meli.la/12q1365",
+     "titulo": "Processador Walita Preto 1000w - Hr7304/92",
+     "de": 519.9,
+     "por": 300,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_808861-MLA107744383504_032026-F.webp",
+     "categoria": "Casa",
+     "slot": null
+    },
+    {
+     "id": "MLB51335107",
+     "link_afiliado": "https://meli.la/2jZQZrc",
+     "titulo": "Jogo de Toalhas Buddemeyer Atena Fio Penteado Banho Verde/Verde Claro 4 peças",
+     "de": 309.9,
+     "por": 179.92,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_809096-MLA100187134945_122025-F.webp",
+     "categoria": "Casa",
+     "slot": null
+    }
+   ],
+   "pronto": true
   },
   "Academia": {
    "ofertas": [],
