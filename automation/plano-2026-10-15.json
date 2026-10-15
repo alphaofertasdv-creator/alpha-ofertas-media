@@ -1,0 +1,135 @@
+{
+ "data": "2026-10-15",
+ "ig": {
+  "carrossel": {
+   "chave": "irr",
+   "id": "MLB15269475",
+   "link_afiliado": "https://meli.la/2n6EW3B",
+   "name": "Irrigador Oral Clearpik Family 600ml Bivolt 5 Bicos",
+   "old": 336.9,
+   "price": 167.44,
+   "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_957734-MLA104773590762_012026-F.webp",
+   "tag": "🔥 Oferta do dia",
+   "note": "",
+   "nicho": "Saúde & Beleza",
+   "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+   "bullets": [
+    "Reservatório de 600 ml",
+    "5 bicos multifuncionais",
+    "Bivolt 127/220 V"
+   ]
+  },
+  "stories": [
+   {
+    "chave": "gw8",
+    "id": "MLB57845943",
+    "link_afiliado": "https://meli.la/12XpCQW",
+    "name": "Samsung Galaxy Watch8 40mm LTE",
+    "old": 3299.0,
+    "price": 1169.1,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_979475-MLA93401239999_092025-F.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Tech",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "Tela Super AMOLED de 1,34\"",
+     "LTE, GPS e NFC",
+     "Caixa de alumínio reforçado"
+    ]
+   },
+   {
+    "chave": "mix",
+    "id": "MLB16079160",
+    "link_afiliado": "https://meli.la/1rRWu2B",
+    "name": "Mixer Philips Walita Daily Collection 400W",
+    "old": 439.9,
+    "price": 220.0,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_766513-MLA99988929581_112025-F.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Casa",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "Potência de 400 W",
+     "Lâmina de metal",
+     "Haste removível com acessórios"
+    ]
+   },
+   {
+    "chave": "whe",
+    "id": "MLB62192542",
+    "link_afiliado": "https://meli.la/2Sr2mgz",
+    "name": "Whey 100% Pure Integralmédica Refil 1,8 kg Baunilha",
+    "old": 549.9,
+    "price": 238.43,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_940900-MLA97975973778_112025-F.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Academia",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "21 g de proteína por porção",
+     "4,6 g de BCAA",
+     "Sem glúten"
+    ]
+   },
+   {
+    "chave": "aro",
+    "id": "MLBU4159785804",
+    "link_afiliado": "https://meli.la/19UJkDS",
+    "name": "Kit Aramis 2 Polos Algodão Piquet Preto e Grafite",
+    "old": 459.8,
+    "price": 233.56,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_741447-MLB114373723233_072026-F-kit-aramis-2-polos-algodao-piquet-preto-e-grafite.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Moda Masculina",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "Kit com 2 polos",
+     "Algodão piquet",
+     "Cores preto e grafite"
+    ]
+   },
+   {
+    "chave": "col",
+    "id": "MLB66274101",
+    "link_afiliado": "https://meli.la/1roacb1",
+    "name": "Colchão Inflável Queen 203x152 cm com Bomba Elétrica",
+    "old": 599.0,
+    "price": 325.86,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_866895-MLA107523759406_032026-F.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Pesca & Camping",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "Tamanho Queen 203x152 cm",
+     "Bomba elétrica embutida",
+     "Suporta até 300 kg"
+    ]
+   }
+  ],
+  "pronto": true
+ },
+ "grupos": {
+  "Tech": {
+   "ofertas": [],
+   "pronto": false
+  },
+  "Saúde": {
+   "ofertas": [],
+   "pronto": false
+  },
+  "Casa": {
+   "ofertas": [],
+   "pronto": false
+  },
+  "Academia": {
+   "ofertas": [],
+   "pronto": false
+  }
+ },
+ "completo": false
+}

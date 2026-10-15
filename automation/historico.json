@@ -1,2366 +1,2414 @@
 [
-  {
-    "id": "MLB63335606",
-    "data": "2026-10-11",
-    "chave": "a17",
-    "link": "https://meli.la/1PEXmMm",
-    "uso": "carrossel"
-  },
-  {
-    "id": "MLB51986596",
-    "data": "2026-10-11",
-    "chave": "sec",
-    "link": "https://meli.la/2bAqXFc",
-    "uso": "story1"
-  },
-  {
-    "id": "MLB31541424",
-    "data": "2026-10-11",
-    "chave": "tab",
-    "link": "https://meli.la/2NgE8ES",
-    "uso": "story2"
-  },
-  {
-    "id": "MLB25929487",
-    "data": "2026-10-11",
-    "chave": "cre",
-    "link": "https://meli.la/33z22zj",
-    "uso": "story3"
-  },
-  {
-    "id": "MLB27705742",
-    "data": "2026-10-11",
-    "chave": "cam",
-    "link": "https://meli.la/34dLxok",
-    "uso": "story4"
-  },
-  {
-    "id": "MLB34197272",
-    "data": "2026-10-11",
-    "chave": "pne",
-    "link": "https://meli.la/1tmR7Gu",
-    "uso": "story5"
-  },
-  {
-    "id": "MLB37944478",
-    "data": "2026-10-11",
-    "chave": "tech",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB47137238",
-    "data": "2026-10-11",
-    "chave": "tech",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB64230396",
-    "data": "2026-10-11",
-    "chave": "tech",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB56724643",
-    "data": "2026-10-11",
-    "chave": "tech",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB34229008",
-    "data": "2026-10-11",
-    "chave": "tech",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB19035973",
-    "data": "2026-10-11",
-    "chave": "saude",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB18580665",
-    "data": "2026-10-11",
-    "chave": "saude",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB22871761",
-    "data": "2026-10-11",
-    "chave": "saude",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB42809065",
-    "data": "2026-10-11",
-    "chave": "saude",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB63161203",
-    "data": "2026-10-11",
-    "chave": "saude",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB48977638",
-    "data": "2026-10-11",
-    "chave": "saude",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB22663071",
-    "data": "2026-10-11",
-    "chave": "casa",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB10923642",
-    "data": "2026-10-11",
-    "chave": "casa",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB75916910",
-    "data": "2026-10-11",
-    "chave": "casa",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB12174057",
-    "data": "2026-10-11",
-    "chave": "casa",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB59113801",
-    "data": "2026-10-11",
-    "chave": "casa",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB20806906",
-    "data": "2026-10-11",
-    "chave": "casa",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB23958420",
-    "data": "2026-10-11",
-    "chave": "achados",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB22643855",
-    "data": "2026-10-11",
-    "chave": "achados",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB37790373",
-    "data": "2026-10-11",
-    "chave": "achados",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB22616606",
-    "data": "2026-10-11",
-    "chave": "achados",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB19373057",
-    "data": "2026-10-11",
-    "chave": "achados",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB63040715",
-    "data": "2026-10-11",
-    "chave": "achados",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB79566827",
-    "data": "2026-10-11",
-    "chave": "acad",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB6087974",
-    "data": "2026-10-11",
-    "chave": "acad",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB18995412",
-    "data": "2026-10-11",
-    "chave": "acad",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB23930598",
-    "data": "2026-10-11",
-    "chave": "acad",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB67998627",
-    "data": "2026-10-11",
-    "chave": "acad",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB72991388",
-    "data": "2026-10-11",
-    "chave": "acad",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLBU3704309331",
-    "data": "2026-10-11",
-    "chave": "moda",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLBU3571623126",
-    "data": "2026-10-11",
-    "chave": "moda",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLBU5176208999",
-    "data": "2026-10-11",
-    "chave": "moda",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLBU3682453759",
-    "data": "2026-10-11",
-    "chave": "moda",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLBU5416671790",
-    "data": "2026-10-11",
-    "chave": "moda",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLBU4496591623",
-    "data": "2026-10-11",
-    "chave": "moda",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLBU4518093634",
-    "data": "2026-10-11",
-    "chave": "moda",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLBU3760946689",
-    "data": "2026-10-11",
-    "chave": "moda",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB65661155",
-    "data": "2026-10-11",
-    "chave": "moda",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLBU3933108066",
-    "data": "2026-10-11",
-    "chave": "pesca",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLBU3852670344",
-    "data": "2026-10-11",
-    "chave": "pesca",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLBU3676418817",
-    "data": "2026-10-11",
-    "chave": "pesca",
-    "uso": "whatsapp"
-  },
-  {
-    "id": "MLB3806655487",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2amuoA2",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLB2794030545",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/1GULHLk",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLB5408593708",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/1fsmmmv",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLB3373243849",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/14XPDgd",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLB5330020602",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/1kLd5ej",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLB3239976866",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2iZdcvw",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLB4779497929",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/1rC9e8U",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLB1858445728",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/328TBKn",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLB1010954920",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2npqxex",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLB4049279695",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/1QsPh7y",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLB3777406449",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/32vxDTc",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLB4966211100",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2d2Nix5",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLB3992693485",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/23Ur727",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLB4648729244",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/1Q74tww",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLB51338716",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2itTUUs",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLBU5229578672",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/147aJxr",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLB25371983",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2jdwy6u",
-    "uso": "grupo:Achados do Dia"
-  },
-  {
-    "id": "MLB18405766",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/281H3ZZ",
-    "uso": "grupo:Achados do Dia"
-  },
-  {
-    "id": "MLB61672441",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/1ZVJk4t",
-    "uso": "grupo:Achados do Dia"
-  },
-  {
-    "id": "MLB36264774",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/1XzU2gH",
-    "uso": "grupo:Achados do Dia"
-  },
-  {
-    "id": "MLB65952157",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2vCGcff",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB64025589",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/25CWf2u",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB67267597",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/1MKcE1b",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB60085447",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/1FvpvSG",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB77148888",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/1v7HtpP",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB38650498",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2kChGAs",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB58097097",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2SV9FNq",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB54014512",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2jxX9ru",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB75681377",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2kqXLdB",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB24028629",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/1BkuFsu",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB65114795",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2WGajYX",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB44730494",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/1oV82qb",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB23888631",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2K4b7Uv",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB42327159",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/1pBZz3e",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB45358161",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2qkVUVd",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB26703117",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2m632Qk",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB30067110",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2stZb5H",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB9033853",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/11kRzma",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB18580666",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2oELpNa",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB19694427",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2s7xjbe",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB60416809",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2ooy5uY",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB6287898",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/13VgXjP",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB18725310",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/1FyKJqi",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB40366976",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/126bxys",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB24081502",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2xTcMRq",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB19381117",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/33W4z6G",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB6087971",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2jfPkmH",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB19451614",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2XNWwrs",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB72652758",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/27TQN1N",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB19603205",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/14efTZ7",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB53177203",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2QJf6vy",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB66271625",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2NzReeu",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB62957152",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/26MYCDs",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB8923631",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2cqYZLf",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB18927373",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/26995CP",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB26797988",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2V5L5eF",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB69355197",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2dvmsM9",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB25860033",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/1Dv42Ht",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB23501697",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2dwkCS3",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB62021471",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2jgUodj",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB62230579",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/19kECM7",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB54429015",
-    "data": "2026-10-12",
-    "chave": "",
-    "link": "https://meli.la/2XozkMJ",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB65952157",
-    "data": "2026-10-12",
-    "chave": "a36",
-    "link": "https://meli.la/2vCGcff",
-    "uso": "carrossel_cancelado",
-    "nicho": "Tech/Celular"
-  },
-  {
-    "id": "MLB3806655487",
-    "data": "2026-10-12",
-    "chave": "pum",
-    "link": "https://meli.la/2amuoA2",
-    "uso": "carrossel",
-    "nicho": "Moda Masculina"
-  },
-  {
-    "id": "MLB69921727",
-    "data": "2026-10-13",
-    "chave": "whe",
-    "link": "https://meli.la/2B99TMu",
-    "uso": "carrossel",
-    "nicho": "Academia"
-  },
-  {
-    "id": "MLB39205913",
-    "data": "2026-10-13",
-    "chave": "913",
-    "link": "https://meli.la/2iaGDF4",
-    "uso": "story",
-    "nicho": "Tech"
-  },
-  {
-    "id": "MLB63777677",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2onxsUT",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB76490088",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/18SQ9oN",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB50301060",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2izEhW8",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB55044657",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2a1yiEg",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB63016702",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1eBC4aA",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB47106610",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1irH3yb",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB67890591",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2os9dfh",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB47114363",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/159eKCR",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB49652036",
-    "data": "2026-10-13",
-    "chave": "036",
-    "link": "https://meli.la/2aKnrBX",
-    "uso": "story",
-    "nicho": "Saúde & Beleza"
-  },
-  {
-    "id": "MLB19765518",
-    "data": "2026-10-13",
-    "chave": "518",
-    "link": "https://meli.la/188zfuh",
-    "uso": "story",
-    "nicho": "Casa"
-  },
-  {
-    "id": "MLB3102506128",
-    "data": "2026-10-13",
-    "chave": "128",
-    "link": "https://meli.la/243VWii",
-    "uso": "story",
-    "nicho": "Moda Feminina"
-  },
-  {
-    "id": "MLB35955851",
-    "data": "2026-10-13",
-    "chave": "851",
-    "link": "https://meli.la/1AYbU8F",
-    "uso": "story",
-    "nicho": "Achados do Dia"
-  },
-  {
-    "id": "MLB65189679",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/28P1iyh",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB53838786",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1kDh6yx",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB62870034",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1bVd6PV",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB55055942",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1d4FWcn",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB34113516",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1fgTM4x",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB29836551",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1Z7TaVC",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB59252898",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/31UW8ca",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB59251129",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2JYb5fY",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB24086423",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1gfN32o",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB19462412",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/17DE1fZ",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB21360271",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1G2LEKZ",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB27838890",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2ECxn8V",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB60968045",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/323yBD6",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB54456751",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/23Nu17h",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB25708528",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1nQY1qU",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB66895633",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2h8esUz",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB15578941",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1L6pwwC",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB15977316",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1rCs81Q",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB16069584",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2HY7Gvk",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB40535137",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/272gAQk",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB46671029",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1uE6195",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB17449992",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1DYnzQc",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB19481428",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2gD3Eym",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB54235193",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2Diqzbm",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB26797982",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2hYuVRb",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB26796581",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1H6NE3b",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB19506691",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2UrFdCh",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB66637233",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1y2uT8T",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB18725403",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2dFhn3v",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB79171629",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2VTZzvt",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB40182826",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2peSNqg",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB63673020",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2d3uGN1",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB35959035",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1qThmVw",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB40366976",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/126bxys",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB19381117",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/33W4z6G",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB6087974",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1S9h39k",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB72652758",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/27TQN1N",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB31005509",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2JMKPhg",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB18995412",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2DjegP8",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB40182325",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1EexhLs",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB3746645279",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2wwUX8u",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLB3791308351",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1DowhVY",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLBU3752105161",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2X1mUwU",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLB4811334869",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1eUGtgq",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLB7734921338",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2KwruTQ",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLB5857442960",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2Ai4NPi",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLB5532075156",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/225S6QK",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLB4054011533",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1pXHCFD",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLB4024756477",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/24bYKNK",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLB1871146249",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1dqDh7S",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLB4057042938",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1e5DWkQ",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLBU3571629134",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2VPUU2N",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLBU4336681084",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1fbKoRC",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLBU3682453759",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2JjeXde",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLB5776022084",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/27ww76c",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLBU3870371719",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2Ma6tYw",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLBU4581046357",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2U4r5jk",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLB5633556572",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2xVcR62",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLBU5072867298",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1TzmJg8",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLB4122915057",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2VBKdtV",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLBU4063721000",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2XWJggd",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLB4342493479",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1uxMMC3",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLB53219301",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1421TAM",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLBU4730079126",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/31wtpk1",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLB36215168",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2wtizH5",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLB69701409",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1Cr14Zg",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLB25371983",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2jdwy6u",
-    "uso": "grupo:Achados do Dia"
-  },
-  {
-    "id": "MLB61672441",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1ZVJk4t",
-    "uso": "grupo:Achados do Dia"
-  },
-  {
-    "id": "MLB24115689",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2y3RmJJ",
-    "uso": "grupo:Achados do Dia"
-  },
-  {
-    "id": "MLB18720059",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2j1CSiU",
-    "uso": "grupo:Achados do Dia"
-  },
-  {
-    "id": "MLB2872858451",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1fNEqMu",
-    "uso": "grupo:Achados do Dia"
-  },
-  {
-    "id": "MLB29187736",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/1A6Ce1S",
-    "uso": "grupo:Achados do Dia"
-  },
-  {
-    "id": "MLB62594944",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/23WZ6yu",
-    "uso": "grupo:Achados do Dia"
-  },
-  {
-    "id": "MLB60239158",
-    "data": "2026-10-13",
-    "chave": "",
-    "link": "https://meli.la/2PiSFiN",
-    "uso": "grupo:Achados do Dia"
-  },
-  {
-    "id": "MLB39205913",
-    "data": "2026-10-13",
-    "chave": "lg4",
-    "link": "https://meli.la/2iaGDF4",
-    "uso": "story1",
-    "nicho": "Tech"
-  },
-  {
-    "id": "MLB49652036",
-    "data": "2026-10-13",
-    "chave": "phi",
-    "link": "https://meli.la/2aKnrBX",
-    "uso": "story2",
-    "nicho": "Saúde & Beleza"
-  },
-  {
-    "id": "MLB19765518",
-    "data": "2026-10-13",
-    "chave": "lor",
-    "link": "https://meli.la/188zfuh",
-    "uso": "story3",
-    "nicho": "Casa"
-  },
-  {
-    "id": "MLB3102506128",
-    "data": "2026-10-13",
-    "chave": "top",
-    "link": "https://meli.la/243VWii",
-    "uso": "story4",
-    "nicho": "Moda Feminina"
-  },
-  {
-    "id": "MLB35955851",
-    "data": "2026-10-13",
-    "chave": "lav",
-    "link": "https://meli.la/1AYbU8F",
-    "uso": "story5",
-    "nicho": "Achados do Dia"
-  },
-  {
-    "id": "MLB38176139",
-    "data": "2026-10-13",
-    "chave": "176139",
-    "link": "https://meli.la/2TiueHA",
-    "uso": "whatsapp-reforco-0830",
-    "nicho": "Tech"
-  },
-  {
-    "id": "MLB47519001",
-    "data": "2026-10-13",
-    "chave": "519001",
-    "link": "https://meli.la/2mKrqE1",
-    "uso": "whatsapp-reforco-0830",
-    "nicho": "Tech"
-  },
-  {
-    "id": "MLB40654916",
-    "data": "2026-10-13",
-    "chave": "654916",
-    "link": "https://meli.la/1iGz6Te",
-    "uso": "whatsapp-reforco-0830",
-    "nicho": "Tech"
-  },
-  {
-    "id": "MLB62998911",
-    "data": "2026-10-13",
-    "chave": "998911",
-    "link": "https://meli.la/1x63dx9",
-    "uso": "whatsapp-reforco-0830",
-    "nicho": "Tech"
-  },
-  {
-    "id": "MLB44665542",
-    "data": "2026-10-13",
-    "chave": "665542",
-    "link": "https://meli.la/2t2BPHT",
-    "uso": "whatsapp-reforco-0830",
-    "nicho": "Tech"
-  },
-  {
-    "id": "MLB55034955",
-    "data": "2026-10-13",
-    "chave": "034955",
-    "link": "https://meli.la/26sXwRs",
-    "uso": "whatsapp-reforco-0830",
-    "nicho": "Tech"
-  },
-  {
-    "id": "MLB65759096",
-    "data": "2026-10-13",
-    "chave": "759096",
-    "link": "https://meli.la/1LWtsgo",
-    "uso": "whatsapp-reforco-0830",
-    "nicho": "Tech"
-  },
-  {
-    "id": "MLB55677401",
-    "data": "2026-10-13",
-    "chave": "677401",
-    "link": "https://meli.la/2rPxWgM",
-    "uso": "whatsapp-reforco-0830",
-    "nicho": "Saúde"
-  },
-  {
-    "id": "MLB24202765",
-    "data": "2026-10-13",
-    "chave": "202765",
-    "link": "https://meli.la/2HezWRg",
-    "uso": "whatsapp-reforco-0830",
-    "nicho": "Saúde"
-  },
-  {
-    "id": "MLB69377325",
-    "data": "2026-10-13",
-    "chave": "377325",
-    "link": "https://meli.la/176qCAZ",
-    "uso": "whatsapp-reforco-0830",
-    "nicho": "Saúde"
-  },
-  {
-    "id": "MLBU2978815028",
-    "data": "2026-10-13",
-    "chave": "815028",
-    "link": "https://meli.la/1s2MSwJ",
-    "uso": "whatsapp-reforco-0830",
-    "nicho": "Saúde"
-  },
-  {
-    "id": "MLBU3117106937",
-    "data": "2026-10-13",
-    "chave": "106937",
-    "link": "https://meli.la/2PEPhDs",
-    "uso": "whatsapp-reforco-0830",
-    "nicho": "Saúde"
-  },
-  {
-    "id": "MLB48515682",
-    "data": "2026-10-13",
-    "chave": "515682",
-    "link": "https://meli.la/1NF26ti",
-    "uso": "whatsapp-reforco-0830",
-    "nicho": "Saúde"
-  },
-  {
-    "id": "MLB44389497",
-    "data": "2026-10-13",
-    "chave": "389497",
-    "link": "https://meli.la/2HAbSu8",
-    "uso": "whatsapp-reforco-0830",
-    "nicho": "Casa"
-  },
-  {
-    "id": "MLB49848921",
-    "data": "2026-10-13",
-    "chave": "848921",
-    "link": "https://meli.la/25XPCiR",
-    "uso": "whatsapp-reforco-0830",
-    "nicho": "Casa"
-  },
-  {
-    "id": "MLB16602519",
-    "data": "2026-10-13",
-    "chave": "602519",
-    "link": "https://meli.la/1BHVMnW",
-    "uso": "whatsapp-reforco-0830",
-    "nicho": "Casa"
-  },
-  {
-    "id": "MLB40692702",
-    "data": "2026-10-13",
-    "chave": "692702",
-    "link": "https://meli.la/1Y8tP9A",
-    "uso": "whatsapp-reforco-0830",
-    "nicho": "Achados do Dia"
-  },
-  {
-    "id": "MLB29004344",
-    "data": "2026-10-13",
-    "chave": "004344",
-    "link": "https://meli.la/17AZyvd",
-    "uso": "whatsapp-reforco-0830",
-    "nicho": "Achados do Dia"
-  },
-  {
-    "id": "MLB15345686",
-    "data": "2026-10-13",
-    "chave": "345686",
-    "link": "https://meli.la/1vJ2yvq",
-    "uso": "whatsapp-reforco-0830",
-    "nicho": "Achados do Dia"
-  },
-  {
-    "id": "MLBU4793518944",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2Ds4dZW",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB67373298",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2y3wz4f",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLBU3402023514",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/26ydKqw",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLBU2341646922",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2HgtMf8",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLBU3063059862",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1JTPs97",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB51534391",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1WphmoK",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB63904966",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2S6iybk",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB24273671",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1GhysKo",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB52868715",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2KELJdv",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB49822923",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2qHFtCp",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB40583845",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/142ctTK",
-    "uso": "grupo:Achados do Dia"
-  },
-  {
-    "id": "MLB6339959",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1r7dctC",
-    "uso": "grupo:Achados do Dia"
-  },
-  {
-    "id": "MLB75429183",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1CorEyP",
-    "uso": "grupo:Achados do Dia"
-  },
-  {
-    "id": "MLB29307476",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/29qS1h4",
-    "uso": "grupo:Achados do Dia"
-  },
-  {
-    "id": "MLB66128181",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1LpqKkS",
-    "uso": "grupo:Achados do Dia"
-  },
-  {
-    "id": "MLB75615449",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1bvdthS",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLBU753778921",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1cCoarG",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLBU3790212486",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2e2uUhm",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLBU5039963595",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1BGvLBp",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLB55893605",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1U9yXKW",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLB63804634",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2W5DrYn",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLB77319633",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1ikNpn9",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLB18725308",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1URW7oP",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB19381120",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1mGbnGp",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB40367709",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1mDiRrM",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB23181844",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2Njm8Pw",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB18953097",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1DgwJ18",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB18724696",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2ZRB8Ts",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB6104856",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2L53Khe",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB18995413",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2xHzkTR",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB20704214",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/23yxNVk",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB41734795",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/12LziX3",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB67270079",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/13guKz5",
-    "uso": "grupo:Tech & Setup"
-  },
-  {
-    "id": "MLB63036814",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/14jPjKc",
-    "uso": "grupo:Achados do Dia"
-  },
-  {
-    "id": "MLB38481041",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2tQDT7k",
-    "uso": "grupo:Achados do Dia"
-  },
-  {
-    "id": "MLB53191710",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1x27iCj",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLB23480582",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1j7umRQ",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLBU5227274240",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2rHPL7U",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLB34031670",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1z7FWuP",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLB45341890",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2X2vJvw",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLB70041714",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2ht8c7u",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLB64952982",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1HtuMDJ",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLB9989930",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1R1LsVq",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLB66484377",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1Hpr2vg",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLBU2978929588",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2nastro",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLBU3938660312",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1inrHrM",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLBU4336679960",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2bV2tg4",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLBU3713059804",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/18vv42W",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLBU3444739593",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2p7po1j",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLBU3445125652",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2ZFzmTa",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLBU4783963336",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2khKb4c",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLBU1649776275",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1SqUnne",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLB63467070",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/28dMapn",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLBU3907991803",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2ruAu8d",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLBU3781146505",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2Wo5NMw",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLBU4153703718",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2fnTdYx",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLBU3783906977",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2ZettDf",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLBU4745070270",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1SuaChM",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLBU4609592576",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1rb4bPr",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLB78898519",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1pna8vW",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB40692921",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1wrfHQD",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB42225245",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1PAQR6r",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB62000830",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2Rc1sSV",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB75466404",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/14j71Vf",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB36949953",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2b2gxxy",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB16068867",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1Gh9Y4f",
-    "uso": "grupo:Casa"
-  },
-  {
-    "id": "MLB16323394",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/15Jrg58",
-    "uso": "grupo:Achados do Dia"
-  },
-  {
-    "id": "MLB26797984",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2ohdxZd",
-    "uso": "grupo:Achados do Dia"
-  },
-  {
-    "id": "MLB54456585",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2EhPQPS",
-    "uso": "grupo:Achados do Dia"
-  },
-  {
-    "id": "MLB19969083",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1m8gjC3",
-    "uso": "grupo:Achados do Dia"
-  },
-  {
-    "id": "MLB53222689",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1F4U6Lx",
-    "uso": "grupo:Achados do Dia"
-  },
-  {
-    "id": "MLB24044937",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1zhqY5R",
-    "uso": "grupo:Achados do Dia"
-  },
-  {
-    "id": "MLB57473901",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1nTeYDs",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB22788717",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2oug9bi",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB50230438",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1QA994U",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB67316451",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2RZi7u5",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB40183187",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2rUKiGd",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB60940335",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1NE7oSk",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB18995414",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1ZuBo1q",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB50964456",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/315yFQL",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB6087972",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2xUmi6q",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB62279009",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1g7gFpM",
-    "uso": "grupo:Academia"
-  },
-  {
-    "id": "MLB68265734",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2XkfgpP",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLBU3035409711",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1aRED8D",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLB77323172",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2wNXnnA",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLBU2788534492",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1R9yHFY",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLBU4934539578",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/21UXwGf",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLBU4858601419",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/25cdxQN",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLB5806603044",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1FUt9zk",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLB3392296475",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/31MX5oc",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLB3951203745",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/33BurSa",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLB4347478841",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/26yrsPk",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLB4860428020",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/31GJiEP",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLB4810647054",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2ch19qH",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLB5242634806",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/1obCTGW",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLB2222397098",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2JRG79Z",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLB5826749660",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2HXakNv",
-    "uso": "grupo:Moda Masculina"
-  },
-  {
-    "id": "MLB74678961",
-    "data": "2026-10-13",
-    "chave": "fill",
-    "link": "https://meli.la/2YGG7GL",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLB767898429",
-    "data": "2026-10-14",
-    "chave": "fill",
-    "link": "https://meli.la/1XhT6gA",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLB3976963830",
-    "data": "2026-10-14",
-    "chave": "fill",
-    "link": "https://meli.la/2CkSiEA",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLB774942002",
-    "data": "2026-10-14",
-    "chave": "fill",
-    "link": "https://meli.la/1VAzV1Z",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLB3938306287",
-    "data": "2026-10-14",
-    "chave": "fill",
-    "link": "https://meli.la/2cgBwbN",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLB3652945334",
-    "data": "2026-10-14",
-    "chave": "fill",
-    "link": "https://meli.la/1Vi1Xe3",
-    "uso": "grupo:Moda Feminina"
-  },
-  {
-    "id": "MLB75328021",
-    "data": "2026-10-14",
-    "chave": "fill",
-    "link": "https://meli.la/1uAe74t",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB37277138",
-    "data": "2026-10-14",
-    "chave": "fill",
-    "link": "https://meli.la/2kyUdEq",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB4476638545",
-    "data": "2026-10-14",
-    "chave": "fill",
-    "link": "https://meli.la/1d7Ar8i",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB21724864",
-    "data": "2026-10-14",
-    "chave": "fill",
-    "link": "https://meli.la/2WobS2L",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLB19373057",
-    "data": "2026-10-14",
-    "chave": "fill",
-    "link": "https://meli.la/29RuGwS",
-    "uso": "grupo:Saúde & Beleza"
-  },
-  {
-    "id": "MLBU3933108066",
-    "data": "2026-10-14",
-    "chave": "fill",
-    "link": "https://meli.la/32yxrMq",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLB4817978961",
-    "data": "2026-10-14",
-    "chave": "fill",
-    "link": "https://meli.la/1tBBz3y",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLB75912640",
-    "data": "2026-10-14",
-    "chave": "fill",
-    "link": "https://meli.la/1SqycdD",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLBU3839271500",
-    "data": "2026-10-14",
-    "chave": "fill",
-    "link": "https://meli.la/1K85Zad",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLB51716412",
-    "data": "2026-10-14",
-    "chave": "fill",
-    "link": "https://meli.la/1BrinUu",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLB38215337",
-    "data": "2026-10-14",
-    "chave": "fill",
-    "link": "https://meli.la/1MTxMbu",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLBU3873370843",
-    "data": "2026-10-14",
-    "chave": "fill",
-    "link": "https://meli.la/2a16WCL",
-    "uso": "grupo:Pesca & Camping"
-  },
-  {
-    "id": "MLB65801243",
-    "data": "2026-10-14",
-    "chave": "fill",
-    "link": "https://meli.la/2DTREYc",
-    "uso": "grupo:Pesca & Camping"
-  }
+ {
+  "id": "MLB63335606",
+  "data": "2026-10-11",
+  "chave": "a17",
+  "link": "https://meli.la/1PEXmMm",
+  "uso": "carrossel"
+ },
+ {
+  "id": "MLB51986596",
+  "data": "2026-10-11",
+  "chave": "sec",
+  "link": "https://meli.la/2bAqXFc",
+  "uso": "story1"
+ },
+ {
+  "id": "MLB31541424",
+  "data": "2026-10-11",
+  "chave": "tab",
+  "link": "https://meli.la/2NgE8ES",
+  "uso": "story2"
+ },
+ {
+  "id": "MLB25929487",
+  "data": "2026-10-11",
+  "chave": "cre",
+  "link": "https://meli.la/33z22zj",
+  "uso": "story3"
+ },
+ {
+  "id": "MLB27705742",
+  "data": "2026-10-11",
+  "chave": "cam",
+  "link": "https://meli.la/34dLxok",
+  "uso": "story4"
+ },
+ {
+  "id": "MLB34197272",
+  "data": "2026-10-11",
+  "chave": "pne",
+  "link": "https://meli.la/1tmR7Gu",
+  "uso": "story5"
+ },
+ {
+  "id": "MLB37944478",
+  "data": "2026-10-11",
+  "chave": "tech",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB47137238",
+  "data": "2026-10-11",
+  "chave": "tech",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB64230396",
+  "data": "2026-10-11",
+  "chave": "tech",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB56724643",
+  "data": "2026-10-11",
+  "chave": "tech",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB34229008",
+  "data": "2026-10-11",
+  "chave": "tech",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB19035973",
+  "data": "2026-10-11",
+  "chave": "saude",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB18580665",
+  "data": "2026-10-11",
+  "chave": "saude",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB22871761",
+  "data": "2026-10-11",
+  "chave": "saude",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB42809065",
+  "data": "2026-10-11",
+  "chave": "saude",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB63161203",
+  "data": "2026-10-11",
+  "chave": "saude",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB48977638",
+  "data": "2026-10-11",
+  "chave": "saude",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB22663071",
+  "data": "2026-10-11",
+  "chave": "casa",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB10923642",
+  "data": "2026-10-11",
+  "chave": "casa",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB75916910",
+  "data": "2026-10-11",
+  "chave": "casa",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB12174057",
+  "data": "2026-10-11",
+  "chave": "casa",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB59113801",
+  "data": "2026-10-11",
+  "chave": "casa",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB20806906",
+  "data": "2026-10-11",
+  "chave": "casa",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB23958420",
+  "data": "2026-10-11",
+  "chave": "achados",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB22643855",
+  "data": "2026-10-11",
+  "chave": "achados",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB37790373",
+  "data": "2026-10-11",
+  "chave": "achados",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB22616606",
+  "data": "2026-10-11",
+  "chave": "achados",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB19373057",
+  "data": "2026-10-11",
+  "chave": "achados",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB63040715",
+  "data": "2026-10-11",
+  "chave": "achados",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB79566827",
+  "data": "2026-10-11",
+  "chave": "acad",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB6087974",
+  "data": "2026-10-11",
+  "chave": "acad",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB18995412",
+  "data": "2026-10-11",
+  "chave": "acad",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB23930598",
+  "data": "2026-10-11",
+  "chave": "acad",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB67998627",
+  "data": "2026-10-11",
+  "chave": "acad",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB72991388",
+  "data": "2026-10-11",
+  "chave": "acad",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLBU3704309331",
+  "data": "2026-10-11",
+  "chave": "moda",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLBU3571623126",
+  "data": "2026-10-11",
+  "chave": "moda",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLBU5176208999",
+  "data": "2026-10-11",
+  "chave": "moda",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLBU3682453759",
+  "data": "2026-10-11",
+  "chave": "moda",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLBU5416671790",
+  "data": "2026-10-11",
+  "chave": "moda",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLBU4496591623",
+  "data": "2026-10-11",
+  "chave": "moda",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLBU4518093634",
+  "data": "2026-10-11",
+  "chave": "moda",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLBU3760946689",
+  "data": "2026-10-11",
+  "chave": "moda",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB65661155",
+  "data": "2026-10-11",
+  "chave": "moda",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLBU3933108066",
+  "data": "2026-10-11",
+  "chave": "pesca",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLBU3852670344",
+  "data": "2026-10-11",
+  "chave": "pesca",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLBU3676418817",
+  "data": "2026-10-11",
+  "chave": "pesca",
+  "uso": "whatsapp"
+ },
+ {
+  "id": "MLB3806655487",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2amuoA2",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLB2794030545",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/1GULHLk",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLB5408593708",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/1fsmmmv",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLB3373243849",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/14XPDgd",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLB5330020602",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/1kLd5ej",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLB3239976866",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2iZdcvw",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLB4779497929",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/1rC9e8U",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLB1858445728",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/328TBKn",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLB1010954920",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2npqxex",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLB4049279695",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/1QsPh7y",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLB3777406449",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/32vxDTc",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLB4966211100",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2d2Nix5",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLB3992693485",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/23Ur727",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLB4648729244",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/1Q74tww",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLB51338716",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2itTUUs",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLBU5229578672",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/147aJxr",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLB25371983",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2jdwy6u",
+  "uso": "grupo:Achados do Dia"
+ },
+ {
+  "id": "MLB18405766",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/281H3ZZ",
+  "uso": "grupo:Achados do Dia"
+ },
+ {
+  "id": "MLB61672441",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/1ZVJk4t",
+  "uso": "grupo:Achados do Dia"
+ },
+ {
+  "id": "MLB36264774",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/1XzU2gH",
+  "uso": "grupo:Achados do Dia"
+ },
+ {
+  "id": "MLB65952157",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2vCGcff",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB64025589",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/25CWf2u",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB67267597",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/1MKcE1b",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB60085447",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/1FvpvSG",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB77148888",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/1v7HtpP",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB38650498",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2kChGAs",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB58097097",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2SV9FNq",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB54014512",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2jxX9ru",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB75681377",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2kqXLdB",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB24028629",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/1BkuFsu",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB65114795",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2WGajYX",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB44730494",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/1oV82qb",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB23888631",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2K4b7Uv",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB42327159",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/1pBZz3e",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB45358161",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2qkVUVd",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB26703117",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2m632Qk",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB30067110",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2stZb5H",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB9033853",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/11kRzma",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB18580666",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2oELpNa",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB19694427",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2s7xjbe",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB60416809",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2ooy5uY",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB6287898",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/13VgXjP",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB18725310",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/1FyKJqi",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB40366976",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/126bxys",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB24081502",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2xTcMRq",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB19381117",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/33W4z6G",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB6087971",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2jfPkmH",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB19451614",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2XNWwrs",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB72652758",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/27TQN1N",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB19603205",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/14efTZ7",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB53177203",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2QJf6vy",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB66271625",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2NzReeu",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB62957152",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/26MYCDs",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB8923631",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2cqYZLf",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB18927373",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/26995CP",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB26797988",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2V5L5eF",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB69355197",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2dvmsM9",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB25860033",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/1Dv42Ht",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB23501697",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2dwkCS3",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB62021471",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2jgUodj",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB62230579",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/19kECM7",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB54429015",
+  "data": "2026-10-12",
+  "chave": "",
+  "link": "https://meli.la/2XozkMJ",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB65952157",
+  "data": "2026-10-12",
+  "chave": "a36",
+  "link": "https://meli.la/2vCGcff",
+  "uso": "carrossel_cancelado",
+  "nicho": "Tech/Celular"
+ },
+ {
+  "id": "MLB3806655487",
+  "data": "2026-10-12",
+  "chave": "pum",
+  "link": "https://meli.la/2amuoA2",
+  "uso": "carrossel",
+  "nicho": "Moda Masculina"
+ },
+ {
+  "id": "MLB69921727",
+  "data": "2026-10-13",
+  "chave": "whe",
+  "link": "https://meli.la/2B99TMu",
+  "uso": "carrossel",
+  "nicho": "Academia"
+ },
+ {
+  "id": "MLB39205913",
+  "data": "2026-10-13",
+  "chave": "913",
+  "link": "https://meli.la/2iaGDF4",
+  "uso": "story",
+  "nicho": "Tech"
+ },
+ {
+  "id": "MLB63777677",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2onxsUT",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB76490088",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/18SQ9oN",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB50301060",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2izEhW8",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB55044657",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2a1yiEg",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB63016702",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1eBC4aA",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB47106610",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1irH3yb",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB67890591",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2os9dfh",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB47114363",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/159eKCR",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB49652036",
+  "data": "2026-10-13",
+  "chave": "036",
+  "link": "https://meli.la/2aKnrBX",
+  "uso": "story",
+  "nicho": "Saúde & Beleza"
+ },
+ {
+  "id": "MLB19765518",
+  "data": "2026-10-13",
+  "chave": "518",
+  "link": "https://meli.la/188zfuh",
+  "uso": "story",
+  "nicho": "Casa"
+ },
+ {
+  "id": "MLB3102506128",
+  "data": "2026-10-13",
+  "chave": "128",
+  "link": "https://meli.la/243VWii",
+  "uso": "story",
+  "nicho": "Moda Feminina"
+ },
+ {
+  "id": "MLB35955851",
+  "data": "2026-10-13",
+  "chave": "851",
+  "link": "https://meli.la/1AYbU8F",
+  "uso": "story",
+  "nicho": "Achados do Dia"
+ },
+ {
+  "id": "MLB65189679",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/28P1iyh",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB53838786",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1kDh6yx",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB62870034",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1bVd6PV",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB55055942",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1d4FWcn",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB34113516",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1fgTM4x",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB29836551",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1Z7TaVC",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB59252898",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/31UW8ca",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB59251129",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2JYb5fY",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB24086423",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1gfN32o",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB19462412",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/17DE1fZ",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB21360271",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1G2LEKZ",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB27838890",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2ECxn8V",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB60968045",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/323yBD6",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB54456751",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/23Nu17h",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB25708528",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1nQY1qU",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB66895633",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2h8esUz",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB15578941",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1L6pwwC",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB15977316",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1rCs81Q",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB16069584",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2HY7Gvk",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB40535137",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/272gAQk",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB46671029",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1uE6195",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB17449992",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1DYnzQc",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB19481428",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2gD3Eym",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB54235193",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2Diqzbm",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB26797982",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2hYuVRb",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB26796581",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1H6NE3b",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB19506691",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2UrFdCh",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB66637233",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1y2uT8T",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB18725403",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2dFhn3v",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB79171629",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2VTZzvt",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB40182826",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2peSNqg",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB63673020",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2d3uGN1",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB35959035",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1qThmVw",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB40366976",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/126bxys",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB19381117",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/33W4z6G",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB6087974",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1S9h39k",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB72652758",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/27TQN1N",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB31005509",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2JMKPhg",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB18995412",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2DjegP8",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB40182325",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1EexhLs",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB3746645279",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2wwUX8u",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLB3791308351",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1DowhVY",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLBU3752105161",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2X1mUwU",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLB4811334869",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1eUGtgq",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLB7734921338",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2KwruTQ",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLB5857442960",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2Ai4NPi",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLB5532075156",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/225S6QK",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLB4054011533",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1pXHCFD",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLB4024756477",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/24bYKNK",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLB1871146249",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1dqDh7S",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLB4057042938",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1e5DWkQ",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLBU3571629134",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2VPUU2N",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLBU4336681084",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1fbKoRC",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLBU3682453759",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2JjeXde",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLB5776022084",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/27ww76c",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLBU3870371719",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2Ma6tYw",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLBU4581046357",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2U4r5jk",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLB5633556572",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2xVcR62",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLBU5072867298",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1TzmJg8",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLB4122915057",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2VBKdtV",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLBU4063721000",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2XWJggd",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLB4342493479",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1uxMMC3",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLB53219301",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1421TAM",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLBU4730079126",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/31wtpk1",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLB36215168",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2wtizH5",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLB69701409",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1Cr14Zg",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLB25371983",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2jdwy6u",
+  "uso": "grupo:Achados do Dia"
+ },
+ {
+  "id": "MLB61672441",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1ZVJk4t",
+  "uso": "grupo:Achados do Dia"
+ },
+ {
+  "id": "MLB24115689",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2y3RmJJ",
+  "uso": "grupo:Achados do Dia"
+ },
+ {
+  "id": "MLB18720059",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2j1CSiU",
+  "uso": "grupo:Achados do Dia"
+ },
+ {
+  "id": "MLB2872858451",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1fNEqMu",
+  "uso": "grupo:Achados do Dia"
+ },
+ {
+  "id": "MLB29187736",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/1A6Ce1S",
+  "uso": "grupo:Achados do Dia"
+ },
+ {
+  "id": "MLB62594944",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/23WZ6yu",
+  "uso": "grupo:Achados do Dia"
+ },
+ {
+  "id": "MLB60239158",
+  "data": "2026-10-13",
+  "chave": "",
+  "link": "https://meli.la/2PiSFiN",
+  "uso": "grupo:Achados do Dia"
+ },
+ {
+  "id": "MLB39205913",
+  "data": "2026-10-13",
+  "chave": "lg4",
+  "link": "https://meli.la/2iaGDF4",
+  "uso": "story1",
+  "nicho": "Tech"
+ },
+ {
+  "id": "MLB49652036",
+  "data": "2026-10-13",
+  "chave": "phi",
+  "link": "https://meli.la/2aKnrBX",
+  "uso": "story2",
+  "nicho": "Saúde & Beleza"
+ },
+ {
+  "id": "MLB19765518",
+  "data": "2026-10-13",
+  "chave": "lor",
+  "link": "https://meli.la/188zfuh",
+  "uso": "story3",
+  "nicho": "Casa"
+ },
+ {
+  "id": "MLB3102506128",
+  "data": "2026-10-13",
+  "chave": "top",
+  "link": "https://meli.la/243VWii",
+  "uso": "story4",
+  "nicho": "Moda Feminina"
+ },
+ {
+  "id": "MLB35955851",
+  "data": "2026-10-13",
+  "chave": "lav",
+  "link": "https://meli.la/1AYbU8F",
+  "uso": "story5",
+  "nicho": "Achados do Dia"
+ },
+ {
+  "id": "MLB38176139",
+  "data": "2026-10-13",
+  "chave": "176139",
+  "link": "https://meli.la/2TiueHA",
+  "uso": "whatsapp-reforco-0830",
+  "nicho": "Tech"
+ },
+ {
+  "id": "MLB47519001",
+  "data": "2026-10-13",
+  "chave": "519001",
+  "link": "https://meli.la/2mKrqE1",
+  "uso": "whatsapp-reforco-0830",
+  "nicho": "Tech"
+ },
+ {
+  "id": "MLB40654916",
+  "data": "2026-10-13",
+  "chave": "654916",
+  "link": "https://meli.la/1iGz6Te",
+  "uso": "whatsapp-reforco-0830",
+  "nicho": "Tech"
+ },
+ {
+  "id": "MLB62998911",
+  "data": "2026-10-13",
+  "chave": "998911",
+  "link": "https://meli.la/1x63dx9",
+  "uso": "whatsapp-reforco-0830",
+  "nicho": "Tech"
+ },
+ {
+  "id": "MLB44665542",
+  "data": "2026-10-13",
+  "chave": "665542",
+  "link": "https://meli.la/2t2BPHT",
+  "uso": "whatsapp-reforco-0830",
+  "nicho": "Tech"
+ },
+ {
+  "id": "MLB55034955",
+  "data": "2026-10-13",
+  "chave": "034955",
+  "link": "https://meli.la/26sXwRs",
+  "uso": "whatsapp-reforco-0830",
+  "nicho": "Tech"
+ },
+ {
+  "id": "MLB65759096",
+  "data": "2026-10-13",
+  "chave": "759096",
+  "link": "https://meli.la/1LWtsgo",
+  "uso": "whatsapp-reforco-0830",
+  "nicho": "Tech"
+ },
+ {
+  "id": "MLB55677401",
+  "data": "2026-10-13",
+  "chave": "677401",
+  "link": "https://meli.la/2rPxWgM",
+  "uso": "whatsapp-reforco-0830",
+  "nicho": "Saúde"
+ },
+ {
+  "id": "MLB24202765",
+  "data": "2026-10-13",
+  "chave": "202765",
+  "link": "https://meli.la/2HezWRg",
+  "uso": "whatsapp-reforco-0830",
+  "nicho": "Saúde"
+ },
+ {
+  "id": "MLB69377325",
+  "data": "2026-10-13",
+  "chave": "377325",
+  "link": "https://meli.la/176qCAZ",
+  "uso": "whatsapp-reforco-0830",
+  "nicho": "Saúde"
+ },
+ {
+  "id": "MLBU2978815028",
+  "data": "2026-10-13",
+  "chave": "815028",
+  "link": "https://meli.la/1s2MSwJ",
+  "uso": "whatsapp-reforco-0830",
+  "nicho": "Saúde"
+ },
+ {
+  "id": "MLBU3117106937",
+  "data": "2026-10-13",
+  "chave": "106937",
+  "link": "https://meli.la/2PEPhDs",
+  "uso": "whatsapp-reforco-0830",
+  "nicho": "Saúde"
+ },
+ {
+  "id": "MLB48515682",
+  "data": "2026-10-13",
+  "chave": "515682",
+  "link": "https://meli.la/1NF26ti",
+  "uso": "whatsapp-reforco-0830",
+  "nicho": "Saúde"
+ },
+ {
+  "id": "MLB44389497",
+  "data": "2026-10-13",
+  "chave": "389497",
+  "link": "https://meli.la/2HAbSu8",
+  "uso": "whatsapp-reforco-0830",
+  "nicho": "Casa"
+ },
+ {
+  "id": "MLB49848921",
+  "data": "2026-10-13",
+  "chave": "848921",
+  "link": "https://meli.la/25XPCiR",
+  "uso": "whatsapp-reforco-0830",
+  "nicho": "Casa"
+ },
+ {
+  "id": "MLB16602519",
+  "data": "2026-10-13",
+  "chave": "602519",
+  "link": "https://meli.la/1BHVMnW",
+  "uso": "whatsapp-reforco-0830",
+  "nicho": "Casa"
+ },
+ {
+  "id": "MLB40692702",
+  "data": "2026-10-13",
+  "chave": "692702",
+  "link": "https://meli.la/1Y8tP9A",
+  "uso": "whatsapp-reforco-0830",
+  "nicho": "Achados do Dia"
+ },
+ {
+  "id": "MLB29004344",
+  "data": "2026-10-13",
+  "chave": "004344",
+  "link": "https://meli.la/17AZyvd",
+  "uso": "whatsapp-reforco-0830",
+  "nicho": "Achados do Dia"
+ },
+ {
+  "id": "MLB15345686",
+  "data": "2026-10-13",
+  "chave": "345686",
+  "link": "https://meli.la/1vJ2yvq",
+  "uso": "whatsapp-reforco-0830",
+  "nicho": "Achados do Dia"
+ },
+ {
+  "id": "MLBU4793518944",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2Ds4dZW",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB67373298",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2y3wz4f",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLBU3402023514",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/26ydKqw",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLBU2341646922",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2HgtMf8",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLBU3063059862",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1JTPs97",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB51534391",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1WphmoK",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB63904966",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2S6iybk",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB24273671",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1GhysKo",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB52868715",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2KELJdv",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB49822923",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2qHFtCp",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB40583845",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/142ctTK",
+  "uso": "grupo:Achados do Dia"
+ },
+ {
+  "id": "MLB6339959",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1r7dctC",
+  "uso": "grupo:Achados do Dia"
+ },
+ {
+  "id": "MLB75429183",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1CorEyP",
+  "uso": "grupo:Achados do Dia"
+ },
+ {
+  "id": "MLB29307476",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/29qS1h4",
+  "uso": "grupo:Achados do Dia"
+ },
+ {
+  "id": "MLB66128181",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1LpqKkS",
+  "uso": "grupo:Achados do Dia"
+ },
+ {
+  "id": "MLB75615449",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1bvdthS",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLBU753778921",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1cCoarG",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLBU3790212486",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2e2uUhm",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLBU5039963595",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1BGvLBp",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLB55893605",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1U9yXKW",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLB63804634",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2W5DrYn",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLB77319633",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1ikNpn9",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLB18725308",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1URW7oP",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB19381120",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1mGbnGp",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB40367709",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1mDiRrM",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB23181844",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2Njm8Pw",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB18953097",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1DgwJ18",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB18724696",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2ZRB8Ts",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB6104856",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2L53Khe",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB18995413",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2xHzkTR",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB20704214",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/23yxNVk",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB41734795",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/12LziX3",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB67270079",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/13guKz5",
+  "uso": "grupo:Tech & Setup"
+ },
+ {
+  "id": "MLB63036814",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/14jPjKc",
+  "uso": "grupo:Achados do Dia"
+ },
+ {
+  "id": "MLB38481041",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2tQDT7k",
+  "uso": "grupo:Achados do Dia"
+ },
+ {
+  "id": "MLB53191710",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1x27iCj",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLB23480582",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1j7umRQ",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLBU5227274240",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2rHPL7U",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLB34031670",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1z7FWuP",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLB45341890",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2X2vJvw",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLB70041714",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2ht8c7u",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLB64952982",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1HtuMDJ",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLB9989930",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1R1LsVq",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLB66484377",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1Hpr2vg",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLBU2978929588",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2nastro",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLBU3938660312",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1inrHrM",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLBU4336679960",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2bV2tg4",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLBU3713059804",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/18vv42W",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLBU3444739593",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2p7po1j",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLBU3445125652",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2ZFzmTa",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLBU4783963336",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2khKb4c",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLBU1649776275",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1SqUnne",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLB63467070",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/28dMapn",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLBU3907991803",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2ruAu8d",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLBU3781146505",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2Wo5NMw",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLBU4153703718",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2fnTdYx",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLBU3783906977",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2ZettDf",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLBU4745070270",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1SuaChM",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLBU4609592576",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1rb4bPr",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLB78898519",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1pna8vW",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB40692921",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1wrfHQD",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB42225245",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1PAQR6r",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB62000830",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2Rc1sSV",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB75466404",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/14j71Vf",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB36949953",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2b2gxxy",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB16068867",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1Gh9Y4f",
+  "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB16323394",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/15Jrg58",
+  "uso": "grupo:Achados do Dia"
+ },
+ {
+  "id": "MLB26797984",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2ohdxZd",
+  "uso": "grupo:Achados do Dia"
+ },
+ {
+  "id": "MLB54456585",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2EhPQPS",
+  "uso": "grupo:Achados do Dia"
+ },
+ {
+  "id": "MLB19969083",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1m8gjC3",
+  "uso": "grupo:Achados do Dia"
+ },
+ {
+  "id": "MLB53222689",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1F4U6Lx",
+  "uso": "grupo:Achados do Dia"
+ },
+ {
+  "id": "MLB24044937",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1zhqY5R",
+  "uso": "grupo:Achados do Dia"
+ },
+ {
+  "id": "MLB57473901",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1nTeYDs",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB22788717",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2oug9bi",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB50230438",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1QA994U",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB67316451",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2RZi7u5",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB40183187",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2rUKiGd",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB60940335",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1NE7oSk",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB18995414",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1ZuBo1q",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB50964456",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/315yFQL",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB6087972",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2xUmi6q",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB62279009",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1g7gFpM",
+  "uso": "grupo:Academia"
+ },
+ {
+  "id": "MLB68265734",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2XkfgpP",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLBU3035409711",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1aRED8D",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLB77323172",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2wNXnnA",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLBU2788534492",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1R9yHFY",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLBU4934539578",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/21UXwGf",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLBU4858601419",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/25cdxQN",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLB5806603044",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1FUt9zk",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLB3392296475",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/31MX5oc",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLB3951203745",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/33BurSa",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLB4347478841",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/26yrsPk",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLB4860428020",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/31GJiEP",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLB4810647054",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2ch19qH",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLB5242634806",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/1obCTGW",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLB2222397098",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2JRG79Z",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLB5826749660",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2HXakNv",
+  "uso": "grupo:Moda Masculina"
+ },
+ {
+  "id": "MLB74678961",
+  "data": "2026-10-13",
+  "chave": "fill",
+  "link": "https://meli.la/2YGG7GL",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLB767898429",
+  "data": "2026-10-14",
+  "chave": "fill",
+  "link": "https://meli.la/1XhT6gA",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLB3976963830",
+  "data": "2026-10-14",
+  "chave": "fill",
+  "link": "https://meli.la/2CkSiEA",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLB774942002",
+  "data": "2026-10-14",
+  "chave": "fill",
+  "link": "https://meli.la/1VAzV1Z",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLB3938306287",
+  "data": "2026-10-14",
+  "chave": "fill",
+  "link": "https://meli.la/2cgBwbN",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLB3652945334",
+  "data": "2026-10-14",
+  "chave": "fill",
+  "link": "https://meli.la/1Vi1Xe3",
+  "uso": "grupo:Moda Feminina"
+ },
+ {
+  "id": "MLB75328021",
+  "data": "2026-10-14",
+  "chave": "fill",
+  "link": "https://meli.la/1uAe74t",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB37277138",
+  "data": "2026-10-14",
+  "chave": "fill",
+  "link": "https://meli.la/2kyUdEq",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB4476638545",
+  "data": "2026-10-14",
+  "chave": "fill",
+  "link": "https://meli.la/1d7Ar8i",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB21724864",
+  "data": "2026-10-14",
+  "chave": "fill",
+  "link": "https://meli.la/2WobS2L",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLB19373057",
+  "data": "2026-10-14",
+  "chave": "fill",
+  "link": "https://meli.la/29RuGwS",
+  "uso": "grupo:Saúde & Beleza"
+ },
+ {
+  "id": "MLBU3933108066",
+  "data": "2026-10-14",
+  "chave": "fill",
+  "link": "https://meli.la/32yxrMq",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLB4817978961",
+  "data": "2026-10-14",
+  "chave": "fill",
+  "link": "https://meli.la/1tBBz3y",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLB75912640",
+  "data": "2026-10-14",
+  "chave": "fill",
+  "link": "https://meli.la/1SqycdD",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLBU3839271500",
+  "data": "2026-10-14",
+  "chave": "fill",
+  "link": "https://meli.la/1K85Zad",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLB51716412",
+  "data": "2026-10-14",
+  "chave": "fill",
+  "link": "https://meli.la/1BrinUu",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLB38215337",
+  "data": "2026-10-14",
+  "chave": "fill",
+  "link": "https://meli.la/1MTxMbu",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLBU3873370843",
+  "data": "2026-10-14",
+  "chave": "fill",
+  "link": "https://meli.la/2a16WCL",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLB65801243",
+  "data": "2026-10-14",
+  "chave": "fill",
+  "link": "https://meli.la/2DTREYc",
+  "uso": "grupo:Pesca & Camping"
+ },
+ {
+  "id": "MLB15269475",
+  "data": "2026-10-15",
+  "chave": "irr",
+  "link": "https://meli.la/2n6EW3B",
+  "uso": "carrossel",
+  "nicho": "Saúde & Beleza"
+ },
+ {
+  "id": "MLB57845943",
+  "data": "2026-10-15",
+  "chave": "gw8",
+  "link": "https://meli.la/12XpCQW",
+  "uso": "story1",
+  "nicho": "Tech"
+ },
+ {
+  "id": "MLB16079160",
+  "data": "2026-10-15",
+  "chave": "mix",
+  "link": "https://meli.la/1rRWu2B",
+  "uso": "story2",
+  "nicho": "Casa"
+ },
+ {
+  "id": "MLB62192542",
+  "data": "2026-10-15",
+  "chave": "whe",
+  "link": "https://meli.la/2Sr2mgz",
+  "uso": "story3",
+  "nicho": "Academia"
+ },
+ {
+  "id": "MLBU4159785804",
+  "data": "2026-10-15",
+  "chave": "aro",
+  "link": "https://meli.la/19UJkDS",
+  "uso": "story4",
+  "nicho": "Moda Masculina"
+ },
+ {
+  "id": "MLB66274101",
+  "data": "2026-10-15",
+  "chave": "col",
+  "link": "https://meli.la/1roacb1",
+  "uso": "story5",
+  "nicho": "Pesca & Camping"
+ }
 ]
