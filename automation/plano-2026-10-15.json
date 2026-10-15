@@ -1303,7 +1303,7 @@
      "slot": null
     }
    ],
-   "pronto": false
+   "pronto": true
   },
   "Moda Masculina": {
    "ofertas": [
@@ -1654,7 +1654,7 @@
      "slot": null
     }
    ],
-   "pronto": false
+   "pronto": true
   }
  },
  "completo": false,
