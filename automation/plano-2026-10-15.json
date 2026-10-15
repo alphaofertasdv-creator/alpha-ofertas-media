@@ -834,8 +834,185 @@
    "pronto": true
   },
   "Academia": {
-   "ofertas": [],
-   "pronto": false
+   "ofertas": [
+    {
+     "id": "MLB39089853",
+     "link_afiliado": "https://meli.la/2AuyTJr",
+     "titulo": "Creatina Dark Lab Premium Pure em pó Sem sabor x 600g",
+     "de": 139.9,
+     "por": 31.94,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_696527-MLA114943760844_082026-F.webp",
+     "categoria": "Academia",
+     "slot": null
+    },
+    {
+     "id": "MLB25354874",
+     "link_afiliado": "https://meli.la/1nkacBg",
+     "titulo": "Whey Protein Concentrado 100% 900g Refil Dark Lab Sabor Baunilha",
+     "de": 499.9,
+     "por": 129.92,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_819335-MLA99933248115_112025-F.webp",
+     "categoria": "Academia",
+     "slot": null
+    },
+    {
+     "id": "MLB19550250",
+     "link_afiliado": "https://meli.la/1JMM7hn",
+     "titulo": "Proteína Max Titanium Super Whey Refil em pó sabor Baunilha x 900g",
+     "de": 179.9,
+     "por": 57.5,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_872706-MLA111354599936_052026-F.webp",
+     "categoria": "Academia",
+     "slot": null
+    },
+    {
+     "id": "MLB63429361",
+     "link_afiliado": "https://meli.la/12hY1qo",
+     "titulo": "Creatina 100% Pura Monohidratada 120 Cápsulas - Natuyou Sem Sabor",
+     "de": 59.9,
+     "por": 19.12,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_722561-MLA102211839139_122025-F.webp",
+     "categoria": "Academia",
+     "slot": null
+    },
+    {
+     "id": "MLB75035675",
+     "link_afiliado": "https://meli.la/1kVGNiW",
+     "titulo": "Proteína bovina isolada New Millen Whey Zero Lactose Isolate em pó sabor tangerina com morango",
+     "de": 309,
+     "por": 117.45,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_814008-MLA114286558689_072026-F.webp",
+     "categoria": "Academia",
+     "slot": null
+    },
+    {
+     "id": "MLB37933741",
+     "link_afiliado": "https://meli.la/1zqjLHQ",
+     "titulo": "Creatina 100% Pura Monohidratada 300g - Alpex Nutrition Sem sabor",
+     "de": 59.9,
+     "por": 22.49,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_889314-MLA99453898092_112025-F.webp",
+     "categoria": "Academia",
+     "slot": null
+    },
+    {
+     "id": "MLB53951501",
+     "link_afiliado": "https://meli.la/15ZHHSW",
+     "titulo": "Kit Creatina 100% Pura 1kg (2und 500g) - Alpex Nutrition Sem Sabor",
+     "de": 119.9,
+     "por": 46.42,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_729834-MLA95970141059_102025-F.webp",
+     "categoria": "Academia",
+     "slot": null
+    },
+    {
+     "id": "MLB68094752",
+     "link_afiliado": "https://meli.la/16Vc6F1",
+     "titulo": "Whey Protein Gourmet 800g Growth Supplements - Banana Toffee",
+     "de": 229.9,
+     "por": 91.15,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_872215-MLA109632594414_042026-F.webp",
+     "categoria": "Academia",
+     "slot": null
+    },
+    {
+     "id": "MLBU3690846340",
+     "link_afiliado": "https://meli.la/1iHZanN",
+     "titulo": "Tenis Kappa Treviso Original Unissex Confortável Academia",
+     "de": 177.64,
+     "por": 77,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_883188-MLB116535924819_082026-F-tenis-kappa-treviso-original-unissex-confortavel-academia.webp",
+     "categoria": "Academia",
+     "slot": null
+    },
+    {
+     "id": "MLB19481866",
+     "link_afiliado": "https://meli.la/1gvarHp",
+     "titulo": "Whey Isolate Protein Fuse Refil 900g - Dark Lab Sabor Creme de avelã",
+     "de": 138.76,
+     "por": 68.9,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_606777-MLA99576476456_122025-F.webp",
+     "categoria": "Academia",
+     "slot": null
+    },
+    {
+     "id": "MLB78834703",
+     "link_afiliado": "https://meli.la/2RBcc1a",
+     "titulo": "Estação Musculação Multifuncional De Parede Anilhada Arcielo Preto",
+     "de": 2000,
+     "por": 1049.99,
+     "rating": "5",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_741386-MLA118472251587_092026-F.webp",
+     "categoria": "Academia",
+     "slot": null
+    },
+    {
+     "id": "MLB19373961",
+     "link_afiliado": "https://meli.la/2yY5ThL",
+     "titulo": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Baunilha",
+     "de": 129.9,
+     "por": 68.9,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_689088-MLA99988196355_112025-F.webp",
+     "categoria": "Academia",
+     "slot": null
+    },
+    {
+     "id": "MLBU3806486457",
+     "link_afiliado": "https://meli.la/15XiLcn",
+     "titulo": "Tênis Oakley Masculino Bridge",
+     "de": 649.9,
+     "por": 389.99,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_742695-MLB110279255865_042026-F-tenis-oakley-masculino-bridge.webp",
+     "categoria": "Academia",
+     "slot": null
+    },
+    {
+     "id": "MLBU5106097630",
+     "link_afiliado": "https://meli.la/1fj3e1x",
+     "titulo": "Whey Concentrado 750g Growth Supplements - Variados Sabores",
+     "de": 279.9,
+     "por": 176.25,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_948066-MLB117136733907_092026-F-whey-concentrado-750g-growth-supplements--variados-sabores.webp",
+     "categoria": "Academia",
+     "slot": null
+    },
+    {
+     "id": "MLB74102445",
+     "link_afiliado": "https://meli.la/2XV3Lvi",
+     "titulo": "Tasty Whey 3w Gourmet Adaptogen 900g Chocolate Suíço",
+     "de": 320,
+     "por": 221.16,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_685615-MLA113479570731_062026-F.webp",
+     "categoria": "Academia",
+     "slot": null
+    },
+    {
+     "id": "MLB79594568",
+     "link_afiliado": "https://meli.la/1yy5Qi3",
+     "titulo": "Creatina Creapure 300g - 100% Pura com Matéria-prima Alemã - 3VS NUTRITION",
+     "de": 190.84,
+     "por": 131.99,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_907810-MLA117916463757_092026-F.webp",
+     "categoria": "Academia",
+     "slot": null
+    }
+   ],
+   "pronto": true
   }
  },
  "completo": false
