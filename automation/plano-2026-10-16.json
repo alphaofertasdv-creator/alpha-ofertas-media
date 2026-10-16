@@ -1,0 +1,118 @@
+{
+ "ig": {
+  "carrossel": {
+   "chave": "mid",
+   "id": "MLB54429015",
+   "link_afiliado": "https://meli.la/2XozkMJ",
+   "name": "Purificador de Água Midea SlimPure Bivolt Cinza 2 Estágios",
+   "old": 657.0,
+   "price": 429.0,
+   "parcelas": "8x R$ 54,88 sem juros",
+   "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_688571-MLA99470684418_112025-F.webp",
+   "tag": "🔥 Oferta do dia",
+   "note": "",
+   "nicho": "Casa",
+   "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+   "bullets": [
+    "Filtro de 2 estágios",
+    "Bivolt 127/220 V",
+    "Instala na bancada ou parede"
+   ]
+  },
+  "stories": [
+   {
+    "chave": "p20",
+    "id": "MLB24028629",
+    "link_afiliado": "https://meli.la/1BkuFsu",
+    "name": "Fone Soundcore by Anker P20i Bluetooth 5.3",
+    "old": 299.0,
+    "price": 146.0,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_730568-MLA99983575997_112025-F.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Tech",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "Bluetooth 5.3",
+     "Até 30 h de reprodução",
+     "Resistente à água, 2 microfones"
+    ]
+   },
+   {
+    "chave": "sia",
+    "id": "MLB43753027",
+    "link_afiliado": "https://meli.la/1FxfX6g",
+    "name": "Combo Siàge Pro Cronology Shampoo + Condicionador",
+    "old": 108.91,
+    "price": 45.99,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_746082-MLA99451551730_112025-F.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Saúde & Beleza",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "Shampoo 250 ml + condicionador",
+     "Linha Pro Cronology",
+     "Brilho, hidratação e nutrição"
+    ]
+   },
+   {
+    "chave": "adz",
+    "id": "MLBU4257413557",
+    "link_afiliado": "https://meli.la/241bC2s",
+    "name": "Tênis adidas Adizero Drive RC Corrida",
+    "old": 899.99,
+    "price": 479.9,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_763170-MLB114346938593_072026-F.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Moda Feminina",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "Tênis de corrida leve",
+     "Tecido macio e respirável",
+     "Azul, feminino, tam. 37"
+    ]
+   },
+   {
+    "chave": "sol",
+    "id": "MLB18725310",
+    "link_afiliado": "https://meli.la/1FyKJqi",
+    "name": "Creatina Soldiers Nutrition Monohidratada 1kg",
+    "old": 239.9,
+    "price": 58.9,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_998463-MLA116907384785_082026-F.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Academia",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "Creatina monohidratada",
+     "Pote de 1 kg",
+     "Sem sabor e sem glúten"
+    ]
+   },
+   {
+    "chave": "cdn",
+    "id": "MLBU3782392794",
+    "link_afiliado": "https://meli.la/1QREkHR",
+    "name": "Perfume Armaf Club de Nuit Intense Masculino 105ml",
+    "old": 319.0,
+    "price": 201.45,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_887864-MLB108264754941_032026-F.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Achados do Dia",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "Eau de toilette 105 ml",
+     "Linha árabe, versão Intense",
+     "Perfume masculino"
+    ]
+   }
+  ],
+  "pronto": true
+ },
+ "grupos": {},
+ "completo": false
+}

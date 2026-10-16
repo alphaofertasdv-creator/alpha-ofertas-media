@@ -3012,5 +3012,53 @@
   "chave": "fill",
   "link": "https://meli.la/12d7uDE",
   "uso": "grupo:Saúde"
+ },
+ {
+  "id": "MLB54429015",
+  "data": "2026-10-16",
+  "chave": "mid",
+  "link": "https://meli.la/2XozkMJ",
+  "uso": "carrossel",
+  "nicho": "Casa"
+ },
+ {
+  "id": "MLB24028629",
+  "data": "2026-10-16",
+  "chave": "p20",
+  "link": "https://meli.la/1BkuFsu",
+  "uso": "story1",
+  "nicho": "Tech"
+ },
+ {
+  "id": "MLB43753027",
+  "data": "2026-10-16",
+  "chave": "sia",
+  "link": "https://meli.la/1FxfX6g",
+  "uso": "story2",
+  "nicho": "Saúde & Beleza"
+ },
+ {
+  "id": "MLBU4257413557",
+  "data": "2026-10-16",
+  "chave": "adz",
+  "link": "https://meli.la/241bC2s",
+  "uso": "story3",
+  "nicho": "Moda Feminina"
+ },
+ {
+  "id": "MLB18725310",
+  "data": "2026-10-16",
+  "chave": "sol",
+  "link": "https://meli.la/1FyKJqi",
+  "uso": "story4",
+  "nicho": "Academia"
+ },
+ {
+  "id": "MLBU3782392794",
+  "data": "2026-10-16",
+  "chave": "cdn",
+  "link": "https://meli.la/1QREkHR",
+  "uso": "story5",
+  "nicho": "Achados do Dia"
  }
 ]
