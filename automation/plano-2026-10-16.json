@@ -282,7 +282,7 @@
      "slot": null
     }
    ],
-   "pronto": false
+   "pronto": true
   },
   "Saúde": {
    "ofertas": [
@@ -441,7 +441,7 @@
      "slot": null
     }
    ],
-   "pronto": false
+   "pronto": true
   },
   "Casa": {
    "ofertas": [
@@ -501,8 +501,14 @@
      "slot": null
     }
    ],
-   "pronto": false
+   "pronto": true
+  },
+  "Academia": {
+   "ofertas": [],
+   "pronto": false,
+   "obs": "captcha ML bloqueou verificação"
   }
  },
- "completo": false
+ "completo": false,
+ "obs": "Preparo A 16/10: captcha do ML às ~10:10 BRT interrompeu verificação; Casa parcial (5), Academia pendente."
 }
