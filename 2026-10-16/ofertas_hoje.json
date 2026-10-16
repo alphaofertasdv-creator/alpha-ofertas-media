@@ -1,0 +1,86 @@
+{
+ "mid": {
+  "name": "Purificador de Água Midea SlimPure Bivolt Cinza 2 Estágios",
+  "old": 657.0,
+  "price": 429.0,
+  "tag": "🔥 Oferta do dia",
+  "note": "ou em 8x R$ 54,88 sem juros",
+  "bullets": [
+   "Filtro de 2 estágios",
+   "Bivolt 127/220 V",
+   "Instala na bancada ou parede"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "car": 1
+ },
+ "p20": {
+  "name": "Fone Soundcore by Anker P20i Bluetooth 5.3",
+  "old": 299.0,
+  "price": 146.0,
+  "tag": "💰 Achado",
+  "note": "",
+  "bullets": [
+   "Bluetooth 5.3",
+   "Até 30 h de reprodução",
+   "Resistente à água, 2 microfones"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "story": 1
+ },
+ "sia": {
+  "name": "Combo Siàge Pro Cronology Shampoo + Condicionador",
+  "old": 108.91,
+  "price": 45.99,
+  "tag": "💰 Achado",
+  "note": "",
+  "bullets": [
+   "Shampoo 250 ml + condicionador",
+   "Linha Pro Cronology",
+   "Brilho, hidratação e nutrição"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "story": 2
+ },
+ "adz": {
+  "name": "Tênis adidas Adizero Drive RC Corrida",
+  "old": 899.99,
+  "price": 479.9,
+  "tag": "💰 Achado",
+  "note": "",
+  "bullets": [
+   "Tênis de corrida leve",
+   "Tecido macio e respirável",
+   "Azul, feminino, tam. 37"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "story": 3
+ },
+ "sol": {
+  "name": "Creatina Soldiers Nutrition Monohidratada 1kg",
+  "old": 239.9,
+  "price": 58.9,
+  "tag": "💰 Achado",
+  "note": "",
+  "bullets": [
+   "Creatina monohidratada",
+   "Pote de 1 kg",
+   "Sem sabor e sem glúten"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "story": 4
+ },
+ "cdn": {
+  "name": "Perfume Armaf Club de Nuit Intense Masculino 105ml",
+  "old": 319.0,
+  "price": 201.45,
+  "tag": "💰 Achado",
+  "note": "",
+  "bullets": [
+   "Eau de toilette 105 ml",
+   "Linha árabe, versão Intense",
+   "Perfume masculino"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "story": 5
+ }
+}

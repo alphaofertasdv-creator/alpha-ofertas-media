@@ -1,0 +1,49 @@
+{
+ "posts": [
+  {
+   "id": "st-1130",
+   "tipo": "story",
+   "quando": "2026-10-16T11:30:00-03:00",
+   "imagens": [
+    "2026-10-16/stories/story_2_sia.jpg"
+   ]
+  },
+  {
+   "id": "st-1400",
+   "tipo": "story",
+   "quando": "2026-10-16T14:00:00-03:00",
+   "imagens": [
+    "2026-10-16/stories/story_3_adz.jpg"
+   ]
+  },
+  {
+   "id": "st-1630",
+   "tipo": "story",
+   "quando": "2026-10-16T16:30:00-03:00",
+   "imagens": [
+    "2026-10-16/stories/story_4_sol.jpg"
+   ]
+  },
+  {
+   "id": "st-2030",
+   "tipo": "story",
+   "quando": "2026-10-16T20:30:00-03:00",
+   "imagens": [
+    "2026-10-16/stories/story_5_cdn.jpg"
+   ]
+  },
+  {
+   "id": "car-1900",
+   "tipo": "carrossel",
+   "quando": "2026-10-16T19:00:00-03:00",
+   "facebook": true,
+   "imagens": [
+    "2026-10-16/carrossel_1.jpg",
+    "2026-10-16/carrossel_2.jpg",
+    "2026-10-16/carrossel_3.jpg",
+    "2026-10-16/carrossel_4.jpg"
+   ],
+   "legenda": "🔥 Purificador de Água Midea SlimPure Bivolt Cinza 2 Estágios\nDe R$ 657,00 por R$ 429,00 (34% OFF), ou em até 8x de R$ 54,88 sem juros no cartão.\n\n📲 Quer mais ofertas como essa? Entre nos nossos grupos pelo link da bio.\n💬 Comente OFERTA ou EU QUERO que a gente te manda o link dos grupos no direct.\n\n*Preços e estoque podem mudar a qualquer momento.\n#ofertas #promoção #mercadolivre #midea #achadinhos"
+  }
+ ]
+}
