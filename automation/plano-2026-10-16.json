@@ -113,6 +113,336 @@
   ],
   "pronto": true
  },
- "grupos": {},
+ "grupos": {
+  "Tech": {
+   "ofertas": [
+    {
+     "id": "MLB66357303",
+     "link_afiliado": "https://meli.la/1AXnHoi",
+     "titulo": "Notebook Acer Aspire Go 15 Intel Core i3 8GB 256GB SSD Linux",
+     "de": 7999,
+     "por": 2986.72,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_961013-MLA108328142667_032026-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB38650498",
+     "link_afiliado": "https://meli.la/2kChGAs",
+     "titulo": "Caixa de Som Aiwa Boombox Plus 200W Bluetooth IP66",
+     "de": 2999,
+     "por": 1199.01,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_856396-MLA99996841071_112025-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLBU5335150784",
+     "link_afiliado": "https://meli.la/2ogW413",
+     "titulo": "Smart TV 43\" Full HD Android Aiwa",
+     "de": 3400,
+     "por": 1380.35,
+     "rating": "5.0",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_774255-MLB118594050667_102026-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB66055148",
+     "link_afiliado": "https://meli.la/2RoGihi",
+     "titulo": "Smart TV 32\" Philco Roku Dolby Áudio HDR10 P32CRB",
+     "de": 2207.99,
+     "por": 919.99,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_875689-MLA107805437119_022026-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB63708330",
+     "link_afiliado": "https://meli.la/1ZXED46",
+     "titulo": "Monitor LG 20\" HD+ 75Hz 2ms HDMI/VGA",
+     "de": 795,
+     "por": 355.7,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_699928-MLA105314087580_012026-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB64230396",
+     "link_afiliado": "https://meli.la/1RvTYbP",
+     "titulo": "Tablet Positivo Vision Tab 11 4G 128GB com Caneta e Capa",
+     "de": 2499.99,
+     "por": 1233.88,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_735931-MLA104126643604_012026-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB75681377",
+     "link_afiliado": "https://meli.la/2kqXLdB",
+     "titulo": "Smart TV LG PRO 55\" 4K Ultra HD AI 55UN85C",
+     "de": 4999,
+     "por": 2540.44,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_646395-MLA116823736237_082026-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB63335606",
+     "link_afiliado": "https://meli.la/1PEXmMm",
+     "titulo": "Samsung Galaxy A17 5G 128GB 4GB RAM Câmera 50MP",
+     "de": 1855.71,
+     "por": 944.1,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_864503-MLA118251143201_092026-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB77201385",
+     "link_afiliado": "https://meli.la/1AKpfpk",
+     "titulo": "Smart TV LG NanoCell 65\" 4K NU850 2026",
+     "de": 6499,
+     "por": 3349,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_929353-MLA116657226289_082026-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB77148888",
+     "link_afiliado": "https://meli.la/1v7HtpP",
+     "titulo": "Motorola Moto G56 5G 256GB 12GB RAM",
+     "de": 2699,
+     "por": 1399,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_693032-MLA116044424975_082026-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB74962073",
+     "link_afiliado": "https://meli.la/1QrGi4x",
+     "titulo": "Smart TV LG PRO 50\" 4K Ultra HD AI 50UN85C",
+     "de": 3999,
+     "por": 2249.1,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_837435-MLA116824598567_082026-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB62148588",
+     "link_afiliado": "https://meli.la/2ptSwEv",
+     "titulo": "Realme C73 128GB 4GB RAM 120Hz 6000mAh",
+     "de": 1599,
+     "por": 901.55,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_929245-MLA102616317533_122025-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB47295350",
+     "link_afiliado": "https://meli.la/1i9qpzk",
+     "titulo": "Motorola Edge 60 Fusion 5G 256GB 8GB RAM",
+     "de": 3299,
+     "por": 1799.1,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_908302-MLA99985086463_112025-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB63040715",
+     "link_afiliado": "https://meli.la/1h1KAqx",
+     "titulo": "Smart TV 43\" Philco Roku Full HD Dolby Audio",
+     "de": 2499,
+     "por": 1449,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_697288-MLA100482486016_122025-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    },
+    {
+     "id": "MLB65952157",
+     "link_afiliado": "https://meli.la/2vCGcff",
+     "titulo": "Samsung Galaxy A36 5G 128GB 6GB RAM",
+     "de": 2538.57,
+     "por": 1269,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_944288-MLA116511342948_092026-F.webp",
+     "categoria": "Tech",
+     "slot": null
+    }
+   ],
+   "pronto": false
+  },
+  "Saúde": {
+   "ofertas": [
+    {
+     "id": "MLB64134227",
+     "link_afiliado": "https://meli.la/2UQZ5m6",
+     "titulo": "Balança de Bioimpedância 8 Sensores Relaxmedic Digital",
+     "de": 999.9,
+     "por": 358.65,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_893907-MLA107580271409_022026-F.webp",
+     "categoria": "Saúde",
+     "slot": null
+    },
+    {
+     "id": "MLB21323174",
+     "link_afiliado": "https://meli.la/21yerBV",
+     "titulo": "Monitor de Pressão Arterial de Braço Omron HEM-7122",
+     "de": 300,
+     "por": 131.47,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_660573-MLA115192909463_072026-F.webp",
+     "categoria": "Saúde",
+     "slot": null
+    },
+    {
+     "id": "MLB22871761",
+     "link_afiliado": "https://meli.la/2VaBWAn",
+     "titulo": "Escova Rotativa Mondial Cerâmica Tourmaline Íon 3x1 Bivolt",
+     "de": 299,
+     "por": 127.54,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_842831-MLA99963285219_112025-F.webp",
+     "categoria": "Saúde",
+     "slot": null
+    },
+    {
+     "id": "MLB18572371",
+     "link_afiliado": "https://meli.la/2gVj17J",
+     "titulo": "Secador de Cabelo Profissional Taiff Easy 1700W",
+     "de": 310.94,
+     "por": 140.76,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_739630-MLA99499868524_112025-F.webp",
+     "categoria": "Saúde",
+     "slot": null
+    },
+    {
+     "id": "MLB9033853",
+     "link_afiliado": "https://meli.la/11kRzma",
+     "titulo": "Perfume Carolina Herrera 212 VIP Black EDP 200ml Masculino",
+     "de": 1049,
+     "por": 589.99,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_849828-MLA93387691711_092025-F.webp",
+     "categoria": "Saúde",
+     "slot": null
+    },
+    {
+     "id": "MLBU5198877032",
+     "link_afiliado": "https://meli.la/2uDCzUV",
+     "titulo": "Escova Secadora Philco 4 em 1 PES33A",
+     "de": 299.88,
+     "por": 176,
+     "rating": "5.0",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_809759-MLB117205268442_102026-F.webp",
+     "categoria": "Saúde",
+     "slot": null
+    },
+    {
+     "id": "MLB66361094",
+     "link_afiliado": "https://meli.la/2XXrch8",
+     "titulo": "Aparador de Pelos Faciais Feminino Philips Série 5000",
+     "de": 268.63,
+     "por": 163.7,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_702605-MLA112728155090_062026-F.webp",
+     "categoria": "Saúde",
+     "slot": null
+    },
+    {
+     "id": "MLB51986596",
+     "link_afiliado": "https://meli.la/2bAqXFc",
+     "titulo": "Barbeador e Aparador Elétrico Philips OneBlade 5 em 1",
+     "de": 212.38,
+     "por": 129,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_783146-MLA111544883867_052026-F.webp",
+     "categoria": "Saúde",
+     "slot": null
+    },
+    {
+     "id": "MLB49649950",
+     "link_afiliado": "https://meli.la/2G71hYt",
+     "titulo": "Escova Rotativa Mondial Infinity Keratin ERB-11-KR 1000W",
+     "de": 183,
+     "por": 112,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_801497-MLA115253546850_082026-F.webp",
+     "categoria": "Saúde",
+     "slot": null
+    },
+    {
+     "id": "MLB18572364",
+     "link_afiliado": "https://meli.la/16vH2Wg",
+     "titulo": "Secador de Cabelo Profissional Lizze Extreme",
+     "de": 459,
+     "por": 378.55,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_627901-MLA99509685830_112025-F.webp",
+     "categoria": "Saúde",
+     "slot": null
+    },
+    {
+     "id": "MLB8736693",
+     "link_afiliado": "https://meli.la/2Zsu6WC",
+     "titulo": "Chapinha Profissional Lizze 480 Extreme",
+     "de": 459,
+     "por": 388.55,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_910411-MLA116496414555_082026-F.webp",
+     "categoria": "Saúde",
+     "slot": null
+    },
+    {
+     "id": "MLBU3398845320",
+     "link_afiliado": "https://meli.la/2bgP5Uj",
+     "titulo": "Perfume Árabe Lattafa Asad Bourbon EDP 100ml Masculino",
+     "de": 289,
+     "por": 233.37,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_632466-MLB106436934279_022026-F.webp",
+     "categoria": "Saúde",
+     "slot": null
+    },
+    {
+     "id": "MLBU3301932694",
+     "link_afiliado": "https://meli.la/1ZwYoBh",
+     "titulo": "Perfume Árabe Lattafa Asad Masculino",
+     "de": 225.99,
+     "por": 174.6,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_813088-MLB88064166137_072025-F.webp",
+     "categoria": "Saúde",
+     "slot": null
+    },
+    {
+     "id": "MLBU4009893261",
+     "link_afiliado": "https://meli.la/1X3mhin",
+     "titulo": "Kit Definição Natural Salon Line com Mousse e Creme para Pentear",
+     "de": 75.08,
+     "por": 55,
+     "rating": "5.0",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_714415-MLB117128335910_102026-F.webp",
+     "categoria": "Saúde",
+     "slot": null
+    }
+   ],
+   "pronto": false
+  }
+ },
  "completo": false
 }
