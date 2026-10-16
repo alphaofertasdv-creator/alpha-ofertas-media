@@ -442,6 +442,66 @@
     }
    ],
    "pronto": false
+  },
+  "Casa": {
+   "ofertas": [
+    {
+     "id": "MLB35612949",
+     "link_afiliado": "https://meli.la/2wwKSWL",
+     "titulo": "Fritadeira Airfryer XL Philips Walita HD9206",
+     "de": 699.9,
+     "por": 310,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_793048-MLA99873504395_112025-F.webp",
+     "categoria": "Casa",
+     "slot": null
+    },
+    {
+     "id": "MLB8923631",
+     "link_afiliado": "https://meli.la/2cqYZLf",
+     "titulo": "Aspirador de Pó e Água WAP GTW 10 1400W com Bocal de Sopro",
+     "de": 485.57,
+     "por": 239.9,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_985627-MLA100060225801_122025-F.webp",
+     "categoria": "Casa",
+     "slot": null
+    },
+    {
+     "id": "MLB52052995",
+     "link_afiliado": "https://meli.la/2wbESqf",
+     "titulo": "Air Fryer Philco 6,5L Visor Glass e Redstone 1700W PAF65A",
+     "de": 541.43,
+     "por": 269.1,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_761173-MLA99475995202_112025-F.webp",
+     "categoria": "Casa",
+     "slot": null
+    },
+    {
+     "id": "MLB29409307",
+     "link_afiliado": "https://meli.la/2HEwHQ3",
+     "titulo": "Lavadora e Desobstruidora de Alta Pressão WAP WL 2660 Turbo Ultra",
+     "de": 1232.5,
+     "por": 809.9,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_941807-MLA114387234034_082026-F.webp",
+     "categoria": "Casa",
+     "slot": null
+    },
+    {
+     "id": "MLB56204972",
+     "link_afiliado": "https://meli.la/25TtGE3",
+     "titulo": "Lavadora de Alta Pressão Desobstruidora WAP Ousada WL 2600 Ultra 1500W",
+     "de": 597,
+     "por": 436.9,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_728785-MLA95245682131_102025-F.webp",
+     "categoria": "Casa",
+     "slot": null
+    }
+   ],
+   "pronto": false
   }
  },
  "completo": false
