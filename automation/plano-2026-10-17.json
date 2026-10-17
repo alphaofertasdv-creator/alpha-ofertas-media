@@ -2337,6 +2337,54 @@
      "categoria": "Achados",
      "slot": "18:00",
      "desconto": 20
+    },
+    {
+     "id": "MLB4415925101",
+     "link_afiliado": "https://meli.la/2M6t8gh",
+     "titulo": "Vestido Casual Feminino Festas Social Viscose Soltinho Verão",
+     "de": 84.9,
+     "por": 59.61,
+     "rating": "5.0",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_771768-MLB115526575217_082026-O-vestido-casual-feminino-festas-social-viscose-soltinho-vero.webp",
+     "categoria": "Moda",
+     "slot": "18:30",
+     "desconto": 30
+    },
+    {
+     "id": "MLB24666526",
+     "link_afiliado": "https://meli.la/17RCq8V",
+     "titulo": "Banqueta / Cadeira Dobrável Camping/Pesca Mor Aço Azul",
+     "de": 42.5,
+     "por": 34.0,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_937415-MLA93090096970_092025-O.webp",
+     "categoria": "Pesca",
+     "slot": "19:00",
+     "desconto": 20
+    },
+    {
+     "id": "MLB40513927",
+     "link_afiliado": "https://meli.la/33mnK72",
+     "titulo": "Molinete de Pesca GX7000 para Água Doce e Salgada 20 kg",
+     "de": 229.0,
+     "por": 159.46,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_613608-MLA99934447319_112025-F.webp",
+     "categoria": "Camping e Pesca",
+     "slot": "19:30",
+     "desconto": 30
+    },
+    {
+     "id": "MLBU5193040757",
+     "link_afiliado": "https://meli.la/1TjaCvV",
+     "titulo": "Kit 2 Varas Versus Telescópicas 4m Marine Sports Completo",
+     "de": 139.0,
+     "por": 107.95,
+     "rating": "5.0",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_776053-MLB116707471292_092026-F.webp",
+     "categoria": "Camping e Pesca",
+     "slot": "20:00",
+     "desconto": 22
     }
    ],
    "pronto": true
