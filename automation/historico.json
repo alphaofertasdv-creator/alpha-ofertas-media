@@ -3298,5 +3298,53 @@
   "chave": "fill",
   "link": "https://meli.la/25TtGE3",
   "uso": "grupo:Casa"
+ },
+ {
+  "id": "MLB43943869",
+  "data": "2026-10-17",
+  "chave": "tv4",
+  "link": "https://meli.la/1SSn491",
+  "uso": "carrossel",
+  "nicho": "Tech"
+ },
+ {
+  "id": "MLB22663071",
+  "data": "2026-10-17",
+  "chave": "pan",
+  "link": "https://meli.la/1YB6PiJ",
+  "uso": "story1",
+  "nicho": "Casa"
+ },
+ {
+  "id": "MLB50507430",
+  "data": "2026-10-17",
+  "chave": "phi",
+  "link": "https://meli.la/1Nm6cq2",
+  "uso": "story2",
+  "nicho": "Saúde & Beleza"
+ },
+ {
+  "id": "MLB6087972",
+  "data": "2026-10-17",
+  "chave": "wey",
+  "link": "https://meli.la/2xUmi6q",
+  "uso": "story3",
+  "nicho": "Academia"
+ },
+ {
+  "id": "MLB5420759822",
+  "data": "2026-10-17",
+  "chave": "nik",
+  "link": "https://meli.la/2hhT521",
+  "uso": "story4",
+  "nicho": "Moda Masculina"
+ },
+ {
+  "id": "MLB4035712637",
+  "data": "2026-10-17",
+  "chave": "adi",
+  "link": "https://meli.la/2iqPSTY",
+  "uso": "story5",
+  "nicho": "Moda Feminina"
  }
 ]

@@ -1,0 +1,154 @@
+{
+ "data": "2026-10-17",
+ "ig": {
+  "carrossel": {
+   "chave": "tv4",
+   "id": "MLB43943869",
+   "link_afiliado": "https://meli.la/1SSn491",
+   "name": "Smart TV 43\" Philco Led Roku TV Dolby Audio",
+   "old": 2289.0,
+   "price": 1425.93,
+   "parcelas": "10x R$ 163,90 sem juros (R$ 1.639 no cartão)",
+   "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_904392-MLA99951959503_112025-F.webp",
+   "tag": "🔥 Oferta do dia",
+   "note": "",
+   "nicho": "Tech",
+   "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+   "bullets": [
+    "Roku TV com Dolby Audio",
+    "Voltagem bivolt 127/220V",
+    "Apps: YouTube e Globoplay"
+   ]
+  },
+  "stories": [
+   {
+    "chave": "pan",
+    "id": "MLB22663071",
+    "link_afiliado": "https://meli.la/1YB6PiJ",
+    "name": "Panela de Pressão Brinox Pressure 4,2 L Vanilla",
+    "old": 477.69,
+    "price": 219.9,
+    "parcelas": "6x R$ 36,65 sem juros",
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_917659-MLA112161611883_052026-F.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Casa",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "Capacidade de 4,2 litros",
+     "3 sistemas de segurança",
+     "Serve em gás, elétrico e indução"
+    ]
+   },
+   {
+    "chave": "phi",
+    "id": "MLB50507430",
+    "link_afiliado": "https://meli.la/1Nm6cq2",
+    "name": "Philips Aparador e Barbeador All-in-One Série 3000 12 em 1",
+    "old": 262.37,
+    "price": 152.91,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_608894-MLA115895780710_092026-F.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Saúde & Beleza",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "12 em 1 com 12 acessórios",
+     "Sem fio, até 60 min de uso",
+     "Lâminas de aço inoxidável"
+    ]
+   },
+   {
+    "chave": "wey",
+    "id": "MLB6087972",
+    "link_afiliado": "https://meli.la/2xUmi6q",
+    "name": "Whey Protein Concentrado Max Titanium Chocolate 1 kg",
+    "old": 179.84,
+    "price": 78.9,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_811723-MLA116971940367_082026-F.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Academia",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "Whey concentrado sabor chocolate",
+     "Pote de 1 kg",
+     "Livre de glúten"
+    ]
+   },
+   {
+    "chave": "nik",
+    "id": "MLB5420759822",
+    "link_afiliado": "https://meli.la/2hhT521",
+    "name": "Tênis Nike Revolution 8 Masculino",
+    "old": 399.99,
+    "price": 299.99,
+    "parcelas": "6x R$ 52,63 sem juros",
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_780705-MLB100878942159_122025-F-tnis-nike-revolution-8-masculino.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Moda Masculina",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "Indicado para corrida em asfalto",
+     "Fechamento por cadarço",
+     "Cano curto, uso adulto"
+    ]
+   },
+   {
+    "chave": "adi",
+    "id": "MLB4035712637",
+    "link_afiliado": "https://meli.la/2iqPSTY",
+    "name": "Tênis adidas Runfalcon 6 Feminino",
+    "old": 499.99,
+    "price": 284.99,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_896122-MLB115527177797_082026-F-tnis-adidas-feminino-corrida-caminhada-leve-confortavel.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Moda Feminina",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "Cabedal têxtil e sintético",
+     "Sola de borracha antiderrapante",
+     "Para corrida e caminhada"
+    ]
+   }
+  ],
+  "pronto": true
+ },
+ "grupos": {
+  "Tech": {
+   "ofertas": [],
+   "pronto": false
+  },
+  "Saúde": {
+   "ofertas": [],
+   "pronto": false
+  },
+  "Casa": {
+   "ofertas": [],
+   "pronto": false
+  },
+  "Academia": {
+   "ofertas": [],
+   "pronto": false
+  },
+  "Moda Masculina": {
+   "ofertas": [],
+   "pronto": false
+  },
+  "Moda Feminina": {
+   "ofertas": [],
+   "pronto": false
+  },
+  "Pesca & Camping": {
+   "ofertas": [],
+   "pronto": false
+  },
+  "Achados do Dia": {
+   "ofertas": [],
+   "pronto": false
+  }
+ },
+ "completo": false
+}
