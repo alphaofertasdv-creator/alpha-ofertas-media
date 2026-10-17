@@ -1,0 +1,86 @@
+{
+ "tv4": {
+  "name": "Smart TV 43\" Philco Led Roku TV Dolby Audio",
+  "old": 2289.0,
+  "price": 1425.93,
+  "tag": "🔥 Oferta do dia",
+  "note": "ou em 10x R$ 163,90 sem juros (R$ 1.639 no cartão)",
+  "bullets": [
+   "Roku TV com Dolby Audio",
+   "Voltagem bivolt 127/220V",
+   "Apps: YouTube e Globoplay"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "car": 1
+ },
+ "pan": {
+  "name": "Panela de Pressão Brinox Pressure 4,2 L Vanilla",
+  "old": 477.69,
+  "price": 219.9,
+  "tag": "💰 Achado",
+  "note": "ou em 6x R$ 36,65 sem juros",
+  "bullets": [
+   "Capacidade de 4,2 litros",
+   "3 sistemas de segurança",
+   "Serve em gás, elétrico e indução"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "story": 1
+ },
+ "phi": {
+  "name": "Philips Aparador e Barbeador All-in-One Série 3000 12 em 1",
+  "old": 262.37,
+  "price": 152.91,
+  "tag": "💰 Achado",
+  "note": "",
+  "bullets": [
+   "12 em 1 com 12 acessórios",
+   "Sem fio, até 60 min de uso",
+   "Lâminas de aço inoxidável"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "story": 2
+ },
+ "wey": {
+  "name": "Whey Protein Concentrado Max Titanium Chocolate 1 kg",
+  "old": 179.84,
+  "price": 78.9,
+  "tag": "💰 Achado",
+  "note": "",
+  "bullets": [
+   "Whey concentrado sabor chocolate",
+   "Pote de 1 kg",
+   "Livre de glúten"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "story": 3
+ },
+ "nik": {
+  "name": "Tênis Nike Revolution 8 Masculino",
+  "old": 399.99,
+  "price": 299.99,
+  "tag": "💰 Achado",
+  "note": "ou em 6x R$ 52,63 sem juros",
+  "bullets": [
+   "Indicado para corrida em asfalto",
+   "Fechamento por cadarço",
+   "Cano curto, uso adulto"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "story": 4
+ },
+ "adi": {
+  "name": "Tênis adidas Runfalcon 6 Feminino",
+  "old": 499.99,
+  "price": 284.99,
+  "tag": "💰 Achado",
+  "note": "",
+  "bullets": [
+   "Cabedal têxtil e sintético",
+   "Sola de borracha antiderrapante",
+   "Para corrida e caminhada"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "story": 5
+ }
+}

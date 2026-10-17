@@ -1,0 +1,57 @@
+{
+ "posts": [
+  {
+   "id": "st-0900",
+   "tipo": "story",
+   "quando": "2026-10-17T09:00:00-03:00",
+   "imagens": [
+    "2026-10-17/stories/story_1_pan.jpg"
+   ]
+  },
+  {
+   "id": "st-1130",
+   "tipo": "story",
+   "quando": "2026-10-17T11:30:00-03:00",
+   "imagens": [
+    "2026-10-17/stories/story_2_phi.jpg"
+   ]
+  },
+  {
+   "id": "st-1400",
+   "tipo": "story",
+   "quando": "2026-10-17T14:00:00-03:00",
+   "imagens": [
+    "2026-10-17/stories/story_3_wey.jpg"
+   ]
+  },
+  {
+   "id": "st-1630",
+   "tipo": "story",
+   "quando": "2026-10-17T16:30:00-03:00",
+   "imagens": [
+    "2026-10-17/stories/story_4_nik.jpg"
+   ]
+  },
+  {
+   "id": "st-2030",
+   "tipo": "story",
+   "quando": "2026-10-17T20:30:00-03:00",
+   "imagens": [
+    "2026-10-17/stories/story_5_adi.jpg"
+   ]
+  },
+  {
+   "id": "car-1900",
+   "tipo": "carrossel",
+   "quando": "2026-10-17T19:00:00-03:00",
+   "facebook": true,
+   "imagens": [
+    "2026-10-17/carrossel_1.jpg",
+    "2026-10-17/carrossel_2.jpg",
+    "2026-10-17/carrossel_3.jpg",
+    "2026-10-17/carrossel_4.jpg"
+   ],
+   "legenda": "🔥 Smart TV 43\" Philco Led Roku TV Dolby Audio\nDe R$ 2.289,00 por R$ 1.425,93 (38% OFF), ou em até 10x de R$ 163,90 sem juros no cartão.\n\n📲 Quer mais ofertas como essa? Entre nos nossos grupos pelo link da bio.\n💬 Comente OFERTA ou EU QUERO que a gente te manda o link dos grupos no direct.\n\n*Preços e estoque podem mudar a qualquer momento.\n#ofertas #promoção #mercadolivre #philco #achadinhos"
+  }
+ ]
+}
