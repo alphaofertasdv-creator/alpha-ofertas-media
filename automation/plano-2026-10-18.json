@@ -339,6 +339,32 @@
      "slot": "10:00"
     },
     {
+     "id": "MLB4048023292",
+     "link_afiliado": "https://meli.la/2SYcqvr",
+     "titulo": "Calça Jeans Plus Size Cintura Alta Elastano Lycra Modeladora",
+     "de": 99.9,
+     "por": 42.9,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_652254-MLB117999448017_092026-O-calca-jeans-plus-size-cintura-alta-elastano-lycra-modeladora.webp",
+     "categoria": "Moda",
+     "desconto": 57,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "10:30"
+    },
+    {
+     "id": "MLB3670554997",
+     "link_afiliado": "https://meli.la/23BXcKy",
+     "titulo": "Calça Jeans Pantalona Wide Leg Feminina Cintura Alta Larga",
+     "de": 109.9,
+     "por": 49.3,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_824308-MLB118356425559_092026-O-calca-jeans-pantalona-wide-leg-feminina-cintura-alta-larga.webp",
+     "categoria": "Moda",
+     "desconto": 55,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "11:00"
+    },
+    {
      "id": "MLB4260544839",
      "link_afiliado": "https://meli.la/2DpYhKt",
      "titulo": "Vestido Curto Uma Manga Blogueira Moda Gringa Suplex",
@@ -349,7 +375,7 @@
      "categoria": "Moda",
      "desconto": 53,
      "fonte": "banco 18/10 reverificado",
-     "slot": "10:30"
+     "slot": "11:30"
     },
     {
      "id": "MLB3949174247",
@@ -362,7 +388,20 @@
      "categoria": "Moda",
      "desconto": 53,
      "fonte": "banco 18/10 reverificado",
-     "slot": "11:00"
+     "slot": "12:00"
+    },
+    {
+     "id": "MLB3396120483",
+     "link_afiliado": "https://meli.la/1aAhMfb",
+     "titulo": "Calça Mom Jeans Feminina Cintura Alta Marmorizada",
+     "de": 99.99,
+     "por": 47.99,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_799787-MLB85664619217_062025-O-calca-mom-jeans-feminina-cintura-alta-marmorizada.webp",
+     "categoria": "Moda",
+     "desconto": 52,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "12:30"
     },
     {
      "id": "MLB3278582663",
@@ -375,7 +414,20 @@
      "categoria": "Moda",
      "desconto": 51,
      "fonte": "banco 18/10 reverificado",
-     "slot": "11:30"
+     "slot": "13:00"
+    },
+    {
+     "id": "MLB3392296475",
+     "link_afiliado": "https://meli.la/31MX5oc",
+     "titulo": "Calça Jeans Wide Leg Feminina Cintura Alta Sem Lycra Stillge",
+     "de": 109.99,
+     "por": 53.9,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_717613-MLB96633630079_102025-O-calca-jeans-wide-leg-feminina-cintura-alta-sem-lycra-stillge.webp",
+     "categoria": "Moda",
+     "desconto": 51,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "13:30"
     },
     {
      "id": "MLB4477013929",
@@ -388,7 +440,7 @@
      "categoria": "Moda",
      "desconto": 49,
      "fonte": "banco 18/10 reverificado",
-     "slot": "12:00"
+     "slot": "14:30"
     },
     {
      "id": "MLB7296948520",
@@ -401,7 +453,7 @@
      "categoria": "Moda",
      "desconto": 46,
      "fonte": "banco 18/10 reverificado",
-     "slot": "12:30"
+     "slot": "15:00"
     },
     {
      "id": "MLBU4143932184",
@@ -414,7 +466,7 @@
      "categoria": "Moda",
      "desconto": 45,
      "fonte": "banco 18/10 reverificado",
-     "slot": "13:00"
+     "slot": "16:00"
     },
     {
      "id": "MLB2827551705",
@@ -427,7 +479,7 @@
      "categoria": "Moda",
      "desconto": 44,
      "fonte": "banco 18/10 reverificado",
-     "slot": "14:30"
+     "slot": "16:30"
     },
     {
      "id": "MLB4687762375",
@@ -440,7 +492,7 @@
      "categoria": "Moda",
      "desconto": 41,
      "fonte": "banco 18/10 reverificado",
-     "slot": "16:00"
+     "slot": "17:30"
     },
     {
      "id": "MLBU3935869958",
@@ -453,7 +505,20 @@
      "categoria": "Moda",
      "desconto": 37,
      "fonte": "banco 18/10 reverificado",
-     "slot": "17:30"
+     "slot": "18:00"
+    },
+    {
+     "id": "MLB4120192403",
+     "link_afiliado": "https://meli.la/1FEEwBr",
+     "titulo": "Kit 10 Calcinhas Algodão Tanga Lisa Conforto Basica Feminina",
+     "de": 49.9,
+     "por": 31.92,
+     "rating": "4.6",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_787121-MLB87574985017_072025-O-kit-10-calcinhas-algodo-tanga-lisa-conforto-basica-feminina.webp",
+     "categoria": "Moda",
+     "desconto": 36,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "19:00"
     },
     {
      "id": "MLBU4060774332",
@@ -466,13 +531,26 @@
      "categoria": "Moda",
      "desconto": 13,
      "fonte": "banco 18/10 reverificado",
-     "slot": "19:00"
+     "slot": "19:30"
     }
    ],
    "pronto": false
   },
   "Moda Masculina": {
    "ofertas": [
+    {
+     "id": "MLB1871146249",
+     "link_afiliado": "https://meli.la/1dqDh7S",
+     "titulo": "Kit 4 Cuecas Boxer Lupo Algodão Confortável Box Original",
+     "de": 249.98,
+     "por": 68.99,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_812578-MLB82638744739_022025-O-kit-4-cuecas-boxer-lupo-algodo-confortavel-box-original.webp",
+     "categoria": "Moda",
+     "desconto": 72,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "08:00"
+    },
     {
      "id": "MLB5408593708",
      "link_afiliado": "https://meli.la/1fsmmmv",
@@ -484,7 +562,7 @@
      "categoria": "Moda",
      "desconto": 61,
      "fonte": "banco 18/10 reverificado",
-     "slot": "08:00"
+     "slot": "08:30"
     },
     {
      "id": "MLB4740340145",
@@ -497,7 +575,7 @@
      "categoria": "Moda",
      "desconto": 59,
      "fonte": "banco 18/10 reverificado",
-     "slot": "08:30"
+     "slot": "09:00"
     },
     {
      "id": "MLB5720778230",
@@ -510,7 +588,7 @@
      "categoria": "Moda",
      "desconto": 58,
      "fonte": "banco 18/10 reverificado",
-     "slot": "09:00"
+     "slot": "09:30"
     },
     {
      "id": "MLB4631450199",
@@ -523,7 +601,7 @@
      "categoria": "Moda",
      "desconto": 56,
      "fonte": "banco 18/10 reverificado",
-     "slot": "09:30"
+     "slot": "10:00"
     },
     {
      "id": "MLB5364248134",
@@ -536,7 +614,7 @@
      "categoria": "Moda",
      "desconto": 55,
      "fonte": "banco 18/10 reverificado",
-     "slot": "10:00"
+     "slot": "10:30"
     },
     {
      "id": "MLB6628471420",
@@ -549,7 +627,33 @@
      "categoria": "Moda",
      "desconto": 55,
      "fonte": "banco 18/10 reverificado",
-     "slot": "10:30"
+     "slot": "11:00"
+    },
+    {
+     "id": "MLB1010954920",
+     "link_afiliado": "https://meli.la/2npqxex",
+     "titulo": "Kit 6 Cuecas Lupo Boxer Box Sem Costura Basic Microfibra",
+     "de": 288.63,
+     "por": 129.99,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_946503-MLB82989859698_032025-O-kit-6-cuecas-lupo-boxer-box-sem-costura-basic-microfibra.webp",
+     "categoria": "Moda",
+     "desconto": 55,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "11:30"
+    },
+    {
+     "id": "MLB5532075156",
+     "link_afiliado": "https://meli.la/225S6QK",
+     "titulo": "Tênis Kappa Pulse Rx Unissex Corrida Conforto",
+     "de": 289.99,
+     "por": 132.99,
+     "rating": "4.6",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_618538-MLB113613796623_062026-O-tnis-kappa-pulse-rx-unissex-corrida-conforto.webp",
+     "categoria": "Moda",
+     "desconto": 54,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "12:00"
     },
     {
      "id": "MLB4069819017",
@@ -562,7 +666,20 @@
      "categoria": "Moda",
      "desconto": 53,
      "fonte": "banco 18/10 reverificado",
-     "slot": "11:00"
+     "slot": "12:30"
+    },
+    {
+     "id": "MLB4340888693",
+     "link_afiliado": "https://meli.la/1ixNe1b",
+     "titulo": "Tênis Sandrini Aero Spark Corrida Academia Caminhada Leve",
+     "de": 271.56,
+     "por": 129.34,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_867286-MLB109373136106_042026-O-tnis-sandrini-aero-spark-corrida-academia-caminhada-leve.webp",
+     "categoria": "Moda",
+     "desconto": 52,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "13:00"
     },
     {
      "id": "MLB2146512870",
@@ -575,7 +692,20 @@
      "categoria": "Moda",
      "desconto": 51,
      "fonte": "banco 18/10 reverificado",
-     "slot": "11:30"
+     "slot": "14:00"
+    },
+    {
+     "id": "MLB3525763765",
+     "link_afiliado": "https://meli.la/28BGB2T",
+     "titulo": "Sapatênis Leve De Zíper Super Conforto",
+     "de": 94.9,
+     "por": 46.54,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_957872-MLB97351627901_112025-O-sapatnis-leve-de-ziper-super-conforto.webp",
+     "categoria": "Moda",
+     "desconto": 51,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "15:30"
     },
     {
      "id": "MLB4484984441",
@@ -588,7 +718,7 @@
      "categoria": "Moda",
      "desconto": 50,
      "fonte": "banco 18/10 reverificado",
-     "slot": "12:00"
+     "slot": "16:30"
     },
     {
      "id": "MLB4082677763",
@@ -601,7 +731,7 @@
      "categoria": "Moda",
      "desconto": 49,
      "fonte": "banco 18/10 reverificado",
-     "slot": "12:30"
+     "slot": "18:00"
     },
     {
      "id": "MLB4387699291",
@@ -614,7 +744,7 @@
      "categoria": "Moda",
      "desconto": 41,
      "fonte": "banco 18/10 reverificado",
-     "slot": "13:00"
+     "slot": "19:00"
     }
    ],
    "pronto": false
