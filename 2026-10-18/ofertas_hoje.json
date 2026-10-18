@@ -1,0 +1,86 @@
+{
+ "bar": {
+  "name": "Barraca Pop Up Automática p/ 6 Pessoas",
+  "old": 800.0,
+  "price": 289.0,
+  "tag": "🔥 Oferta do dia",
+  "note": "",
+  "bullets": [
+   "Pop up para até 6 pessoas",
+   "Impermeabilidade de 3000 mm",
+   "Mosquiteiro e 2 janelas incluídos"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "car": 1
+ },
+ "fit": {
+  "name": "Smartwatch Samsung Galaxy Fit3 Display 1,6\" Rosé",
+  "old": 499.0,
+  "price": 185.22,
+  "tag": "💰 Achado",
+  "note": "",
+  "bullets": [
+   "Tela AMOLED de 1,6 polegadas",
+   "Bateria de até 13 dias",
+   "Resistente à água, caixa de 43 mm"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "story": 1
+ },
+ "one": {
+  "name": "Philips OneBlade Aparador e Raspador QP1924/10",
+  "old": 237.38,
+  "price": 129.63,
+  "tag": "💰 Achado",
+  "note": "",
+  "bullets": [
+   "À prova d'água, bivolt 127/220V",
+   "Lâmina SkinProtect p/ pele sensível",
+   "Remove pelos de qualquer comprimento"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "story": 2
+ },
+ "cal": {
+  "name": "Calça Jeans Pantalona Wide Leg Cintura Alta",
+  "old": 109.9,
+  "price": 49.3,
+  "tag": "💰 Achado",
+  "note": "",
+  "bullets": [
+   "Jeans com cintura alta",
+   "Corte wide leg, perna larga",
+   "Modelagem ampla com 2 bolsos"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "story": 3
+ },
+ "pot": {
+  "name": "Kit 10 Potes Herméticos de Vidro 640ml Starhouse",
+  "old": 189.99,
+  "price": 77.9,
+  "tag": "💰 Achado",
+  "note": "",
+  "bullets": [
+   "Vidro resistente, 640 ml cada",
+   "Tampa com 4 travas de vedação",
+   "Vai ao forno e ao micro-ondas"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "story": 4
+ },
+ "tec": {
+  "name": "Relógio Technos Acqua Pro Diver JS25BCG/1A",
+  "old": 1199.0,
+  "price": 502.0,
+  "tag": "💰 Achado",
+  "note": "",
+  "bullets": [
+   "Pulseira de aço inoxidável",
+   "Aro giratório unidirecional",
+   "Marcadores luminescentes e calendário"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "story": 5
+ }
+}
