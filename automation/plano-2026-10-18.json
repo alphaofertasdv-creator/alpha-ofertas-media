@@ -1308,6 +1308,19 @@
      "slot": "08:00"
     },
     {
+     "id": "MLB75414303",
+     "link_afiliado": "https://meli.la/2TZ82wP",
+     "titulo": "Barber Pro Aparador de Pelos à Prova D'água Pro Max Preto",
+     "de": 400.0,
+     "por": 136.71,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_756018-MLA113909982350_072026-O.webp",
+     "categoria": "Geral",
+     "desconto": 66,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "08:30"
+    },
+    {
      "id": "MLBU3142068675",
      "link_afiliado": "https://meli.la/1br8nc7",
      "titulo": "Perfume Árabe Asad Bourbon 100ml Isabelle La Belle",
@@ -1318,7 +1331,124 @@
      "categoria": "Geral",
      "desconto": 63,
      "fonte": "ofertas 18/10 verificado",
-     "slot": "08:30"
+     "slot": "09:00"
+    },
+    {
+     "id": "MLB65374941",
+     "link_afiliado": "https://meli.la/1w7xjDe",
+     "titulo": "Balança Digital Inteligente Epsilon EPS-6905 Bluetooth com App 180kg",
+     "de": 59.99,
+     "por": 22.07,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_941738-MLA106814881195_022026-O.webp",
+     "categoria": "Geral",
+     "desconto": 63,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "09:30"
+    },
+    {
+     "id": "MLB57473901",
+     "link_afiliado": "https://meli.la/1nTeYDs",
+     "titulo": "Máquina de Acabamento Kemei KM-2299 Profissional Black",
+     "de": 184.9,
+     "por": 68.8,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_968734-MLA101181433884_122025-O.webp",
+     "categoria": "Geral",
+     "desconto": 63,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "10:00"
+    },
+    {
+     "id": "MLB75961941",
+     "link_afiliado": "https://meli.la/2x6V3N1",
+     "titulo": "Modelador de Cabelo Automático 7 em 1 com Cabeça Intercambiável",
+     "de": 999.0,
+     "por": 367.65,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_927431-MLA113993563098_072026-O.webp",
+     "categoria": "Geral",
+     "desconto": 63,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "10:30"
+    },
+    {
+     "id": "MLB50237197",
+     "link_afiliado": "https://meli.la/2webvZk",
+     "titulo": "Kit Shampoo, Condicionador e Máscara de Hidratação Profissional",
+     "de": 135.0,
+     "por": 56.0,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_860000-MLA99338543310_112025-O.webp",
+     "categoria": "Geral",
+     "desconto": 59,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "11:00"
+    },
+    {
+     "id": "MLB62162205",
+     "link_afiliado": "https://meli.la/1SdN7ai",
+     "titulo": "Vitamina D3 + K2 Menaquinona-7 60 Cápsulas",
+     "de": 89.77,
+     "por": 38.62,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_892120-MLA113496522576_072026-O.webp",
+     "categoria": "Geral",
+     "desconto": 57,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "11:30"
+    },
+    {
+     "id": "MLB36381059",
+     "link_afiliado": "https://meli.la/1kSruNF",
+     "titulo": "Ácido Hialurônico Haplex Plus Renova Be Colágeno em Pó",
+     "de": 408.9,
+     "por": 174.23,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_717039-MLA114919405059_072026-O.webp",
+     "categoria": "Geral",
+     "desconto": 57,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "12:00"
+    },
+    {
+     "id": "MLBU4080951620",
+     "link_afiliado": "https://meli.la/2PsFJCz",
+     "titulo": "Kit Máquina de Cortar Cabelo Sem Fio com Aparador de Pelos 14 Peças",
+     "de": 189.0,
+     "por": 84.5,
+     "rating": "4.5",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_927019-MLB116479788159_082026-O-kit-maquina-corta-cabelo-sem-fio-aparador-de-pelo-nariz-14pc.webp",
+     "categoria": "Geral",
+     "desconto": 55,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "12:30"
+    },
+    {
+     "id": "MLBU4053251766",
+     "link_afiliado": "https://meli.la/2onc5U4",
+     "titulo": "Kit Karseen Collagen Máscara, Shampoo, Condicionador e Óleo",
+     "de": 138.9,
+     "por": 65.0,
+     "rating": "4.5",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_701036-MLB112707766157_062026-O-kit-karseen-collagen-mascara--shampoo--condicionador-oleo.webp",
+     "categoria": "Geral",
+     "desconto": 53,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "13:00"
+    },
+    {
+     "id": "MLBU3541805842",
+     "link_afiliado": "https://meli.la/1iFMaGA",
+     "titulo": "Herbia Desodorante Pedra Kristall Natural Vegano 60g",
+     "de": 78.9,
+     "por": 36.86,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_934183-MLB115162496231_072026-O-herbia-desodorante-pedra-kristall-natural-vegano-60g.webp",
+     "categoria": "Geral",
+     "desconto": 53,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "13:30"
     },
     {
      "id": "MLBU2978815028",
@@ -1331,7 +1461,7 @@
      "categoria": "Geral",
      "desconto": 50,
      "fonte": "ofertas 18/10 verificado",
-     "slot": "09:00"
+     "slot": "14:00"
     },
     {
      "id": "MLB56546186",
@@ -1344,7 +1474,7 @@
      "categoria": "Geral",
      "desconto": 47,
      "fonte": "ofertas 18/10 verificado",
-     "slot": "09:30"
+     "slot": "14:30"
     },
     {
      "id": "MLBU3054985330",
@@ -1357,7 +1487,7 @@
      "categoria": "Geral",
      "desconto": 47,
      "fonte": "ofertas 18/10 verificado",
-     "slot": "10:00"
+     "slot": "15:30"
     },
     {
      "id": "MLBU4089832378",
@@ -1370,7 +1500,7 @@
      "categoria": "Geral",
      "desconto": 46,
      "fonte": "ofertas 18/10 verificado",
-     "slot": "10:30"
+     "slot": "16:00"
     },
     {
      "id": "MLBU3117106937",
@@ -1383,7 +1513,7 @@
      "categoria": "Geral",
      "desconto": 45,
      "fonte": "ofertas 18/10 verificado",
-     "slot": "11:00"
+     "slot": "16:30"
     },
     {
      "id": "MLB16202531",
@@ -1396,7 +1526,33 @@
      "categoria": "Geral",
      "desconto": 43,
      "fonte": "ofertas 18/10 verificado",
-     "slot": "11:30"
+     "slot": "17:00"
+    },
+    {
+     "id": "MLB24766577",
+     "link_afiliado": "https://meli.la/1GDhvmY",
+     "titulo": "Kit Haskell Cavalo Forte Shampoo e Condicionador 500ml",
+     "de": 139.9,
+     "por": 84.0,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_719973-MLA99419106698_112025-O.webp",
+     "categoria": "Geral",
+     "desconto": 40,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "18:00"
+    },
+    {
+     "id": "MLBU751373819",
+     "link_afiliado": "https://meli.la/11gUEYv",
+     "titulo": "Escova Progressiva Orgânica Alisamento Sem Formol 1 Litro",
+     "de": 297.0,
+     "por": 179.59,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_818101-MLB96519994023_102025-O-escova-progressiva-organica-alisamento-sem-formol-1-litro.webp",
+     "categoria": "Geral",
+     "desconto": 40,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "18:30"
     },
     {
      "id": "MLB19694427",
@@ -1409,13 +1565,52 @@
      "categoria": "Geral",
      "desconto": 37,
      "fonte": "ofertas 18/10 verificado",
-     "slot": "12:00"
+     "slot": "19:00"
+    },
+    {
+     "id": "MLB69224658",
+     "link_afiliado": "https://meli.la/1j2eeTb",
+     "titulo": "Presente Floratta Red Passion Eau de Parfum",
+     "de": 329.0,
+     "por": 220.0,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_942621-MLA111925260183_052026-O.webp",
+     "categoria": "Geral",
+     "desconto": 33,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "19:30"
     }
    ],
-   "pronto": false
+   "pronto": true
   },
   "Casa": {
    "ofertas": [
+    {
+     "id": "MLB26417959",
+     "link_afiliado": "https://meli.la/1tyNhwj",
+     "titulo": "Varal de Chão Grande 3 Andares Dobrável Kontuz 170cm",
+     "de": 219.9,
+     "por": 68.8,
+     "rating": "4.6",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_854633-MLA119226640033_102026-O.webp",
+     "categoria": "Geral",
+     "desconto": 69,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "08:00"
+    },
+    {
+     "id": "MLB46016994",
+     "link_afiliado": "https://meli.la/2cnMig6",
+     "titulo": "Fritadeira Philco PAF16A 220V",
+     "de": 1800.0,
+     "por": 569.48,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_824605-MLA99466063096_112025-O.webp",
+     "categoria": "Geral",
+     "desconto": 68,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "08:30"
+    },
     {
      "id": "MLB6339958",
      "link_afiliado": "https://meli.la/11duEU1",
@@ -1427,7 +1622,7 @@
      "categoria": "Geral",
      "desconto": 65,
      "fonte": "ofertas 18/10 verificado",
-     "slot": "08:00"
+     "slot": "09:00"
     },
     {
      "id": "MLBU3522691545",
@@ -1440,7 +1635,46 @@
      "categoria": "Geral",
      "desconto": 60,
      "fonte": "ofertas 18/10 verificado",
-     "slot": "08:30"
+     "slot": "09:30"
+    },
+    {
+     "id": "MLB79294129",
+     "link_afiliado": "https://meli.la/15AzRvC",
+     "titulo": "Chaleira Elétrica Sagatini Inox 2 Litros com Desligamento Automático",
+     "de": 79.9,
+     "por": 31.92,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_821507-MLA117840336323_092026-O.webp",
+     "categoria": "Geral",
+     "desconto": 60,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "10:00"
+    },
+    {
+     "id": "MLB76787938",
+     "link_afiliado": "https://meli.la/14LRu3v",
+     "titulo": "Panela de Pressão 4,2L Indução Cerâmica com 4 Válvulas de Segurança",
+     "de": 319.9,
+     "por": 137.99,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_832370-MLA115951986031_082026-O.webp",
+     "categoria": "Geral",
+     "desconto": 57,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "10:30"
+    },
+    {
+     "id": "MLB29614913",
+     "link_afiliado": "https://meli.la/1vNtNoL",
+     "titulo": "Panela de Pressão Rochedo Inox Trendy 4 Litros",
+     "de": 629.9,
+     "por": 269.66,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_910840-MLA97567327447_112025-O.webp",
+     "categoria": "Geral",
+     "desconto": 57,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "11:00"
     },
     {
      "id": "MLB58760342",
@@ -1453,7 +1687,46 @@
      "categoria": "Geral",
      "desconto": 56,
      "fonte": "ofertas 18/10 verificado",
-     "slot": "09:00"
+     "slot": "11:30"
+    },
+    {
+     "id": "MLB75732433",
+     "link_afiliado": "https://meli.la/1TL4eUF",
+     "titulo": "Escorredor de Louça Inox 2 Andares com Drenagem Automática",
+     "de": 189.99,
+     "por": 87.39,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_664647-MLA113791834006_072026-O.webp",
+     "categoria": "Geral",
+     "desconto": 54,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "12:00"
+    },
+    {
+     "id": "MLB22511806",
+     "link_afiliado": "https://meli.la/1rRVDeM",
+     "titulo": "Aspirador de Pó e Água Electrolux Inox 1800W 20L com Função Sopro",
+     "de": 740.0,
+     "por": 367.99,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_674302-MLA110474169365_042026-O.webp",
+     "categoria": "Geral",
+     "desconto": 50,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "12:30"
+    },
+    {
+     "id": "MLB37955040",
+     "link_afiliado": "https://meli.la/12ziR1z",
+     "titulo": "Marmita Elétrica Portátil Bivolt 1,5L Veicular 12/24V",
+     "de": 78.99,
+     "por": 41.49,
+     "rating": "4.7",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_605725-MLA117534176540_102026-O.webp",
+     "categoria": "Geral",
+     "desconto": 47,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "13:00"
     },
     {
      "id": "MLB66271625",
@@ -1466,7 +1739,20 @@
      "categoria": "Geral",
      "desconto": 45,
      "fonte": "ofertas 18/10 verificado",
-     "slot": "09:30"
+     "slot": "13:30"
+    },
+    {
+     "id": "MLB22598240",
+     "link_afiliado": "https://meli.la/1fH5FDb",
+     "titulo": "Ferro a Vapor Philips Walita Série 5000 DST5040 Preto",
+     "de": 519.9,
+     "por": 289.0,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_705851-MLA99549829202_122025-O.webp",
+     "categoria": "Geral",
+     "desconto": 44,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "14:30"
     },
     {
      "id": "MLB66275098",
@@ -1479,13 +1765,104 @@
      "categoria": "Geral",
      "desconto": 41,
      "fonte": "ofertas 18/10 verificado",
-     "slot": "10:00"
+     "slot": "15:30"
+    },
+    {
+     "id": "MLB16602518",
+     "link_afiliado": "https://meli.la/22pcHxw",
+     "titulo": "Liquidificador Oster OLIQ610 1400W Full 3,2L Preto",
+     "de": 299.0,
+     "por": 178.4,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_864038-MLA100027785333_122025-O.webp",
+     "categoria": "Geral",
+     "desconto": 40,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "16:00"
+    },
+    {
+     "id": "MLB61522181",
+     "link_afiliado": "https://meli.la/2GtuX7h",
+     "titulo": "Aspirador de Pó Philco PAS38 1550W Cinza com Azul",
+     "de": 227.38,
+     "por": 139.0,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_902477-MLA96423383376_102025-O.webp",
+     "categoria": "Geral",
+     "desconto": 39,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "17:00"
+    },
+    {
+     "id": "MLB62495301",
+     "link_afiliado": "https://meli.la/32rEyzu",
+     "titulo": "Fritadeira Airfryer Digital Philips Walita NA230/00",
+     "de": 749.9,
+     "por": 458.0,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_833981-MLA99378767609_112025-O.webp",
+     "categoria": "Geral",
+     "desconto": 39,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "18:00"
+    },
+    {
+     "id": "MLB79391419",
+     "link_afiliado": "https://meli.la/2QgkFEL",
+     "titulo": "Cafeteira Nescafé Dolce Gusto Genio S Basic Grafite",
+     "de": 679.9,
+     "por": 427.5,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_755892-MLA117747669905_092026-O.webp",
+     "categoria": "Geral",
+     "desconto": 37,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "18:30"
+    },
+    {
+     "id": "MLB13471360",
+     "link_afiliado": "https://meli.la/18dJSfN",
+     "titulo": "Pipoqueira Mondial Popflix 1200W PP-03 Vermelha",
+     "de": 190.0,
+     "por": 127.0,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_804282-MLA99461759148_112025-O.webp",
+     "categoria": "Geral",
+     "desconto": 33,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "19:30"
     }
    ],
-   "pronto": false
+   "pronto": true
   },
   "Academia": {
    "ofertas": [
+    {
+     "id": "MLB74870184",
+     "link_afiliado": "https://meli.la/2WJARYv",
+     "titulo": "Kit Halteres 6 em 1 Ajustável até 30kg Preto e Vermelho",
+     "de": 790.0,
+     "por": 184.99,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_893238-MLA114053048333_072026-O.webp",
+     "categoria": "Geral",
+     "desconto": 77,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "08:00"
+    },
+    {
+     "id": "MLB66484377",
+     "link_afiliado": "https://meli.la/1Hpr2vg",
+     "titulo": "Mini Compressor de Ar Digital Portátil Recarregável USB-C Lumi",
+     "de": 199.98,
+     "por": 49.99,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_812857-MLA109586548676_042026-O.webp",
+     "categoria": "Geral",
+     "desconto": 75,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "08:30"
+    },
     {
      "id": "MLB19451614",
      "link_afiliado": "https://meli.la/2XNWwrs",
@@ -1497,7 +1874,20 @@
      "categoria": "Geral",
      "desconto": 72,
      "fonte": "ofertas 18/10 verificado",
-     "slot": "08:00"
+     "slot": "09:00"
+    },
+    {
+     "id": "MLB19451610",
+     "link_afiliado": "https://meli.la/1UWvuDd",
+     "titulo": "Hipercalórico Dark Mass Dark Lab 3kg Chocolate Branco com Morango",
+     "de": 249.9,
+     "por": 68.9,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_894319-MLA99934921621_112025-O.webp",
+     "categoria": "Geral",
+     "desconto": 72,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "09:30"
     },
     {
      "id": "MLB25929487",
@@ -1510,7 +1900,7 @@
      "categoria": "Geral",
      "desconto": 69,
      "fonte": "ofertas 18/10 verificado",
-     "slot": "08:30"
+     "slot": "10:00"
     },
     {
      "id": "MLB64996643",
@@ -1523,7 +1913,33 @@
      "categoria": "Geral",
      "desconto": 66,
      "fonte": "ofertas 18/10 verificado",
-     "slot": "09:00"
+     "slot": "10:30"
+    },
+    {
+     "id": "MLB31005509",
+     "link_afiliado": "https://meli.la/2JMKPhg",
+     "titulo": "Pré-Treino Hórus Max Titanium 300g Frutas Vermelhas",
+     "de": 150.0,
+     "por": 55.1,
+     "rating": "4.8",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_831544-MLA112575509929_062026-O.webp",
+     "categoria": "Geral",
+     "desconto": 63,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "11:00"
+    },
+    {
+     "id": "MLB40366976",
+     "link_afiliado": "https://meli.la/126bxys",
+     "titulo": "Whey Protein Concentrado Dark Lab 1kg Doce de Leite",
+     "de": 349.9,
+     "por": 139.92,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_926889-MLA99570923936_122025-O.webp",
+     "categoria": "Geral",
+     "desconto": 60,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "11:30"
     },
     {
      "id": "MLB30465601",
@@ -1536,7 +1952,20 @@
      "categoria": "Geral",
      "desconto": 57,
      "fonte": "ofertas 18/10 verificado",
-     "slot": "09:30"
+     "slot": "12:00"
+    },
+    {
+     "id": "MLBU5177324326",
+     "link_afiliado": "https://meli.la/27fCZXz",
+     "titulo": "Creatina Monohidratada Growth Supplements 500g Pouch",
+     "de": 139.9,
+     "por": 59.9,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_923658-MLB117765624789_092026-O-creatina-monohidratada-500g-pouch--growth-supplements.webp",
+     "categoria": "Geral",
+     "desconto": 57,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "12:30"
     },
     {
      "id": "MLB53926315",
@@ -1549,7 +1978,7 @@
      "categoria": "Geral",
      "desconto": 54,
      "fonte": "ofertas 18/10 verificado",
-     "slot": "10:00"
+     "slot": "13:00"
     },
     {
      "id": "MLB18725308",
@@ -1562,7 +1991,7 @@
      "categoria": "Geral",
      "desconto": 54,
      "fonte": "ofertas 18/10 verificado",
-     "slot": "10:30"
+     "slot": "13:30"
     },
     {
      "id": "MLB26796581",
@@ -1575,7 +2004,7 @@
      "categoria": "Geral",
      "desconto": 50,
      "fonte": "ofertas 18/10 verificado",
-     "slot": "11:00"
+     "slot": "14:30"
     },
     {
      "id": "MLB58582424",
@@ -1588,7 +2017,7 @@
      "categoria": "Geral",
      "desconto": 49,
      "fonte": "ofertas 18/10 verificado",
-     "slot": "11:30"
+     "slot": "15:30"
     },
     {
      "id": "MLB67471826",
@@ -1601,7 +2030,33 @@
      "categoria": "Geral",
      "desconto": 48,
      "fonte": "ofertas 18/10 verificado",
-     "slot": "12:00"
+     "slot": "16:30"
+    },
+    {
+     "id": "MLB65564406",
+     "link_afiliado": "https://meli.la/2psXAn8",
+     "titulo": "Whey Protein Concentrado 100% Max Titanium 900g Leite",
+     "de": 250.0,
+     "por": 147.9,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_970705-MLA107186111991_022026-O.webp",
+     "categoria": "Geral",
+     "desconto": 41,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "17:30"
+    },
+    {
+     "id": "MLB79171629",
+     "link_afiliado": "https://meli.la/2VTZzvt",
+     "titulo": "Creatina Monohidratada Soufit 300g Pink Lemonade",
+     "de": 129.0,
+     "por": 77.0,
+     "rating": "4.9",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_901481-MLA117480275895_092026-O.webp",
+     "categoria": "Geral",
+     "desconto": 40,
+     "fonte": "ofertas 18/10 verificado",
+     "slot": "18:30"
     },
     {
      "id": "MLB66637233",
@@ -1614,10 +2069,10 @@
      "categoria": "Geral",
      "desconto": 34,
      "fonte": "ofertas 18/10 verificado",
-     "slot": "12:30"
+     "slot": "19:30"
     }
    ],
-   "pronto": false
+   "pronto": true
   }
  },
  "completo": false
