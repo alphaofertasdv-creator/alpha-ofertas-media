@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "schedule_id": 1045,
+    "data": "2026-10-18",
+    "grupo": "Moda Masculina",
+    "produto": "Camisa Social Slim Fit Eterno Masculina Gola Padre",
+    "motivo": "500: Error in workflow (n8n); falha às 19:55",
+    "acao": "Não reenviado: checagem após 20:00",
+    "resultado": "sem reenvio; aviso 🟡 enviado ao AVISO CLAUDE",
+    "hora": "20:30"
+  }
+]
