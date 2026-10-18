@@ -282,7 +282,7 @@
      "slot": "19:30"
     }
    ],
-   "pronto": false
+   "pronto": true
   },
   "Moda Feminina": {
    "ofertas": [
@@ -547,7 +547,7 @@
      "slot": "19:30"
     }
    ],
-   "pronto": false
+   "pronto": true
   },
   "Moda Masculina": {
    "ofertas": [
@@ -760,7 +760,7 @@
      "slot": "19:00"
     }
    ],
-   "pronto": false
+   "pronto": true
   },
   "Achados do Dia": {
    "ofertas": [
@@ -1038,7 +1038,7 @@
      "slot": "19:30"
     }
    ],
-   "pronto": false
+   "pronto": true
   }
  },
  "completo": false
