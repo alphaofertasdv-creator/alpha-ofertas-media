@@ -1,9 +1,117 @@
 {
  "data": "2026-10-18",
  "ig": {
-  "carrossel": null,
-  "stories": [],
-  "pronto": false
+  "carrossel": {
+   "chave": "bar",
+   "id": "MLB4928549881",
+   "link_afiliado": "https://meli.la/2kJHtfs",
+   "name": "Barraca Camping Automática Pop Up para até 6 Pessoas",
+   "old": 800.0,
+   "price": 289.0,
+   "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_789643-MLB114946215037_072026-F.webp",
+   "tag": "🔥 Oferta do dia",
+   "note": "",
+   "nicho": "Pesca & Camping",
+   "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+   "bullets": [
+    "Pop up para até 6 pessoas",
+    "Impermeabilidade de 3000 mm",
+    "Mosquiteiro e 2 janelas incluídos"
+   ]
+  },
+  "stories": [
+   {
+    "chave": "fit",
+    "id": "MLB34506161",
+    "link_afiliado": "https://meli.la/1vh6LQj",
+    "name": "Smartwatch Samsung Galaxy Fit3 Display 1,6\" Rosé",
+    "old": 499.0,
+    "price": 185.22,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_674204-MLA99446580250_112025-F.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Tech",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "Tela AMOLED de 1,6 polegadas",
+     "Bateria de até 13 dias",
+     "Resistente à água, caixa de 43 mm"
+    ]
+   },
+   {
+    "chave": "one",
+    "id": "MLBU3117106937",
+    "link_afiliado": "https://meli.la/2PEPhDs",
+    "name": "Philips OneBlade Aparador e Raspador QP1924/10",
+    "old": 237.38,
+    "price": 129.63,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_712069-MLB89354888748_082025-F.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Saúde & Beleza",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "À prova d'água, bivolt 127/220V",
+     "Lâmina SkinProtect p/ pele sensível",
+     "Remove pelos de qualquer comprimento"
+    ]
+   },
+   {
+    "chave": "cal",
+    "id": "MLB3670554997",
+    "link_afiliado": "https://meli.la/23BXcKy",
+    "name": "Calça Jeans Pantalona Wide Leg Cintura Alta",
+    "old": 109.9,
+    "price": 49.3,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_824308-MLB118356425559_092026-F.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Moda Feminina",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "Jeans com cintura alta",
+     "Corte wide leg, perna larga",
+     "Modelagem ampla com 2 bolsos"
+    ]
+   },
+   {
+    "chave": "pot",
+    "id": "MLB53222689",
+    "link_afiliado": "https://meli.la/1F4U6Lx",
+    "name": "Kit 10 Potes Herméticos de Vidro 640ml Starhouse",
+    "old": 189.99,
+    "price": 77.9,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_942823-MLA113526261849_062026-F.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Achados do Dia",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "Vidro resistente, 640 ml cada",
+     "Tampa com 4 travas de vedação",
+     "Vai ao forno e ao micro-ondas"
+    ]
+   },
+   {
+    "chave": "tec",
+    "id": "MLB5720778230",
+    "link_afiliado": "https://meli.la/23rssTB",
+    "name": "Relógio Technos Acqua Pro Diver JS25BCG/1A",
+    "old": 1199.0,
+    "price": 502.0,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_674679-MLA100072056515_122025-F.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Moda Masculina",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "Pulseira de aço inoxidável",
+     "Aro giratório unidirecional",
+     "Marcadores luminescentes e calendário"
+    ]
+   }
+  ],
+  "pronto": true
  },
  "grupos": {
   "Pesca & Camping": {
