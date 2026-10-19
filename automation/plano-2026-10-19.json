@@ -871,6 +871,72 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_746512-MLB105802924358_022026-O-tenis-kappa-park-20-caminhada-conforto-academia--unissex.webp",
      "categoria": "Moda",
      "slot": "13:00"
+    },
+    {
+     "id": "MLB3768353737",
+     "link_afiliado": "https://meli.la/2iTqtU1",
+     "titulo": "Tênis Fila Rise Up Masculino Confortável Mesh Leve Esportivo",
+     "de": 392.46,
+     "por": 171.24,
+     "rating": 4.6,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_869589-MLB107686085572_032026-O-tnis-fila-rise-up-masculino-confortavel-mesh-leve-esportivo.webp",
+     "categoria": "Moda",
+     "slot": "13:30"
+    },
+    {
+     "id": "MLB5857442960",
+     "link_afiliado": "https://meli.la/2Ai4NPi",
+     "titulo": "Tênis Kappa Pulse Supra Unissex De Corrida Conforto",
+     "de": 259.99,
+     "por": 125.66,
+     "rating": 4.6,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_802382-MLB117165413363_092026-O-tnis-kappa-pulse-supra-unissex-de-corrida-conforto.webp",
+     "categoria": "Moda",
+     "slot": "14:00"
+    },
+    {
+     "id": "MLB3746645279",
+     "link_afiliado": "https://meli.la/2wwUX8u",
+     "titulo": "Tênis Ultimashow 2.0 adidas",
+     "de": 379.99,
+     "por": 237.4,
+     "rating": 4.8,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_839178-MLB81963635588_022025-O-tnis-ultimashow-20-adidas.webp",
+     "categoria": "Moda",
+     "slot": "14:30"
+    },
+    {
+     "id": "MLB3833524416",
+     "link_afiliado": "https://meli.la/2QFs2qr",
+     "titulo": "Boné Lacoste Sport Croco Lateral Cap Original",
+     "de": 437.23,
+     "por": 284.99,
+     "rating": 4.8,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_775848-MLB84101185105_042025-O-bone-lacoste-sport-croco-lateral-cap-original.webp",
+     "categoria": "Moda",
+     "slot": "15:00"
+    },
+    {
+     "id": "MLB3963819178",
+     "link_afiliado": "https://meli.la/1qA94kE",
+     "titulo": "Sapatênis Lacoste Europa Casual",
+     "de": 449.99,
+     "por": 227.04,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_977506-MLB109035755720_032026-O-sapatnis-lacoste-europa-casual.webp",
+     "categoria": "Moda",
+     "slot": "15:30"
+    },
+    {
+     "id": "MLB4147348975",
+     "link_afiliado": "https://meli.la/2wo188m",
+     "titulo": "Tênis Masculino Under Armour Quicker 2 Esporte Oferta",
+     "de": 609.99,
+     "por": 339.66,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_899882-MLB117955034494_102026-O-tnis-masculino-under-armour-quicker-2-esporte-oferta.webp",
+     "categoria": "Moda",
+     "slot": "16:00"
     }
    ],
    "pronto": false
