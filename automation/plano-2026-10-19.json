@@ -1277,6 +1277,50 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_778013-MLA108920777750_032026-O.webp",
      "categoria": "Pesca",
      "slot": "13:30"
+    },
+    {
+     "id": "MLB59160016",
+     "link_afiliado": "https://meli.la/2jw2t7c",
+     "titulo": "Lanterna Mais Forte Do Mundo Recarregável Tática Potente T9 - Apfer",
+     "de": 79.0,
+     "por": 30.0,
+     "rating": 4.8,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_654641-MLA105556742941_012026-O.webp",
+     "categoria": "Pesca",
+     "slot": "14:00"
+    },
+    {
+     "id": "MLB45341890",
+     "link_afiliado": "https://meli.la/2X2vJvw",
+     "titulo": "Mesa Dobrável Vira Maleta Com Alça Portátil 1.80m Para Camping Pesca",
+     "de": 388.92,
+     "por": 210.01,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_972551-MLA99950757175_112025-O.webp",
+     "categoria": "Pesca",
+     "slot": "14:30"
+    },
+    {
+     "id": "MLB51716412",
+     "link_afiliado": "https://meli.la/1BrinUu",
+     "titulo": "Barraca De Camping Para 4 Pessoas Acampamento Homefy",
+     "de": 129.99,
+     "por": 84.99,
+     "rating": 4.8,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_743232-MLA99938943587_112025-O.webp",
+     "categoria": "Pesca",
+     "slot": "15:00"
+    },
+    {
+     "id": "MLB47165112",
+     "link_afiliado": "https://meli.la/1iXKqrf",
+     "titulo": "Mesa Dobrável Alumínio 90x60cm Vira Maleta Com Alça Portátil Camping",
+     "de": 299.9,
+     "por": 141.07,
+     "rating": 4.7,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_695155-MLA113573079242_072026-O.webp",
+     "categoria": "Pesca",
+     "slot": "15:30"
     }
    ],
    "pronto": false
@@ -1414,6 +1458,28 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_758326-MLB117885267298_102026-O-multiprocessador-alimento-moedor-triturador-eletrico-2l-inox.webp",
      "categoria": "Achados",
      "slot": "13:30"
+    },
+    {
+     "id": "MLB44910786",
+     "link_afiliado": "https://meli.la/2ipaiLq",
+     "titulo": "Kit Ferramentas C/ Maleta 178 Pçs Gedore Oficina Mecânica",
+     "de": 1399.9,
+     "por": 930.21,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_699348-MLA95503716072_102025-O.webp",
+     "categoria": "Achados",
+     "slot": "14:00"
+    },
+    {
+     "id": "MLB67561388",
+     "link_afiliado": "https://meli.la/31gMhge",
+     "titulo": "Kit Jogo De Ferramentas 58 Peças Completo Profissional Soquete Hexon",
+     "de": 150.0,
+     "por": 68.69,
+     "rating": 4.7,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_887585-MLA109559899308_042026-O.webp",
+     "categoria": "Achados",
+     "slot": "14:30"
     }
    ],
    "pronto": false
