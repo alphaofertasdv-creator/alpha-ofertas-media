@@ -1,0 +1,150 @@
+{
+ "ig": {
+  "carrossel": {
+   "chave": "ves",
+   "id": "MLB5035189039",
+   "link_afiliado": "https://meli.la/1HJL4Dv",
+   "name": "Vestido Longo Feminino Decote Canoa e Laço Alfaiataria",
+   "old": 169.99,
+   "price": 69.89,
+   "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_954320-MLB115911900005_082026-F.webp",
+   "tag": "🔥 Oferta do dia",
+   "note": "",
+   "nicho": "Moda Feminina",
+   "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+   "bullets": [
+    "Decote canoa, modelo longo",
+    "Tecido de alfaiataria, cor preta",
+    "Ideal para festa e coquetel"
+   ]
+  },
+  "stories": [
+   {
+    "chave": "a17",
+    "id": "MLB65114795",
+    "link_afiliado": "https://meli.la/2WGajYX",
+    "name": "Celular Samsung Galaxy A17 128GB 4GB RAM",
+    "old": 1499.0,
+    "price": 820.7,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_868127-MLA118013296557_092026-F.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Tech",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "Tela de 6,7 polegadas",
+     "128GB de memória, 4GB de RAM",
+     "Câmera de 50MP e bateria de 5000 mAh"
+    ]
+   },
+   {
+    "chave": "pot",
+    "id": "MLB55829716",
+    "link_afiliado": "https://meli.la/1auT9we",
+    "name": "Kit 10 Potes de Vidro Marmita Hermético 640ml",
+    "old": 174.0,
+    "price": 84.15,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_628438-MLA116953128816_092026-F.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Casa",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "Kit com 10 unidades de 640ml",
+     "Vidro borossilicato, vai ao micro-ondas",
+     "Tampa hermética com 4 travas"
+    ]
+   },
+   {
+    "chave": "cre",
+    "id": "MLB24081502",
+    "link_afiliado": "https://meli.la/2xTcMRq",
+    "name": "Creatina Max Titanium em pó 300g (2 un)",
+    "old": 179.0,
+    "price": 68.9,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_776821-MLA99365251528_112025-F.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Academia",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "Creatina monohidratada sem sabor",
+     "Kit com 2 potes de 300g",
+     "Sem glúten e sem lactose"
+    ]
+   },
+   {
+    "chave": "pol",
+    "id": "MLB5513844630",
+    "link_afiliado": "https://meli.la/1ajCwfE",
+    "name": "Camisa Polo Tommy Hilfiger Masculina",
+    "old": 350.0,
+    "price": 146.0,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_639636-MLB106059560756_022026-F.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Moda Masculina",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "Piquet 100% algodão",
+     "Gola polo e manga curta",
+     "Modelo Tommy Hilfiger Classic Polo"
+    ]
+   },
+   {
+    "chave": "sec",
+    "id": "MLB49652036",
+    "link_afiliado": "https://meli.la/2aKnrBX",
+    "name": "Secador de Cabelos Philco PSC3500 4 em 1 Dobrável",
+    "old": 799.9,
+    "price": 384.15,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_723697-MLA115636981336_092026-F.webp",
+    "tag": "💰 Achado",
+    "note": "",
+    "nicho": "Saúde & Beleza",
+    "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+    "bullets": [
+     "Potência de 1450W, função iônica",
+     "3 temperaturas e 3 velocidades",
+     "Motor BLDC, modelo dobrável"
+    ]
+   }
+  ],
+  "pronto": true
+ },
+ "grupos": {
+  "Tech": {
+   "ofertas": [],
+   "pronto": false
+  },
+  "Saúde": {
+   "ofertas": [],
+   "pronto": false
+  },
+  "Casa": {
+   "ofertas": [],
+   "pronto": false
+  },
+  "Academia": {
+   "ofertas": [],
+   "pronto": false
+  },
+  "Moda Masculina": {
+   "ofertas": [],
+   "pronto": false
+  },
+  "Moda Feminina": {
+   "ofertas": [],
+   "pronto": false
+  },
+  "Pesca & Camping": {
+   "ofertas": [],
+   "pronto": false
+  },
+  "Achados do Dia": {
+   "ofertas": [],
+   "pronto": false
+  }
+ },
+ "completo": false
+}
