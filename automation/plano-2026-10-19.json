@@ -114,15 +114,227 @@
  },
  "grupos": {
   "Tech": {
-   "ofertas": [],
+   "ofertas": [
+    {
+     "id": "MLB76785639",
+     "link_afiliado": "https://meli.la/2GQX573",
+     "titulo": "Smart TV LG 43\" Nano 4K UHD Wi-Fi Bluetooth ThinQ AI",
+     "de": 2499.0,
+     "por": 1837.26,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_864210-MLA115964435829_082026-F.webp",
+     "categoria": "Tech",
+     "slot": "08:00"
+    },
+    {
+     "id": "MLB63777677",
+     "link_afiliado": "https://meli.la/2onxsUT",
+     "titulo": "Smart TV Samsung 43\" Full HD LED LS43F6000",
+     "de": 2459.0,
+     "por": 1525.0,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_850374-MLA103344560695_012026-F.webp",
+     "categoria": "Tech",
+     "slot": "08:30"
+    },
+    {
+     "id": "MLB63964187",
+     "link_afiliado": "https://meli.la/32GM2xF",
+     "titulo": "Smart TV Philips Ambilight 65\" 4K UHD 65PUG8100",
+     "de": 4315.37,
+     "por": 3389.9,
+     "rating": 4.8,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_630331-MLA104013642749_012026-F.webp",
+     "categoria": "Tech",
+     "slot": "09:00"
+    },
+    {
+     "id": "MLB39205913",
+     "link_afiliado": "https://meli.la/2iaGDF4",
+     "titulo": "Smart TV LG 43\" Full HD Wi-Fi Bluetooth 43LR6700",
+     "de": 2299.0,
+     "por": 1614.05,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_741946-MLA107875422514_032026-F.webp",
+     "categoria": "Tech",
+     "slot": "09:30"
+    },
+    {
+     "id": "MLB62998911",
+     "link_afiliado": "https://meli.la/1x63dx9",
+     "titulo": "Multifuncional HP DeskJet Ink Advantage 2975 Wi-Fi",
+     "de": 712.86,
+     "por": 479.9,
+     "rating": 4.8,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_641445-MLA107256158981_022026-F.webp",
+     "categoria": "Tech",
+     "slot": "10:00"
+    },
+    {
+     "id": "MLB63036814",
+     "link_afiliado": "https://meli.la/14jPjKc",
+     "titulo": "Smart TV Philco 32\" Roku LED Dolby Audio HDR P32VIK",
+     "de": 1499.0,
+     "por": 1031.58,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_904550-MLA100972962937_122025-F.webp",
+     "categoria": "Tech",
+     "slot": "10:30"
+    },
+    {
+     "id": "MLB61455819",
+     "link_afiliado": "https://meli.la/1goztsb",
+     "titulo": "Monitor Gamer AOC AGON G50 24\" 144Hz 0,5ms IPS",
+     "de": 1070.0,
+     "por": 664.05,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_748152-MLA96322082514_102025-F.webp",
+     "categoria": "Tech",
+     "slot": "11:00"
+    },
+    {
+     "id": "MLB50301060",
+     "link_afiliado": "https://meli.la/2izEhW8",
+     "titulo": "Smartphone Motorola Moto G56 5G 256GB 8GB RAM",
+     "de": 2299.0,
+     "por": 1399.98,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_748002-MLA104773303805_012026-F.webp",
+     "categoria": "Tech",
+     "slot": "11:30"
+    }
+   ],
    "pronto": false
   },
   "Saúde": {
-   "ofertas": [],
+   "ofertas": [
+    {
+     "id": "MLB24086423",
+     "link_afiliado": "https://meli.la/1gfN32o",
+     "titulo": "Prancha Lizze Profissional 480 Extreme",
+     "de": 459.0,
+     "por": 357.47,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_818555-MLA99479472410_112025-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": "08:00"
+    },
+    {
+     "id": "MLB38764472",
+     "link_afiliado": "https://meli.la/274zRJP",
+     "titulo": "Perfume Yves Saint Laurent MYSLF Eau de Parfum 100ml",
+     "de": 1148.85,
+     "por": 645.15,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_648688-MLU78070440691_072024-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": "08:30"
+    },
+    {
+     "id": "MLB67638765",
+     "link_afiliado": "https://meli.la/2A7ZZcp",
+     "titulo": "Sebastian Professional Máscara Dark Oil 500ml",
+     "de": 364.9,
+     "por": 228.5,
+     "rating": 5.0,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_642684-MLA109235343968_042026-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": "09:00"
+    },
+    {
+     "id": "MLB48187462",
+     "link_afiliado": "https://meli.la/1cqeVbQ",
+     "titulo": "Wella Invigo Nutri Enrich Kit Shampoo e Condicionador 1L + Máscara",
+     "de": 629.9,
+     "por": 339.91,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_849507-MLA99338394226_112025-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": "09:30"
+    },
+    {
+     "id": "MLB19457568",
+     "link_afiliado": "https://meli.la/138DPF1",
+     "titulo": "Perfume Jean Paul Gaultier Le Beau Intense Eau de Parfum 125ml",
+     "de": 928.85,
+     "por": 613.11,
+     "rating": 4.8,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_739181-MLA93896048973_102025-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": "10:00"
+    },
+    {
+     "id": "MLB23789407",
+     "link_afiliado": "https://meli.la/1fU4uAN",
+     "titulo": "Kit Protetor Solar Nivea FPS50 200ml + Kids FPS60 100ml",
+     "de": 74.6,
+     "por": 53.9,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_751602-MLA106531183590_022026-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": "10:30"
+    }
+   ],
    "pronto": false
   },
   "Casa": {
-   "ofertas": [],
+   "ofertas": [
+    {
+     "id": "MLB43789420",
+     "link_afiliado": "https://meli.la/1riGmtj",
+     "titulo": "Panela de Pressão Brinox Indução 5,4L 22cm Vanilla",
+     "de": 539.99,
+     "por": 213.54,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_887031-MLA80685372638_112024-F.webp",
+     "categoria": "Casa",
+     "slot": "08:00"
+    },
+    {
+     "id": "MLB40535137",
+     "link_afiliado": "https://meli.la/272gAQk",
+     "titulo": "Forno Elétrico Britânia 44L Dupla Resistência 1500W",
+     "de": 399.0,
+     "por": 274.55,
+     "rating": 4.8,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_692583-MLA100276103564_122025-F.webp",
+     "categoria": "Casa",
+     "slot": "08:30"
+    },
+    {
+     "id": "MLB66895633",
+     "link_afiliado": "https://meli.la/2h8esUz",
+     "titulo": "Air Fryer Philco 16 Litros PAF16C 220V",
+     "de": 623.96,
+     "por": 429.0,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_841702-MLA110401871238_052026-F.webp",
+     "categoria": "Casa",
+     "slot": "09:00"
+    },
+    {
+     "id": "MLB6339959",
+     "link_afiliado": "https://meli.la/1r7dctC",
+     "titulo": "Aspirador de Pó e Água WAP GTW Inox 12 1400W",
+     "de": 696.0,
+     "por": 245.36,
+     "rating": 4.8,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_608043-MLA99867297737_112025-F.webp",
+     "categoria": "Casa",
+     "slot": "09:30"
+    },
+    {
+     "id": "MLB26797982",
+     "link_afiliado": "https://meli.la/2hYuVRb",
+     "titulo": "Extratora de Sujeira Portátil WAP Spot Cleaner W3",
+     "de": 679.9,
+     "por": 529.9,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_764405-MLU77356955449_062024-F.webp",
+     "categoria": "Casa",
+     "slot": "10:00"
+    }
+   ],
    "pronto": false
   },
   "Academia": {
