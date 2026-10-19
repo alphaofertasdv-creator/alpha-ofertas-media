@@ -937,6 +937,28 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_899882-MLB117955034494_102026-O-tnis-masculino-under-armour-quicker-2-esporte-oferta.webp",
      "categoria": "Moda",
      "slot": "16:00"
+    },
+    {
+     "id": "MLB6004938070",
+     "link_afiliado": "https://meli.la/1JPS7JB",
+     "titulo": "Tênis Masculino Osklen Casual Sneaker Despojado Original",
+     "de": 437.99,
+     "por": 248.99,
+     "rating": 4.7,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_784458-MLB99858340092_122025-O-tnis-masculino-osklen-casual-sneaker-despojado-original.webp",
+     "categoria": "Moda",
+     "slot": "16:30"
+    },
+    {
+     "id": "MLB5598370892",
+     "link_afiliado": "https://meli.la/12pgs6B",
+     "titulo": "Mochila Ecko Grande Executiva Notebook Resistente Trabalho",
+     "de": 309.9,
+     "por": 161.96,
+     "rating": 5.0,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_645880-MLB90360493023_082025-O-mochila-ecko-grande-executiva-notebook-resistente-trabalho.webp",
+     "categoria": "Moda",
+     "slot": "17:00"
     }
    ],
    "pronto": false
@@ -1063,6 +1085,61 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_793385-MLB88179477583_072025-O-sandalia-feminina-rasteirinha-chinelo-brilho-confortavel.webp",
      "categoria": "Moda",
      "slot": "13:00"
+    },
+    {
+     "id": "MLB4291654613",
+     "link_afiliado": "https://meli.la/1XaEfDh",
+     "titulo": "Tênis Vizzano Feminino Casual Original Confortável Moda 1430",
+     "de": 149.9,
+     "por": 107.19,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_800849-MLB109557677165_032026-O-tnis-vizzano-feminino-casual-original-confortavel-moda-1430.webp",
+     "categoria": "Moda",
+     "slot": "13:30"
+    },
+    {
+     "id": "MLB3659510079",
+     "link_afiliado": "https://meli.la/1sBT33j",
+     "titulo": "Sandalia Papete Moleca Feminina Tiras Strass Macia Original",
+     "de": 78.9,
+     "por": 40.99,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_807427-MLB76103862065_042024-O-sandalia-papete-moleca-feminina-tiras-strass-macia-original.webp",
+     "categoria": "Moda",
+     "slot": "14:00"
+    },
+    {
+     "id": "MLB4515788179",
+     "link_afiliado": "https://meli.la/1zJbGnr",
+     "titulo": "Sapatilha Mule Feminina Bico Fino Conforto Textura Bege Ouro",
+     "de": 69.99,
+     "por": 42.25,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_873249-MLB111280106940_052026-O-sapatilha-mule-feminina-bico-fino-conforto-textura-bege-ouro.webp",
+     "categoria": "Moda",
+     "slot": "14:30"
+    },
+    {
+     "id": "MLB5395837382",
+     "link_afiliado": "https://meli.la/1gAbGi9",
+     "titulo": "Vestido Longo Casual Festa Alça Grossa Fenda Moda Elegante",
+     "de": 78.99,
+     "por": 28.79,
+     "rating": 4.8,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_728592-MLB93300933428_092025-O-vestido-longo-casual-festa-alca-grossa-fenda-moda-elegante.webp",
+     "categoria": "Moda",
+     "slot": "15:00"
+    },
+    {
+     "id": "MLB3958312207",
+     "link_afiliado": "https://meli.la/16ND5uK",
+     "titulo": "Tênis Feminino Ortopédico Caminhada Academia Corrida Fitness",
+     "de": 99.9,
+     "por": 57.0,
+     "rating": 4.8,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_610997-MLB110616559484_052026-O-tnis-feminino-ortopedico-caminhada-academia-corrida-fitness.webp",
+     "categoria": "Moda",
+     "slot": "15:30"
     }
    ],
    "pronto": false
