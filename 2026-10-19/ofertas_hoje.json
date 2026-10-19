@@ -1,0 +1,86 @@
+{
+ "ves": {
+  "name": "Vestido Longo Feminino Decote Canoa e Laço",
+  "old": 169.99,
+  "price": 69.89,
+  "tag": "🔥 Oferta do dia",
+  "note": "",
+  "bullets": [
+   "Decote canoa, modelo longo",
+   "Tecido de alfaiataria, cor preta",
+   "Ideal para festa e coquetel"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "car": 1
+ },
+ "a17": {
+  "name": "Celular Samsung Galaxy A17 128GB 4GB RAM",
+  "old": 1499.0,
+  "price": 820.7,
+  "tag": "💰 Achado",
+  "note": "",
+  "bullets": [
+   "Tela de 6,7 polegadas",
+   "128GB de memória, 4GB de RAM",
+   "Câmera de 50MP e bateria de 5000 mAh"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "story": 1
+ },
+ "pot": {
+  "name": "Kit 10 Potes de Vidro Marmita Hermético 640ml",
+  "old": 174.0,
+  "price": 84.15,
+  "tag": "💰 Achado",
+  "note": "",
+  "bullets": [
+   "Kit com 10 unidades de 640ml",
+   "Vidro borossilicato, vai ao micro-ondas",
+   "Tampa hermética com 4 travas"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "story": 2
+ },
+ "cre": {
+  "name": "Creatina Max Titanium em pó 300g (2 un)",
+  "old": 179.0,
+  "price": 68.9,
+  "tag": "💰 Achado",
+  "note": "",
+  "bullets": [
+   "Creatina monohidratada sem sabor",
+   "Kit com 2 potes de 300g",
+   "Sem glúten e sem lactose"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "story": 3
+ },
+ "pol": {
+  "name": "Camisa Polo Tommy Hilfiger Masculina",
+  "old": 350.0,
+  "price": 146.0,
+  "tag": "💰 Achado",
+  "note": "",
+  "bullets": [
+   "Piquet 100% algodão",
+   "Gola polo e manga curta",
+   "Modelo Tommy Hilfiger Classic Polo"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "story": 4
+ },
+ "sec": {
+  "name": "Secador de Cabelos Philco PSC3500 4 em 1 Dobrável",
+  "old": 799.9,
+  "price": 384.15,
+  "tag": "💰 Achado",
+  "note": "",
+  "bullets": [
+   "Potência de 1450W, função iônica",
+   "3 temperaturas e 3 velocidades",
+   "Motor BLDC, modelo dobrável"
+  ],
+  "copy": "🔥 Achados assim aparecem primeiro no nosso grupo.",
+  "story": 5
+ }
+}
