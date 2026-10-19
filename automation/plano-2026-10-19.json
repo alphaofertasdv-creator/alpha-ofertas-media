@@ -876,7 +876,129 @@
    "pronto": false
   },
   "Moda Feminina": {
-   "ofertas": [],
+   "ofertas": [
+    {
+     "id": "MLB4227610955",
+     "link_afiliado": "https://meli.la/16pLjmy",
+     "titulo": "Kit Bolsa Feminina Ombro Transversal Porta-cartões Rfid",
+     "de": 119.0,
+     "por": 64.46,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_631069-MLB117166361195_092026-O-kit-bolsa-feminina-ombro-transversal-porta-cartoes-rfid.webp",
+     "categoria": "Moda",
+     "slot": "08:00"
+    },
+    {
+     "id": "MLB5943076470",
+     "link_afiliado": "https://meli.la/2i9r4nD",
+     "titulo": "Sandalia Papete Feminina Ortopedica Comfortflex Joanete",
+     "de": 199.99,
+     "por": 133.31,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_651659-MLB106901103381_022026-O-sandalia-papete-feminina-ortopedica-comfortflex-joanete.webp",
+     "categoria": "Moda",
+     "slot": "08:30"
+    },
+    {
+     "id": "MLB4120478152",
+     "link_afiliado": "https://meli.la/2YRfDFn",
+     "titulo": "Sandália Feminina Rasteira De Dedo",
+     "de": 109.9,
+     "por": 66.23,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_784330-MLB116823324683_082026-O-sandalia-feminina-rasteira-de-dedo.webp",
+     "categoria": "Moda",
+     "slot": "09:00"
+    },
+    {
+     "id": "MLB7425801316",
+     "link_afiliado": "https://meli.la/29VRLuS",
+     "titulo": "Legging Trifil Original Feminina Texturizada Sem Costura",
+     "de": 150.75,
+     "por": 67.38,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_703974-MLB116321835756_092026-O-legging-trifil-original-feminina-texturizada-sem-costura.webp",
+     "categoria": "Moda",
+     "slot": "09:30"
+    },
+    {
+     "id": "MLB5917264830",
+     "link_afiliado": "https://meli.la/2KnAoR5",
+     "titulo": "Calça Legging Lupo Max Feminino Academia Cintura Alta Treino",
+     "de": 189.9,
+     "por": 124.43,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_661799-MLB111944434367_052026-O-calca-legging-lupo-max-feminino-academia-cintura-alta-treino.webp",
+     "categoria": "Moda",
+     "slot": "10:00"
+    },
+    {
+     "id": "MLB6279439474",
+     "link_afiliado": "https://meli.la/1VxQ4hd",
+     "titulo": "Legging Lisa Fly Azul Com Bolsos Sinergia Alta Compressão",
+     "de": 277.95,
+     "por": 162.12,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_835637-MLB116370259777_082026-O-legging-lisa-fly-azul-com-bolsos-sinergia-alta-compresso.webp",
+     "categoria": "Moda",
+     "slot": "10:30"
+    },
+    {
+     "id": "MLB4460108775",
+     "link_afiliado": "https://meli.la/14cmRpT",
+     "titulo": "Tênis Puma Feminino Casual Court Lally Sola Reta Original",
+     "de": 399.0,
+     "por": 246.99,
+     "rating": 4.8,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_960513-MLB113111718622_072026-O-tenis-puma-feminino-casual-court-lally-sola-reta-original.webp",
+     "categoria": "Moda",
+     "slot": "11:00"
+    },
+    {
+     "id": "MLB4270077891",
+     "link_afiliado": "https://meli.la/2GnBY8A",
+     "titulo": "Tenis Feminino Chunky Ramarim Casual Conforto Original",
+     "de": 399.9,
+     "por": 129.9,
+     "rating": 4.8,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_962227-MLB95622130362_102025-O-tenis-feminino-chunky-ramarim-casual-conforto-original.webp",
+     "categoria": "Moda",
+     "slot": "11:30"
+    },
+    {
+     "id": "MLB5463184168",
+     "link_afiliado": "https://meli.la/1NqaXap",
+     "titulo": "Calça Legging Selene Feminina S/costura Original Academia",
+     "de": 168.9,
+     "por": 88.0,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_632560-MLB106849582560_022026-O-calca-legging-selene-feminina-scostura-original-academia.webp",
+     "categoria": "Moda",
+     "slot": "12:00"
+    },
+    {
+     "id": "MLB3870199375",
+     "link_afiliado": "https://meli.la/1djsYYu",
+     "titulo": "Vestido Longo Babado Fenda Manga 3/4 Evangélico Elegante",
+     "de": 115.9,
+     "por": 59.54,
+     "rating": 4.8,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_827169-MLB113757928653_062026-O-vestido-longo-babado-fenda-manga-34-evangelico-elegante.webp",
+     "categoria": "Moda",
+     "slot": "12:30"
+    },
+    {
+     "id": "MLB3759934755",
+     "link_afiliado": "https://meli.la/2gMRrQL",
+     "titulo": "Sandália Feminina Rasteirinha Chinelo Brilho Confortável",
+     "de": 57.0,
+     "por": 31.92,
+     "rating": 4.7,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_793385-MLB88179477583_072025-O-sandalia-feminina-rasteirinha-chinelo-brilho-confortavel.webp",
+     "categoria": "Moda",
+     "slot": "13:00"
+    }
+   ],
    "pronto": false
   },
   "Pesca & Camping": {
@@ -1017,7 +1139,140 @@
    "pronto": false
   },
   "Achados do Dia": {
-   "ofertas": [],
+   "ofertas": [
+    {
+     "id": "MLB4659455269",
+     "link_afiliado": "https://meli.la/2FHXLpv",
+     "titulo": "Organizador De Armário Cozinha Deslizante Pesada Com Gaveta",
+     "de": 114.74,
+     "por": 65.0,
+     "rating": 5.0,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_741958-MLB110383708304_052026-O-organizador-de-armario-cozinha-deslizante-pesada-com-gaveta.webp",
+     "categoria": "Achados",
+     "slot": "08:00"
+    },
+    {
+     "id": "MLB6615768862",
+     "link_afiliado": "https://meli.la/24sXsKS",
+     "titulo": "Kit 7 Organizadores Geladeira Armário Casa Cozinha Cesto Transparente",
+     "de": 219.0,
+     "por": 139.9,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_683216-MLA98868373287_112025-O.webp",
+     "categoria": "Achados",
+     "slot": "08:30"
+    },
+    {
+     "id": "MLB7657437554",
+     "link_afiliado": "https://meli.la/2Sp6NSL",
+     "titulo": "Mini Processador De Alimentos 120w Itatiaia 110v Preto",
+     "de": 125.9,
+     "por": 69.9,
+     "rating": 4.7,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_870727-MLA99030890120_112025-O.webp",
+     "categoria": "Achados",
+     "slot": "09:00"
+    },
+    {
+     "id": "MLB5131124851",
+     "link_afiliado": "https://meli.la/1apsSCx",
+     "titulo": "Jogo de Panelas Antiaderente 8 Peças Teflon Preto",
+     "de": 799.0,
+     "por": 339.15,
+     "rating": 5.0,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_605078-MLA116087628714_092026-O.webp",
+     "categoria": "Achados",
+     "slot": "09:30"
+    },
+    {
+     "id": "MLB7149675174",
+     "link_afiliado": "https://meli.la/1yeLH8Q",
+     "titulo": "Jogo de Panelas Chef D Aço Inox 6 Peças 3 Caçarolas 3 Tampas de Vidro",
+     "de": 299.99,
+     "por": 173.0,
+     "rating": 4.7,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_950554-MLA114714219435_072026-O.webp",
+     "categoria": "Achados",
+     "slot": "10:00"
+    },
+    {
+     "id": "MLB5284541731",
+     "link_afiliado": "https://meli.la/1vPS6vi",
+     "titulo": "Lâmpada de Mesa LED Dupla para Escritório com Clipe, 22W e Ajuste de Brilho",
+     "de": 399.88,
+     "por": 157.94,
+     "rating": 4.7,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_897587-MLA96143487049_102025-O.webp",
+     "categoria": "Achados",
+     "slot": "10:30"
+    },
+    {
+     "id": "MLB5857469224",
+     "link_afiliado": "https://meli.la/2wUGuXo",
+     "titulo": "Kit 10 Luminária Espeto Jardim Super Led 7w Ip65 Prova Dágua",
+     "de": 215.0,
+     "por": 82.05,
+     "rating": 4.7,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_719402-MLB117531688601_092026-O-kit-10-luminaria-espeto-jardim-super-led-7w-ip65-prova-dagua.webp",
+     "categoria": "Achados",
+     "slot": "11:00"
+    },
+    {
+     "id": "MLB5284557459",
+     "link_afiliado": "https://meli.la/156mD7j",
+     "titulo": "Luminária de Mesa LED Dobrável com Sensor de Toque, 3 Níveis de Brilho",
+     "de": 239.88,
+     "por": 112.0,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_951503-MLA96148986201_102025-O.webp",
+     "categoria": "Achados",
+     "slot": "11:30"
+    },
+    {
+     "id": "MLB4695359375",
+     "link_afiliado": "https://meli.la/21pUnVK",
+     "titulo": "Jogo De Toalhas De Banho Brasilchic Extra Soft Premium 100% Algodão",
+     "de": 190.0,
+     "por": 100.2,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_776632-MLA113978114844_072026-O.webp",
+     "categoria": "Achados",
+     "slot": "12:00"
+    },
+    {
+     "id": "MLB4311687287",
+     "link_afiliado": "https://meli.la/2tVs1hz",
+     "titulo": "Jogo De Banho Gigante Kit 4 Toalhas Algodão Nobre Camesa",
+     "de": 339.99,
+     "por": 172.17,
+     "rating": 4.8,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_873231-MLB111790537173_052026-O-jogo-de-banho-gigante-kit-4-toalhas-algodao-nobre-camesa.webp",
+     "categoria": "Achados",
+     "slot": "12:30"
+    },
+    {
+     "id": "MLB7358169510",
+     "link_afiliado": "https://meli.la/1s58PNg",
+     "titulo": "Triturador Processador Manual 900ml 5 Lâminas Inox Ralador",
+     "de": 49.9,
+     "por": 20.71,
+     "rating": 5.0,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_716166-MLB115855393590_092026-O-triturador-processador-manual-900ml-5-laminas-inox-ralador.webp",
+     "categoria": "Achados",
+     "slot": "13:00"
+    },
+    {
+     "id": "MLB5310237601",
+     "link_afiliado": "https://meli.la/2fGpCXm",
+     "titulo": "Multiprocessador Alimento Moedor Triturador Eletrico 2l Inox",
+     "de": 109.0,
+     "por": 62.99,
+     "rating": 4.7,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_758326-MLB117885267298_102026-O-multiprocessador-alimento-moedor-triturador-eletrico-2l-inox.webp",
+     "categoria": "Achados",
+     "slot": "13:30"
+    }
+   ],
    "pronto": false
   }
  },
