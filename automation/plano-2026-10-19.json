@@ -418,7 +418,7 @@
      "slot": "13:30"
     }
    ],
-   "pronto": false
+   "pronto": true
   },
   "Casa": {
    "ofertas": [
@@ -564,6 +564,28 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_841093-MLA116669740751_082026-F.webp",
      "categoria": "Casa",
      "slot": "14:00"
+    },
+    {
+     "id": "MLB40583845",
+     "link_afiliado": "https://meli.la/142ctTK",
+     "titulo": "Lavadora de Alta Pressão Kärcher Compacta 1.500 PSI 1400W",
+     "de": 480.71,
+     "por": 289.0,
+     "rating": 4.8,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_746691-MLA118789821329_102026-F.webp",
+     "categoria": "Casa",
+     "slot": "14:30"
+    },
+    {
+     "id": "MLB15345686",
+     "link_afiliado": "https://meli.la/1vJ2yvq",
+     "titulo": "Lavadora de Alta Pressão WAP Ousada Plus 2200 1500W",
+     "de": 649.0,
+     "por": 416.41,
+     "rating": 4.7,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_694471-MLA96077668763_102025-F.webp",
+     "categoria": "Casa",
+     "slot": "15:00"
     }
    ],
    "pronto": true
@@ -701,9 +723,31 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_666389-MLA110197690131_042026-F.webp",
      "categoria": "Academia & Suplementos",
      "slot": "13:30"
+    },
+    {
+     "id": "MLBU4257411137",
+     "link_afiliado": "https://meli.la/1Czu5uA",
+     "titulo": "Tênis adidas Adizero Drive RC Corrida Leve Preto",
+     "de": 899.99,
+     "por": 555.99,
+     "rating": 4.8,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_821280-MLB114346937907_072026-F.webp",
+     "categoria": "Academia & Suplementos",
+     "slot": "14:00"
+    },
+    {
+     "id": "MLBU5334564168",
+     "link_afiliado": "https://meli.la/2LzQydE",
+     "titulo": "Tênis Fila Focus Masculino Academia Caminhada Treino",
+     "de": 369.99,
+     "por": 254.99,
+     "rating": "",
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_853020-MLB116834047892_092026-F.webp",
+     "categoria": "Academia & Suplementos",
+     "slot": "14:30"
     }
    ],
-   "pronto": false
+   "pronto": true
   },
   "Moda Masculina": {
    "ofertas": [],
