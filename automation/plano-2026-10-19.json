@@ -394,6 +394,28 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_818498-MLA99527505846_122025-F.webp",
      "categoria": "Saúde & Beleza",
      "slot": "12:30"
+    },
+    {
+     "id": "MLB22464327",
+     "link_afiliado": "https://meli.la/27XvRtF",
+     "titulo": "Secador de Cabelo Taiff Easy 1700W com Difusor",
+     "de": 320.0,
+     "por": 244.0,
+     "rating": 4.8,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_898247-MLA99483855628_112025-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": "13:00"
+    },
+    {
+     "id": "MLB38770034",
+     "link_afiliado": "https://meli.la/2D55uHa",
+     "titulo": "Secador de Cabelos Britânia Tourmaline Íons 2100W BSC2150",
+     "de": 122.32,
+     "por": 87.92,
+     "rating": 4.7,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_690704-MLA99523589964_122025-F.webp",
+     "categoria": "Saúde & Beleza",
+     "slot": "13:30"
     }
    ],
    "pronto": false
@@ -624,6 +646,61 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_876329-MLA99502619184_112025-F.webp",
      "categoria": "Academia & Suplementos",
      "slot": "11:00"
+    },
+    {
+     "id": "MLB52359479",
+     "link_afiliado": "https://meli.la/1YaoSjS",
+     "titulo": "Whey Protein Concentrado Black Skull 100% Puro Chocolate",
+     "de": 139.9,
+     "por": 99.9,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_896389-MLA87548042386_072025-F.webp",
+     "categoria": "Academia & Suplementos",
+     "slot": "11:30"
+    },
+    {
+     "id": "MLB25171531",
+     "link_afiliado": "https://meli.la/1Se15K9",
+     "titulo": "100% Whey Protein Morango Refil 1,8kg Dark Lab",
+     "de": 699.0,
+     "por": 269.9,
+     "rating": 4.8,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_703000-MLU70706015333_072023-F.webp",
+     "categoria": "Academia & Suplementos",
+     "slot": "12:00"
+    },
+    {
+     "id": "MLB72731584",
+     "link_afiliado": "https://meli.la/2ybVUgW",
+     "titulo": "Whey Protein Concentrado 100% 900g Refil Dark Lab",
+     "de": 499.9,
+     "por": 149.9,
+     "rating": 4.8,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_986577-MLA111757756180_062026-F.webp",
+     "categoria": "Academia & Suplementos",
+     "slot": "12:30"
+    },
+    {
+     "id": "MLB21961479",
+     "link_afiliado": "https://meli.la/11yPXFy",
+     "titulo": "Omegafor Plus 120 Cápsulas Ômega 3 Vitafor",
+     "de": 189.9,
+     "por": 88.74,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_889348-MLA99533932720_122025-F.webp",
+     "categoria": "Academia & Suplementos",
+     "slot": "13:00"
+    },
+    {
+     "id": "MLB67717073",
+     "link_afiliado": "https://meli.la/2hqgs4S",
+     "titulo": "Proteína Shark Pro Beef Isolado Hidrolisado Morango Kiwi",
+     "de": 220.0,
+     "por": 135.59,
+     "rating": 4.8,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_2X_666389-MLA110197690131_042026-F.webp",
+     "categoria": "Academia & Suplementos",
+     "slot": "13:30"
     }
    ],
    "pronto": false
