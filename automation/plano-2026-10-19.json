@@ -961,7 +961,7 @@
      "slot": "17:00"
     }
    ],
-   "pronto": false
+   "pronto": true
   },
   "Moda Feminina": {
    "ofertas": [
@@ -1142,7 +1142,7 @@
      "slot": "15:30"
     }
    ],
-   "pronto": false
+   "pronto": true
   },
   "Pesca & Camping": {
    "ofertas": [
@@ -1323,7 +1323,7 @@
      "slot": "15:30"
     }
    ],
-   "pronto": false
+   "pronto": true
   },
   "Achados do Dia": {
    "ofertas": [
@@ -1480,10 +1480,87 @@
      "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_887585-MLA109559899308_042026-O.webp",
      "categoria": "Achados",
      "slot": "14:30"
+    },
+    {
+     "id": "MLB63323182",
+     "link_afiliado": "https://meli.la/1DgYJyu",
+     "titulo": "Fechadura Digital De Sobrepor Fd 1000 D Preta Intelbras",
+     "de": 359.9,
+     "por": 194.4,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_764625-MLA112051292545_052026-O.webp",
+     "categoria": "Achados",
+     "slot": "15:00"
+    },
+    {
+     "id": "MLB46836439",
+     "link_afiliado": "https://meli.la/2AnbVrd",
+     "titulo": "Kit 2 Câmeras Segurança IP Interna Externa Wifi iCSee Infravermelho",
+     "de": 349.0,
+     "por": 188.93,
+     "rating": 4.8,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_694546-MLA117038112537_092026-O.webp",
+     "categoria": "Achados",
+     "slot": "15:30"
+    },
+    {
+     "id": "MLB69179152",
+     "link_afiliado": "https://meli.la/1V2goCu",
+     "titulo": "Escova de Limpeza Elétrica 12 em 1 Giratória Recarregável",
+     "de": 119.9,
+     "por": 57.45,
+     "rating": 4.7,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_624414-MLA111232702687_052026-O.webp",
+     "categoria": "Achados",
+     "slot": "16:00"
+    },
+    {
+     "id": "MLB29561684",
+     "link_afiliado": "https://meli.la/1yqyA3W",
+     "titulo": "Kit 4 Toalhas de Banho Gigante 80 x 150 cm Softmax",
+     "de": 154.22,
+     "por": 68.99,
+     "rating": 4.6,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_655993-MLA112117491538_062026-O.webp",
+     "categoria": "Achados",
+     "slot": "16:30"
+    },
+    {
+     "id": "MLB63904966",
+     "link_afiliado": "https://meli.la/2S6iybk",
+     "titulo": "Kit 10 Potes de Vidro Herméticos Vai ao Forno e Micro-ondas 640ml",
+     "de": 188.1,
+     "por": 94.9,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_895409-MLA117834564002_102026-O.webp",
+     "categoria": "Achados",
+     "slot": "17:00"
+    },
+    {
+     "id": "MLB78748305",
+     "link_afiliado": "https://meli.la/2xS9SRk",
+     "titulo": "Frigideira Antiaderente Cerâmica Granito 24cm com Espátula",
+     "de": 78.9,
+     "por": 41.0,
+     "rating": 4.8,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_841178-MLA116991547363_082026-O.webp",
+     "categoria": "Achados",
+     "slot": "17:30"
+    },
+    {
+     "id": "MLB32675228",
+     "link_afiliado": "https://meli.la/1hdeqe4",
+     "titulo": "Jogo de Panelas Smart Plus Vanilla Indução Cerâmico 5 Peças Brinox",
+     "de": 869.99,
+     "por": 347.13,
+     "rating": 4.9,
+     "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_613832-MLA115392564655_072026-O.webp",
+     "categoria": "Achados",
+     "slot": "18:00"
     }
    ],
-   "pronto": false
+   "pronto": true
   }
  },
- "completo": false
+ "completo": true
 }
